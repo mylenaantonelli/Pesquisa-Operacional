@@ -1,0 +1,2822 @@
+---------------------------------------- 
+---------------------------------------- 
+INSTANCIA: c101.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c101.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2590.52
+Iter 1: Melhor = 2376.23
+Iter 4: Melhor = 2238.52
+Iter 6: Melhor = 2207.66
+Iter 7: Melhor = 2163.3
+Iter 9: Melhor = 2132.57
+Iter 10: Melhor = 2105.92
+Iter 11: Melhor = 1851.27
+Iter 13: Melhor = 1834.37
+Iter 17: Melhor = 1797.25
+Iter 18: Melhor = 1751.51
+Iter 20: Melhor = 1585.25
+Iter 27: Melhor = 1479.76
+Iter 29: Melhor = 1414.65
+Iter 37: Melhor = 1361.73
+Iter 39: Melhor = 1345.13
+Iter 43: Melhor = 1282.9
+Iter 45: Melhor = 1232.62
+Iter 63: Melhor = 1229.85
+Iter 76: Melhor = 1200.94
+Iter 84: Melhor = 1192.95
+Iter 86: Melhor = 1161.14
+
+=== RESULTADO FINAL ===
+Custo Total: 1161.14
+Veiculos Usados: 13
+Tempo: 0.23 s
+Rota 1: 0 -> 5 -> 3 -> 7 -> 8 -> 11 -> 14 -> 12 -> 2 -> 1 -> 75 -> 0
+Rota 2: 0 -> 43 -> 40 -> 44 -> 45 -> 48 -> 51 -> 50 -> 52 -> 49 -> 47 -> 0
+Rota 3: 0 -> 10 -> 9 -> 6 -> 4 -> 91 -> 21 -> 0
+Rota 4: 0 -> 74 -> 84 -> 85 -> 88 -> 89 -> 66 -> 69 -> 0
+Rota 5: 0 -> 20 -> 24 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 22 -> 0
+Rota 6: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 34 -> 0
+Rota 7: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 8: 0 -> 67 -> 65 -> 63 -> 62 -> 72 -> 61 -> 64 -> 68 -> 0
+Rota 9: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 77 -> 79 -> 80 -> 0
+Rota 10: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 11: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 0
+Rota 12: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 0
+Rota 13: 0 -> 42 -> 41 -> 46 -> 0
+---------------------------------------- 
+INSTANCIA: c102.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c102.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2329.18
+Iter 1: Melhor = 2255.1
+Iter 3: Melhor = 2244.96
+Iter 4: Melhor = 2200.13
+Iter 5: Melhor = 2195.58
+Iter 6: Melhor = 1994.4
+Iter 11: Melhor = 1926.19
+Iter 13: Melhor = 1915.14
+Iter 14: Melhor = 1856.02
+Iter 17: Melhor = 1735.27
+Iter 20: Melhor = 1622.96
+Iter 22: Melhor = 1600.09
+Iter 24: Melhor = 1593.68
+Iter 25: Melhor = 1459.99
+Iter 30: Melhor = 1454.31
+Iter 32: Melhor = 1412.26
+Iter 41: Melhor = 1367.7
+Iter 59: Melhor = 1334.78
+Iter 82: Melhor = 1243.65
+
+=== RESULTADO FINAL ===
+Custo Total: 1243.65
+Veiculos Usados: 13
+Tempo: 0.24 s
+Rota 1: 0 -> 24 -> 25 -> 27 -> 28 -> 26 -> 23 -> 22 -> 21 -> 3 -> 5 -> 0
+Rota 2: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 61 -> 64 -> 68 -> 66 -> 69 -> 72 -> 0
+Rota 3: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 99 -> 0
+Rota 4: 0 -> 47 -> 0
+Rota 5: 0 -> 29 -> 30 -> 39 -> 36 -> 34 -> 37 -> 31 -> 48 -> 0
+Rota 6: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 7: 0 -> 90 -> 87 -> 86 -> 92 -> 93 -> 97 -> 100 -> 95 -> 96 -> 94 -> 0
+Rota 8: 0 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 7 -> 1 -> 75 -> 2 -> 0
+Rota 9: 0 -> 20 -> 44 -> 46 -> 45 -> 51 -> 50 -> 49 -> 52 -> 0
+Rota 10: 0 -> 43 -> 42 -> 41 -> 40 -> 84 -> 88 -> 89 -> 85 -> 91 -> 98 -> 0
+Rota 11: 0 -> 83 -> 82 -> 80 -> 0
+Rota 12: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 0
+Rota 13: 0 -> 32 -> 33 -> 35 -> 38 -> 0
+---------------------------------------- 
+INSTANCIA: c103.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c103.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2306.93
+Iter 2: Melhor = 2232
+Iter 3: Melhor = 2079.76
+Iter 6: Melhor = 2049.25
+Iter 7: Melhor = 2038.82
+Iter 8: Melhor = 1995.19
+Iter 9: Melhor = 1923.29
+Iter 13: Melhor = 1892.87
+Iter 14: Melhor = 1890.53
+Iter 16: Melhor = 1888.86
+Iter 17: Melhor = 1834.02
+Iter 18: Melhor = 1768.1
+Iter 19: Melhor = 1730.73
+Iter 20: Melhor = 1728.48
+Iter 21: Melhor = 1664.03
+Iter 24: Melhor = 1533.25
+Iter 28: Melhor = 1513.44
+Iter 38: Melhor = 1494.96
+Iter 40: Melhor = 1475.97
+Iter 51: Melhor = 1437.87
+Iter 54: Melhor = 1391.2
+Iter 64: Melhor = 1365.1
+Iter 72: Melhor = 1336.58
+Iter 75: Melhor = 1318.04
+Iter 82: Melhor = 1296.12
+
+=== RESULTADO FINAL ===
+Custo Total: 1296.12
+Veiculos Usados: 14
+Tempo: 0.25 s
+Rota 1: 0 -> 25 -> 27 -> 30 -> 28 -> 26 -> 22 -> 20 -> 21 -> 24 -> 0
+Rota 2: 0 -> 13 -> 17 -> 15 -> 16 -> 14 -> 12 -> 18 -> 19 -> 29 -> 0
+Rota 3: 0 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 91 -> 0
+Rota 4: 0 -> 67 -> 65 -> 63 -> 69 -> 72 -> 61 -> 0
+Rota 5: 0 -> 52 -> 49 -> 47 -> 0
+Rota 6: 0 -> 90 -> 89 -> 82 -> 83 -> 84 -> 88 -> 85 -> 86 -> 97 -> 94 -> 0
+Rota 7: 0 -> 62 -> 74 -> 64 -> 68 -> 73 -> 71 -> 81 -> 0
+Rota 8: 0 -> 42 -> 41 -> 40 -> 44 -> 45 -> 48 -> 46 -> 43 -> 51 -> 50 -> 0
+Rota 9: 0 -> 87 -> 92 -> 93 -> 100 -> 99 -> 96 -> 95 -> 98 -> 0
+Rota 10: 0 -> 7 -> 5 -> 3 -> 23 -> 32 -> 31 -> 37 -> 0
+Rota 11: 0 -> 55 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 54 -> 0
+Rota 12: 0 -> 33 -> 35 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 13: 0 -> 78 -> 76 -> 70 -> 77 -> 79 -> 80 -> 0
+Rota 14: 0 -> 66 -> 0
+---------------------------------------- 
+INSTANCIA: c104.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c104.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1738.84
+Iter 1: Melhor = 1669.05
+Iter 7: Melhor = 1662.38
+Iter 9: Melhor = 1636.37
+Iter 11: Melhor = 1621.45
+Iter 12: Melhor = 1601.32
+Iter 15: Melhor = 1592.92
+Iter 18: Melhor = 1579.83
+Iter 19: Melhor = 1532.75
+Iter 20: Melhor = 1420.94
+Iter 31: Melhor = 1348.45
+Iter 48: Melhor = 1339.49
+Iter 67: Melhor = 1330.46
+Iter 82: Melhor = 1277.09
+
+=== RESULTADO FINAL ===
+Custo Total: 1277.09
+Veiculos Usados: 12
+Tempo: 0.25 s
+Rota 1: 0 -> 8 -> 2 -> 75 -> 79 -> 81 -> 78 -> 90 -> 91 -> 0
+Rota 2: 0 -> 21 -> 20 -> 43 -> 42 -> 41 -> 40 -> 45 -> 46 -> 47 -> 49 -> 52 -> 50 -> 0
+Rota 3: 0 -> 13 -> 15 -> 12 -> 14 -> 16 -> 19 -> 18 -> 17 -> 30 -> 0
+Rota 4: 0 -> 67 -> 65 -> 63 -> 74 -> 72 -> 68 -> 66 -> 69 -> 61 -> 64 -> 0
+Rota 5: 0 -> 10 -> 11 -> 9 -> 6 -> 4 -> 7 -> 3 -> 5 -> 1 -> 0
+Rota 6: 0 -> 62 -> 84 -> 85 -> 88 -> 89 -> 86 -> 83 -> 82 -> 0
+Rota 7: 0 -> 44 -> 48 -> 51 -> 36 -> 39 -> 37 -> 33 -> 32 -> 0
+Rota 8: 0 -> 87 -> 93 -> 92 -> 94 -> 100 -> 99 -> 96 -> 97 -> 95 -> 0
+Rota 9: 0 -> 25 -> 24 -> 29 -> 27 -> 28 -> 26 -> 23 -> 22 -> 34 -> 31 -> 0
+Rota 10: 0 -> 76 -> 77 -> 73 -> 80 -> 71 -> 70 -> 98 -> 0
+Rota 11: 0 -> 55 -> 53 -> 58 -> 56 -> 60 -> 54 -> 57 -> 59 -> 0
+Rota 12: 0 -> 38 -> 35 -> 0
+---------------------------------------- 
+INSTANCIA: c105.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c105.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2549.97
+Iter 1: Melhor = 2395.82
+Iter 2: Melhor = 2370.5
+Iter 4: Melhor = 2339.29
+Iter 5: Melhor = 2260.25
+Iter 7: Melhor = 2183.41
+Iter 8: Melhor = 2117.71
+Iter 9: Melhor = 2084.65
+Iter 10: Melhor = 2083.52
+Iter 11: Melhor = 1909.48
+Iter 12: Melhor = 1832.42
+Iter 13: Melhor = 1782.61
+Iter 16: Melhor = 1653.66
+Iter 18: Melhor = 1616.14
+Iter 24: Melhor = 1410.08
+Iter 44: Melhor = 1395.13
+Iter 54: Melhor = 1335.41
+Iter 63: Melhor = 1258.38
+Iter 86: Melhor = 1254.12
+Iter 87: Melhor = 1160.55
+Iter 92: Melhor = 1098
+
+=== RESULTADO FINAL ===
+Custo Total: 1098.00
+Veiculos Usados: 12
+Tempo: 0.23 s
+Rota 1: 0 -> 42 -> 43 -> 41 -> 40 -> 44 -> 45 -> 48 -> 51 -> 50 -> 52 -> 47 -> 49 -> 0
+Rota 2: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 3: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 75 -> 0
+Rota 4: 0 -> 27 -> 29 -> 30 -> 68 -> 66 -> 69 -> 0
+Rota 5: 0 -> 20 -> 24 -> 25 -> 28 -> 26 -> 23 -> 22 -> 21 -> 0
+Rota 6: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 80 -> 1 -> 0
+Rota 7: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 91 -> 0
+Rota 8: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 9: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 0
+Rota 10: 0 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 11: 0 -> 78 -> 81 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 0
+Rota 12: 0 -> 13 -> 46 -> 0
+---------------------------------------- 
+INSTANCIA: c106.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c106.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2383.03
+Iter 1: Melhor = 2175.66
+Iter 4: Melhor = 2145.92
+Iter 6: Melhor = 2126.27
+Iter 7: Melhor = 2089.31
+Iter 9: Melhor = 2056.39
+Iter 10: Melhor = 2041.68
+Iter 12: Melhor = 1981.18
+Iter 14: Melhor = 1501.78
+Iter 23: Melhor = 1487.86
+Iter 24: Melhor = 1446.75
+Iter 27: Melhor = 1435.47
+Iter 35: Melhor = 1284.15
+Iter 37: Melhor = 1245.94
+Iter 82: Melhor = 1221.21
+
+=== RESULTADO FINAL ===
+Custo Total: 1221.21
+Veiculos Usados: 14
+Tempo: 0.23 s
+Rota 1: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 75 -> 49 -> 0
+Rota 2: 0 -> 52 -> 47 -> 0
+Rota 3: 0 -> 25 -> 27 -> 30 -> 28 -> 26 -> 23 -> 21 -> 0
+Rota 4: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 68 -> 66 -> 69 -> 0
+Rota 5: 0 -> 20 -> 24 -> 29 -> 34 -> 50 -> 1 -> 0
+Rota 6: 0 -> 42 -> 43 -> 41 -> 40 -> 44 -> 46 -> 45 -> 48 -> 51 -> 22 -> 0
+Rota 7: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 99 -> 0
+Rota 8: 0 -> 98 -> 95 -> 96 -> 94 -> 93 -> 92 -> 97 -> 100 -> 91 -> 0
+Rota 9: 0 -> 55 -> 57 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 10: 0 -> 90 -> 86 -> 87 -> 85 -> 88 -> 89 -> 0
+Rota 11: 0 -> 16 -> 14 -> 12 -> 0
+Rota 12: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 0
+Rota 13: 0 -> 83 -> 82 -> 84 -> 0
+Rota 14: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 0
+---------------------------------------- 
+INSTANCIA: c107.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c107.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2705.48
+Iter 1: Melhor = 2419.87
+Iter 4: Melhor = 2249.58
+Iter 7: Melhor = 2136.8
+Iter 11: Melhor = 2070.45
+Iter 12: Melhor = 2028.06
+Iter 13: Melhor = 1928.96
+Iter 14: Melhor = 1896.57
+Iter 16: Melhor = 1782.19
+Iter 19: Melhor = 1722.6
+Iter 25: Melhor = 1607.31
+Iter 27: Melhor = 1553.07
+Iter 34: Melhor = 1505.68
+Iter 43: Melhor = 1460.42
+Iter 44: Melhor = 1392.9
+Iter 61: Melhor = 1340.47
+Iter 66: Melhor = 1275.23
+
+=== RESULTADO FINAL ===
+Custo Total: 1275.23
+Veiculos Usados: 13
+Tempo: 0.23 s
+Rota 1: 0 -> 20 -> 24 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 22 -> 21 -> 49 -> 0
+Rota 2: 0 -> 43 -> 42 -> 46 -> 48 -> 51 -> 50 -> 52 -> 47 -> 75 -> 0
+Rota 3: 0 -> 90 -> 87 -> 86 -> 84 -> 85 -> 88 -> 89 -> 91 -> 66 -> 69 -> 0
+Rota 4: 0 -> 3 -> 5 -> 7 -> 8 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 0
+Rota 5: 0 -> 65 -> 67 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 68 -> 0
+Rota 6: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 7: 0 -> 78 -> 81 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
+Rota 8: 0 -> 17 -> 13 -> 18 -> 15 -> 16 -> 14 -> 12 -> 100 -> 0
+Rota 9: 0 -> 10 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 10: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 99 -> 0
+Rota 11: 0 -> 41 -> 40 -> 44 -> 45 -> 0
+Rota 12: 0 -> 57 -> 55 -> 54 -> 53 -> 82 -> 0
+Rota 13: 0 -> 19 -> 83 -> 0
+---------------------------------------- 
+INSTANCIA: c108.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c108.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2332.56
+Iter 1: Melhor = 2111.63
+Iter 3: Melhor = 1893.94
+Iter 6: Melhor = 1821.01
+Iter 9: Melhor = 1700.16
+Iter 10: Melhor = 1691.69
+Iter 14: Melhor = 1668.73
+Iter 20: Melhor = 1607.35
+Iter 21: Melhor = 1605.13
+Iter 22: Melhor = 1560.87
+Iter 23: Melhor = 1494.11
+Iter 25: Melhor = 1447.52
+Iter 36: Melhor = 1436.56
+Iter 41: Melhor = 1356.76
+Iter 45: Melhor = 1227.53
+Iter 53: Melhor = 1039.21
+Iter 73: Melhor = 1026.15
+Iter 91: Melhor = 973.209
+
+=== RESULTADO FINAL ===
+Custo Total: 973.21
+Veiculos Usados: 10
+Tempo: 0.23 s
+Rota 1: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 0
+Rota 2: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 69 -> 47 -> 0
+Rota 3: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 45 -> 46 -> 50 -> 51 -> 66 -> 49 -> 0
+Rota 4: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 68 -> 64 -> 59 -> 52 -> 0
+Rota 5: 0 -> 20 -> 24 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 22 -> 21 -> 0
+Rota 6: 0 -> 81 -> 78 -> 76 -> 70 -> 71 -> 73 -> 79 -> 77 -> 80 -> 0
+Rota 7: 0 -> 96 -> 95 -> 98 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 8: 0 -> 33 -> 32 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 9: 0 -> 13 -> 17 -> 18 -> 15 -> 19 -> 16 -> 14 -> 12 -> 0
+Rota 10: 0 -> 55 -> 57 -> 54 -> 53 -> 56 -> 58 -> 60 -> 48 -> 0
+---------------------------------------- 
+INSTANCIA: c109.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c109.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2088.71
+Iter 1: Melhor = 2013.15
+Iter 2: Melhor = 1932.98
+Iter 5: Melhor = 1902.45
+Iter 7: Melhor = 1826.45
+Iter 11: Melhor = 1789.84
+Iter 14: Melhor = 1697.15
+Iter 17: Melhor = 1664.51
+Iter 20: Melhor = 1571.84
+Iter 23: Melhor = 1478.93
+Iter 37: Melhor = 1399.81
+Iter 45: Melhor = 1329.48
+Iter 56: Melhor = 1288.77
+Iter 62: Melhor = 1278.19
+Iter 63: Melhor = 1240.6
+Iter 65: Melhor = 1113.62
+Iter 66: Melhor = 1099.74
+
+=== RESULTADO FINAL ===
+Custo Total: 1099.74
+Veiculos Usados: 11
+Tempo: 0.23 s
+Rota 1: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 2: 0 -> 81 -> 78 -> 76 -> 71 -> 73 -> 70 -> 77 -> 79 -> 80 -> 89 -> 91 -> 75 -> 0
+Rota 3: 0 -> 63 -> 65 -> 67 -> 74 -> 62 -> 72 -> 64 -> 61 -> 68 -> 66 -> 69 -> 0
+Rota 4: 0 -> 7 -> 5 -> 3 -> 8 -> 11 -> 10 -> 9 -> 2 -> 1 -> 99 -> 22 -> 21 -> 0
+Rota 5: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 6: 0 -> 96 -> 95 -> 98 -> 92 -> 93 -> 97 -> 100 -> 6 -> 4 -> 0
+Rota 7: 0 -> 20 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 51 -> 50 -> 49 -> 47 -> 0
+Rota 8: 0 -> 24 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 9: 0 -> 94 -> 82 -> 83 -> 84 -> 85 -> 88 -> 48 -> 52 -> 0
+Rota 10: 0 -> 43 -> 41 -> 40 -> 42 -> 44 -> 46 -> 45 -> 0
+Rota 11: 0 -> 90 -> 86 -> 87 -> 0
+---------------------------------------- 
+INSTANCIA: c201.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c201.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2100.92
+Iter 3: Melhor = 2072.56
+Iter 4: Melhor = 1966.19
+Iter 6: Melhor = 1670.34
+Iter 21: Melhor = 1523.01
+Iter 23: Melhor = 1493.53
+Iter 24: Melhor = 1329.94
+Iter 25: Melhor = 1301.57
+Iter 28: Melhor = 1252.1
+Iter 29: Melhor = 1171.09
+Iter 32: Melhor = 1127.44
+Iter 33: Melhor = 1097.55
+Iter 34: Melhor = 1021.84
+Iter 35: Melhor = 995.843
+Iter 38: Melhor = 961.121
+Iter 41: Melhor = 922.942
+Iter 44: Melhor = 922.028
+Iter 46: Melhor = 917.96
+Iter 50: Melhor = 894.636
+Iter 68: Melhor = 885.532
+
+=== RESULTADO FINAL ===
+Custo Total: 885.53
+Veiculos Usados: 6
+Tempo: 0.21 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 4 -> 89 -> 91 -> 88 -> 86 -> 83 -> 82 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 87 -> 90 -> 0
+Rota 2: 0 -> 20 -> 22 -> 27 -> 30 -> 26 -> 18 -> 17 -> 13 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 96 -> 0
+Rota 3: 0 -> 72 -> 61 -> 64 -> 65 -> 53 -> 51 -> 52 -> 43 -> 42 -> 41 -> 48 -> 0
+Rota 4: 0 -> 62 -> 66 -> 69 -> 68 -> 49 -> 55 -> 54 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 50 -> 47 -> 0
+Rota 5: 0 -> 24 -> 29 -> 6 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 28 -> 23 -> 19 -> 16 -> 14 -> 12 -> 15 -> 0
+Rota 6: 0 -> 67 -> 63 -> 74 -> 3 -> 84 -> 0
+---------------------------------------- 
+INSTANCIA: c202.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c202.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2120.02
+Iter 5: Melhor = 2043.43
+Iter 6: Melhor = 2015.22
+Iter 7: Melhor = 1991.39
+Iter 8: Melhor = 1972.77
+Iter 11: Melhor = 1843.44
+Iter 12: Melhor = 1796.33
+Iter 13: Melhor = 1618.03
+Iter 18: Melhor = 1615.24
+Iter 22: Melhor = 1489.8
+Iter 24: Melhor = 1339.26
+Iter 30: Melhor = 1319.02
+Iter 32: Melhor = 1284.02
+Iter 34: Melhor = 1258.9
+Iter 39: Melhor = 1205.34
+Iter 40: Melhor = 1177.5
+Iter 42: Melhor = 1126.15
+Iter 50: Melhor = 1029.97
+
+=== RESULTADO FINAL ===
+Custo Total: 1029.97
+Veiculos Usados: 6
+Tempo: 0.22 s
+Rota 1: 0 -> 67 -> 63 -> 62 -> 74 -> 61 -> 64 -> 72 -> 69 -> 68 -> 65 -> 49 -> 55 -> 54 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 50 -> 51 -> 47 -> 43 -> 42 -> 41 -> 48 -> 52 -> 34 -> 37 -> 31 -> 0
+Rota 2: 0 -> 22 -> 20 -> 24 -> 27 -> 29 -> 6 -> 32 -> 33 -> 35 -> 38 -> 39 -> 36 -> 28 -> 26 -> 23 -> 18 -> 19 -> 16 -> 14 -> 15 -> 12 -> 13 -> 25 -> 9 -> 11 -> 10 -> 2 -> 75 -> 5 -> 21 -> 0
+Rota 3: 0 -> 66 -> 53 -> 80 -> 79 -> 81 -> 78 -> 77 -> 96 -> 87 -> 90 -> 0
+Rota 4: 0 -> 93 -> 89 -> 88 -> 84 -> 86 -> 76 -> 71 -> 70 -> 73 -> 85 -> 82 -> 83 -> 3 -> 98 -> 94 -> 95 -> 7 -> 0
+Rota 5: 0 -> 30 -> 99 -> 100 -> 97 -> 92 -> 4 -> 91 -> 1 -> 8 -> 0
+Rota 6: 0 -> 17 -> 0
+---------------------------------------- 
+INSTANCIA: c203.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c203.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2067.58
+Iter 1: Melhor = 1959.87
+Iter 2: Melhor = 1911.14
+Iter 4: Melhor = 1829.76
+Iter 6: Melhor = 1732.31
+Iter 9: Melhor = 1693.13
+Iter 11: Melhor = 1648.34
+Iter 15: Melhor = 1644.13
+Iter 16: Melhor = 1573.34
+Iter 20: Melhor = 1535.35
+Iter 25: Melhor = 1380.86
+Iter 33: Melhor = 1363.64
+Iter 34: Melhor = 1243.17
+Iter 44: Melhor = 1224.29
+Iter 45: Melhor = 1199.94
+Iter 49: Melhor = 1170.39
+Iter 59: Melhor = 1151.58
+Iter 62: Melhor = 1149.68
+Iter 67: Melhor = 1146.49
+Iter 77: Melhor = 1118.91
+Iter 79: Melhor = 1114.98
+Iter 84: Melhor = 1055.25
+
+=== RESULTADO FINAL ===
+Custo Total: 1055.25
+Veiculos Usados: 5
+Tempo: 0.23 s
+Rota 1: 0 -> 22 -> 27 -> 30 -> 6 -> 33 -> 32 -> 31 -> 35 -> 38 -> 39 -> 36 -> 34 -> 28 -> 26 -> 23 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 20 -> 24 -> 29 -> 0
+Rota 2: 0 -> 1 -> 98 -> 7 -> 3 -> 4 -> 89 -> 91 -> 88 -> 84 -> 82 -> 83 -> 86 -> 90 -> 42 -> 41 -> 43 -> 50 -> 52 -> 51 -> 61 -> 0
+Rota 3: 0 -> 67 -> 63 -> 66 -> 69 -> 68 -> 65 -> 55 -> 57 -> 40 -> 44 -> 46 -> 72 -> 73 -> 70 -> 71 -> 79 -> 78 -> 85 -> 77 -> 87 -> 96 -> 0
+Rota 4: 0 -> 93 -> 5 -> 75 -> 2 -> 99 -> 100 -> 92 -> 94 -> 95 -> 97 -> 15 -> 17 -> 13 -> 12 -> 14 -> 16 -> 18 -> 19 -> 37 -> 48 -> 47 -> 0
+Rota 5: 0 -> 62 -> 74 -> 64 -> 49 -> 53 -> 56 -> 58 -> 60 -> 59 -> 54 -> 45 -> 76 -> 80 -> 81 -> 0
+---------------------------------------- 
+INSTANCIA: c204.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c204.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1958.23
+Iter 1: Melhor = 1874.33
+Iter 2: Melhor = 1832.24
+Iter 3: Melhor = 1804.28
+Iter 4: Melhor = 1794.18
+Iter 5: Melhor = 1689.79
+Iter 6: Melhor = 1570.58
+Iter 7: Melhor = 1518
+Iter 8: Melhor = 1456.68
+Iter 11: Melhor = 1435.37
+Iter 14: Melhor = 1423.49
+Iter 17: Melhor = 1348.17
+Iter 19: Melhor = 1311.5
+Iter 21: Melhor = 1307.82
+Iter 23: Melhor = 1262.27
+Iter 30: Melhor = 1261.62
+Iter 31: Melhor = 1193.76
+Iter 46: Melhor = 1157.13
+Iter 55: Melhor = 1073.58
+
+=== RESULTADO FINAL ===
+Custo Total: 1073.58
+Veiculos Usados: 6
+Tempo: 0.24 s
+Rota 1: 0 -> 67 -> 63 -> 66 -> 69 -> 64 -> 72 -> 49 -> 6 -> 32 -> 33 -> 35 -> 31 -> 30 -> 29 -> 27 -> 24 -> 20 -> 22 -> 21 -> 8 -> 10 -> 5 -> 75 -> 2 -> 0
+Rota 2: 0 -> 93 -> 11 -> 98 -> 1 -> 86 -> 90 -> 88 -> 0
+Rota 3: 0 -> 38 -> 37 -> 39 -> 28 -> 34 -> 36 -> 26 -> 23 -> 15 -> 13 -> 17 -> 18 -> 19 -> 16 -> 14 -> 12 -> 89 -> 91 -> 0
+Rota 4: 0 -> 62 -> 74 -> 55 -> 53 -> 58 -> 56 -> 60 -> 59 -> 54 -> 57 -> 40 -> 65 -> 68 -> 46 -> 41 -> 42 -> 43 -> 52 -> 50 -> 51 -> 45 -> 47 -> 48 -> 61 -> 0
+Rota 5: 0 -> 99 -> 100 -> 92 -> 94 -> 95 -> 97 -> 3 -> 7 -> 4 -> 84 -> 83 -> 82 -> 78 -> 81 -> 76 -> 71 -> 70 -> 73 -> 79 -> 80 -> 77 -> 85 -> 87 -> 96 -> 0
+Rota 6: 0 -> 44 -> 25 -> 9 -> 0
+---------------------------------------- 
+INSTANCIA: c205.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c205.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1899.98
+Iter 1: Melhor = 1697.49
+Iter 3: Melhor = 1595.39
+Iter 6: Melhor = 1420.97
+Iter 15: Melhor = 1368.37
+Iter 18: Melhor = 1339.46
+Iter 20: Melhor = 1232.52
+Iter 21: Melhor = 1127
+Iter 25: Melhor = 976.038
+Iter 29: Melhor = 968.756
+Iter 30: Melhor = 858.396
+Iter 32: Melhor = 846.26
+Iter 35: Melhor = 811.451
+Iter 40: Melhor = 811.043
+Iter 53: Melhor = 800.71
+Iter 56: Melhor = 784.281
+Iter 61: Melhor = 773.89
+Iter 62: Melhor = 758.125
+Iter 71: Melhor = 746.686
+Iter 81: Melhor = 742.508
+Iter 82: Melhor = 741.872
+
+=== RESULTADO FINAL ===
+Custo Total: 741.87
+Veiculos Usados: 4
+Tempo: 0.21 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 3 -> 7 -> 89 -> 4 -> 91 -> 88 -> 84 -> 83 -> 82 -> 85 -> 71 -> 70 -> 76 -> 80 -> 79 -> 73 -> 81 -> 78 -> 77 -> 96 -> 87 -> 90 -> 0
+Rota 2: 0 -> 20 -> 22 -> 24 -> 27 -> 30 -> 29 -> 6 -> 33 -> 32 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 26 -> 28 -> 23 -> 18 -> 19 -> 17 -> 25 -> 9 -> 10 -> 11 -> 8 -> 21 -> 0
+Rota 3: 0 -> 67 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 69 -> 66 -> 68 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 57 -> 59 -> 40 -> 44 -> 46 -> 45 -> 50 -> 51 -> 52 -> 47 -> 43 -> 42 -> 41 -> 48 -> 0
+Rota 4: 0 -> 86 -> 14 -> 16 -> 12 -> 15 -> 13 -> 0
+---------------------------------------- 
+INSTANCIA: c206.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c206.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1672.05
+Iter 3: Melhor = 1640.83
+Iter 4: Melhor = 1634.27
+Iter 5: Melhor = 1479.65
+Iter 9: Melhor = 1410.32
+Iter 11: Melhor = 1309.88
+Iter 14: Melhor = 1273.16
+Iter 15: Melhor = 1257.34
+Iter 16: Melhor = 1233.9
+Iter 19: Melhor = 1205.54
+Iter 21: Melhor = 1099.71
+Iter 24: Melhor = 1083.87
+Iter 26: Melhor = 989.95
+Iter 31: Melhor = 988.277
+Iter 33: Melhor = 931.905
+Iter 37: Melhor = 904.892
+Iter 41: Melhor = 896.048
+Iter 42: Melhor = 837.471
+Iter 43: Melhor = 786.045
+Iter 47: Melhor = 754.72
+Iter 54: Melhor = 742.775
+Iter 55: Melhor = 719.896
+Iter 95: Melhor = 717.651
+Iter 96: Melhor = 689.001
+
+=== RESULTADO FINAL ===
+Custo Total: 689.00
+Veiculos Usados: 4
+Tempo: 0.21 s
+Rota 1: 0 -> 93 -> 75 -> 5 -> 2 -> 1 -> 99 -> 100 -> 97 -> 95 -> 94 -> 92 -> 98 -> 7 -> 4 -> 3 -> 89 -> 91 -> 88 -> 86 -> 84 -> 83 -> 82 -> 85 -> 71 -> 76 -> 73 -> 70 -> 79 -> 81 -> 80 -> 78 -> 77 -> 87 -> 96 -> 0
+Rota 2: 0 -> 20 -> 22 -> 24 -> 27 -> 29 -> 30 -> 6 -> 32 -> 33 -> 31 -> 35 -> 38 -> 37 -> 39 -> 36 -> 34 -> 28 -> 26 -> 23 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 13 -> 17 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 90 -> 0
+Rota 3: 0 -> 62 -> 74 -> 64 -> 61 -> 72 -> 66 -> 69 -> 68 -> 65 -> 49 -> 55 -> 54 -> 56 -> 53 -> 60 -> 58 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 51 -> 50 -> 52 -> 47 -> 42 -> 41 -> 43 -> 48 -> 0
+Rota 4: 0 -> 63 -> 67 -> 0
+---------------------------------------- 
+INSTANCIA: c207.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c207.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1761.96
+Iter 1: Melhor = 1653.26
+Iter 2: Melhor = 1516.03
+Iter 4: Melhor = 1496.45
+Iter 6: Melhor = 1371.11
+Iter 10: Melhor = 1370.44
+Iter 11: Melhor = 1292.3
+Iter 13: Melhor = 1244.03
+Iter 14: Melhor = 1068.28
+Iter 18: Melhor = 1059.69
+Iter 26: Melhor = 1031.27
+Iter 27: Melhor = 1024.86
+Iter 28: Melhor = 939.227
+Iter 33: Melhor = 912.176
+Iter 35: Melhor = 877.652
+Iter 43: Melhor = 823.287
+Iter 47: Melhor = 800.071
+Iter 56: Melhor = 791.972
+Iter 58: Melhor = 787.663
+Iter 60: Melhor = 766.09
+Iter 64: Melhor = 762.365
+Iter 71: Melhor = 713.406
+Iter 73: Melhor = 668.383
+Iter 84: Melhor = 664.374
+
+=== RESULTADO FINAL ===
+Custo Total: 664.37
+Veiculos Usados: 4
+Tempo: 0.22 s
+Rota 1: 0 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 94 -> 92 -> 95 -> 98 -> 7 -> 3 -> 4 -> 91 -> 88 -> 86 -> 84 -> 83 -> 82 -> 85 -> 76 -> 71 -> 70 -> 73 -> 79 -> 80 -> 81 -> 78 -> 77 -> 87 -> 96 -> 90 -> 0
+Rota 2: 0 -> 20 -> 22 -> 24 -> 27 -> 30 -> 29 -> 6 -> 32 -> 33 -> 31 -> 35 -> 34 -> 36 -> 39 -> 37 -> 38 -> 28 -> 26 -> 23 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 13 -> 17 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 48 -> 0
+Rota 3: 0 -> 67 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 69 -> 66 -> 68 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 51 -> 50 -> 52 -> 47 -> 43 -> 42 -> 41 -> 0
+Rota 4: 0 -> 93 -> 89 -> 0
+---------------------------------------- 
+INSTANCIA: c208.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: c208.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1718.83
+Iter 1: Melhor = 1582.6
+Iter 3: Melhor = 1570.94
+Iter 5: Melhor = 1546.75
+Iter 6: Melhor = 1438.49
+Iter 8: Melhor = 1325.83
+Iter 10: Melhor = 1300.78
+Iter 11: Melhor = 1221.48
+Iter 13: Melhor = 1184.09
+Iter 16: Melhor = 1144.87
+Iter 17: Melhor = 1074
+Iter 21: Melhor = 996.654
+Iter 24: Melhor = 923.148
+Iter 30: Melhor = 855.638
+Iter 32: Melhor = 813.391
+Iter 36: Melhor = 811.592
+Iter 37: Melhor = 806.949
+Iter 38: Melhor = 747.826
+Iter 40: Melhor = 742.307
+Iter 44: Melhor = 736.917
+Iter 46: Melhor = 736.139
+Iter 50: Melhor = 735.087
+Iter 55: Melhor = 723.459
+Iter 57: Melhor = 693.537
+Iter 59: Melhor = 685.972
+Iter 60: Melhor = 683.908
+Iter 61: Melhor = 653.853
+Iter 62: Melhor = 644.34
+Iter 67: Melhor = 640.396
+
+=== RESULTADO FINAL ===
+Custo Total: 640.40
+Veiculos Usados: 3
+Tempo: 0.22 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 3 -> 4 -> 7 -> 89 -> 91 -> 88 -> 86 -> 84 -> 83 -> 82 -> 85 -> 71 -> 70 -> 73 -> 76 -> 81 -> 79 -> 80 -> 78 -> 77 -> 87 -> 96 -> 0
+Rota 2: 0 -> 20 -> 22 -> 24 -> 27 -> 30 -> 29 -> 6 -> 32 -> 33 -> 35 -> 31 -> 34 -> 36 -> 37 -> 38 -> 39 -> 28 -> 26 -> 23 -> 18 -> 19 -> 16 -> 14 -> 12 -> 15 -> 13 -> 17 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 90 -> 0
+Rota 3: 0 -> 67 -> 63 -> 62 -> 74 -> 72 -> 64 -> 61 -> 66 -> 69 -> 68 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 51 -> 50 -> 52 -> 47 -> 43 -> 41 -> 42 -> 48 -> 0
+---------------------------------------- 
+INSTANCIA: r101.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r101.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2925.76
+Iter 1: Melhor = 2689.95
+Iter 3: Melhor = 2686.47
+Iter 5: Melhor = 2665.99
+Iter 9: Melhor = 2630.7
+Iter 13: Melhor = 2591.11
+Iter 15: Melhor = 2548.71
+Iter 17: Melhor = 2522.05
+Iter 19: Melhor = 2504.18
+Iter 22: Melhor = 2379.95
+Iter 34: Melhor = 2296.04
+Iter 43: Melhor = 2266.01
+Iter 55: Melhor = 2224.72
+Iter 67: Melhor = 2216.03
+Iter 72: Melhor = 2101.87
+
+=== RESULTADO FINAL ===
+Custo Total: 2101.87
+Veiculos Usados: 27
+Tempo: 0.24 s
+Rota 1: 0 -> 27 -> 69 -> 1 -> 70 -> 0
+Rota 2: 0 -> 18 -> 60 -> 89 -> 58 -> 0
+Rota 3: 0 -> 6 -> 96 -> 93 -> 0
+Rota 4: 0 -> 16 -> 85 -> 37 -> 91 -> 100 -> 0
+Rota 5: 0 -> 28 -> 12 -> 54 -> 24 -> 80 -> 0
+Rota 6: 0 -> 65 -> 71 -> 9 -> 20 -> 32 -> 77 -> 0
+Rota 7: 0 -> 92 -> 95 -> 94 -> 97 -> 13 -> 0
+Rota 8: 0 -> 53 -> 26 -> 4 -> 25 -> 0
+Rota 9: 0 -> 36 -> 47 -> 19 -> 49 -> 48 -> 0
+Rota 10: 0 -> 40 -> 57 -> 43 -> 0
+Rota 11: 0 -> 2 -> 87 -> 74 -> 0
+Rota 12: 0 -> 76 -> 79 -> 3 -> 68 -> 0
+Rota 13: 0 -> 39 -> 75 -> 73 -> 22 -> 55 -> 0
+Rota 14: 0 -> 59 -> 98 -> 99 -> 84 -> 17 -> 0
+Rota 15: 0 -> 52 -> 88 -> 7 -> 10 -> 0
+Rota 16: 0 -> 62 -> 11 -> 90 -> 66 -> 0
+Rota 17: 0 -> 42 -> 15 -> 41 -> 56 -> 0
+Rota 18: 0 -> 45 -> 8 -> 46 -> 0
+Rota 19: 0 -> 5 -> 61 -> 86 -> 0
+Rota 20: 0 -> 72 -> 21 -> 50 -> 0
+Rota 21: 0 -> 51 -> 34 -> 35 -> 0
+Rota 22: 0 -> 83 -> 82 -> 0
+Rota 23: 0 -> 31 -> 30 -> 81 -> 0
+Rota 24: 0 -> 14 -> 44 -> 38 -> 0
+Rota 25: 0 -> 33 -> 29 -> 78 -> 0
+Rota 26: 0 -> 23 -> 67 -> 0
+Rota 27: 0 -> 63 -> 64 -> 0
+---------------------------------------- 
+INSTANCIA: r102.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r102.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2752.29
+Iter 1: Melhor = 2635.05
+Iter 3: Melhor = 2633.13
+Iter 4: Melhor = 2537.63
+Iter 6: Melhor = 2514.51
+Iter 9: Melhor = 2488.86
+Iter 11: Melhor = 2353.68
+Iter 13: Melhor = 2335.97
+Iter 17: Melhor = 2307.1
+Iter 21: Melhor = 2281.32
+Iter 22: Melhor = 2231.3
+Iter 29: Melhor = 2094.94
+
+=== RESULTADO FINAL ===
+Custo Total: 2094.94
+Veiculos Usados: 27
+Tempo: 0.25 s
+Rota 1: 0 -> 53 -> 26 -> 12 -> 80 -> 0
+Rota 2: 0 -> 28 -> 68 -> 77 -> 3 -> 0
+Rota 3: 0 -> 62 -> 11 -> 90 -> 10 -> 31 -> 70 -> 1 -> 0
+Rota 4: 0 -> 96 -> 93 -> 59 -> 0
+Rota 5: 0 -> 21 -> 72 -> 73 -> 41 -> 74 -> 75 -> 95 -> 0
+Rota 6: 0 -> 76 -> 79 -> 34 -> 35 -> 50 -> 52 -> 0
+Rota 7: 0 -> 39 -> 67 -> 55 -> 25 -> 0
+Rota 8: 0 -> 18 -> 4 -> 98 -> 0
+Rota 9: 0 -> 42 -> 87 -> 13 -> 2 -> 58 -> 0
+Rota 10: 0 -> 27 -> 69 -> 88 -> 7 -> 82 -> 48 -> 85 -> 91 -> 5 -> 0
+Rota 11: 0 -> 36 -> 47 -> 19 -> 8 -> 46 -> 17 -> 100 -> 37 -> 0
+Rota 12: 0 -> 45 -> 99 -> 89 -> 94 -> 0
+Rota 13: 0 -> 61 -> 84 -> 60 -> 83 -> 0
+Rota 14: 0 -> 16 -> 86 -> 43 -> 0
+Rota 15: 0 -> 30 -> 20 -> 32 -> 0
+Rota 16: 0 -> 63 -> 64 -> 49 -> 0
+Rota 17: 0 -> 40 -> 54 -> 24 -> 0
+Rota 18: 0 -> 92 -> 97 -> 0
+Rota 19: 0 -> 51 -> 9 -> 66 -> 0
+Rota 20: 0 -> 6 -> 0
+Rota 21: 0 -> 23 -> 56 -> 0
+Rota 22: 0 -> 15 -> 57 -> 0
+Rota 23: 0 -> 33 -> 81 -> 0
+Rota 24: 0 -> 29 -> 78 -> 0
+Rota 25: 0 -> 14 -> 44 -> 38 -> 0
+Rota 26: 0 -> 22 -> 0
+Rota 27: 0 -> 65 -> 71 -> 0
+---------------------------------------- 
+INSTANCIA: r103.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r103.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2415.38
+Iter 1: Melhor = 2382.36
+Iter 3: Melhor = 2148.99
+Iter 10: Melhor = 2013.3
+Iter 12: Melhor = 2001.39
+Iter 17: Melhor = 1948.12
+Iter 21: Melhor = 1946.92
+Iter 23: Melhor = 1931.78
+Iter 25: Melhor = 1845.48
+Iter 31: Melhor = 1843.74
+Iter 35: Melhor = 1804.72
+Iter 48: Melhor = 1781.15
+Iter 53: Melhor = 1768.17
+Iter 58: Melhor = 1747.96
+Iter 68: Melhor = 1694.88
+
+=== RESULTADO FINAL ===
+Custo Total: 1694.88
+Veiculos Usados: 21
+Tempo: 0.26 s
+Rota 1: 0 -> 58 -> 0
+Rota 2: 0 -> 27 -> 69 -> 88 -> 10 -> 90 -> 63 -> 32 -> 31 -> 0
+Rota 3: 0 -> 40 -> 26 -> 12 -> 80 -> 28 -> 0
+Rota 4: 0 -> 1 -> 51 -> 20 -> 30 -> 66 -> 71 -> 81 -> 50 -> 0
+Rota 5: 0 -> 53 -> 13 -> 97 -> 95 -> 96 -> 0
+Rota 6: 0 -> 2 -> 57 -> 43 -> 86 -> 16 -> 85 -> 91 -> 37 -> 98 -> 100 -> 59 -> 0
+Rota 7: 0 -> 76 -> 78 -> 34 -> 35 -> 70 -> 0
+Rota 8: 0 -> 62 -> 11 -> 19 -> 49 -> 47 -> 48 -> 82 -> 7 -> 52 -> 0
+Rota 9: 0 -> 89 -> 6 -> 94 -> 93 -> 0
+Rota 10: 0 -> 99 -> 84 -> 46 -> 5 -> 60 -> 83 -> 0
+Rota 11: 0 -> 36 -> 64 -> 17 -> 61 -> 0
+Rota 12: 0 -> 87 -> 55 -> 25 -> 54 -> 0
+Rota 13: 0 -> 68 -> 29 -> 24 -> 0
+Rota 14: 0 -> 79 -> 3 -> 77 -> 0
+Rota 15: 0 -> 41 -> 75 -> 74 -> 73 -> 72 -> 21 -> 0
+Rota 16: 0 -> 92 -> 44 -> 38 -> 14 -> 18 -> 0
+Rota 17: 0 -> 42 -> 15 -> 22 -> 56 -> 4 -> 0
+Rota 18: 0 -> 45 -> 8 -> 0
+Rota 19: 0 -> 65 -> 9 -> 0
+Rota 20: 0 -> 33 -> 0
+Rota 21: 0 -> 39 -> 23 -> 67 -> 0
+---------------------------------------- 
+INSTANCIA: r104.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r104.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1952.44
+Iter 2: Melhor = 1879.85
+Iter 5: Melhor = 1798.42
+Iter 8: Melhor = 1794.84
+Iter 11: Melhor = 1669.95
+Iter 16: Melhor = 1611.53
+Iter 23: Melhor = 1565.34
+Iter 28: Melhor = 1557.75
+Iter 32: Melhor = 1489.8
+Iter 46: Melhor = 1458.4
+Iter 55: Melhor = 1415.52
+Iter 59: Melhor = 1398.08
+Iter 81: Melhor = 1391.82
+
+=== RESULTADO FINAL ===
+Custo Total: 1391.82
+Veiculos Usados: 15
+Tempo: 0.26 s
+Rota 1: 0 -> 28 -> 50 -> 3 -> 79 -> 29 -> 24 -> 54 -> 12 -> 80 -> 68 -> 0
+Rota 2: 0 -> 53 -> 58 -> 0
+Rota 3: 0 -> 77 -> 1 -> 0
+Rota 4: 0 -> 89 -> 6 -> 99 -> 59 -> 94 -> 96 -> 95 -> 13 -> 26 -> 40 -> 0
+Rota 5: 0 -> 45 -> 8 -> 46 -> 47 -> 48 -> 31 -> 88 -> 0
+Rota 6: 0 -> 2 -> 41 -> 23 -> 67 -> 55 -> 4 -> 25 -> 0
+Rota 7: 0 -> 27 -> 52 -> 7 -> 82 -> 83 -> 18 -> 60 -> 5 -> 97 -> 37 -> 98 -> 93 -> 0
+Rota 8: 0 -> 76 -> 9 -> 51 -> 70 -> 10 -> 90 -> 0
+Rota 9: 0 -> 22 -> 75 -> 56 -> 39 -> 74 -> 72 -> 73 -> 21 -> 0
+Rota 10: 0 -> 92 -> 44 -> 38 -> 86 -> 16 -> 61 -> 85 -> 100 -> 0
+Rota 11: 0 -> 84 -> 91 -> 14 -> 43 -> 42 -> 0
+Rota 12: 0 -> 69 -> 30 -> 20 -> 66 -> 65 -> 71 -> 35 -> 0
+Rota 13: 0 -> 17 -> 36 -> 49 -> 19 -> 64 -> 63 -> 32 -> 0
+Rota 14: 0 -> 62 -> 11 -> 34 -> 78 -> 81 -> 33 -> 0
+Rota 15: 0 -> 57 -> 15 -> 87 -> 0
+---------------------------------------- 
+INSTANCIA: r105.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r105.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2572.38
+Iter 1: Melhor = 2327.96
+Iter 8: Melhor = 2242.67
+Iter 9: Melhor = 2231.84
+Iter 12: Melhor = 2159.62
+Iter 22: Melhor = 2157.53
+Iter 24: Melhor = 2153.17
+Iter 33: Melhor = 1962.43
+Iter 85: Melhor = 1943.1
+
+=== RESULTADO FINAL ===
+Custo Total: 1943.10
+Veiculos Usados: 22
+Tempo: 0.25 s
+Rota 1: 0 -> 28 -> 75 -> 23 -> 56 -> 4 -> 74 -> 80 -> 0
+Rota 2: 0 -> 27 -> 31 -> 88 -> 7 -> 18 -> 26 -> 13 -> 58 -> 0
+Rota 3: 0 -> 53 -> 40 -> 55 -> 24 -> 77 -> 0
+Rota 4: 0 -> 65 -> 71 -> 35 -> 70 -> 0
+Rota 5: 0 -> 92 -> 98 -> 85 -> 61 -> 84 -> 17 -> 60 -> 89 -> 0
+Rota 6: 0 -> 12 -> 76 -> 3 -> 68 -> 54 -> 25 -> 0
+Rota 7: 0 -> 29 -> 78 -> 79 -> 66 -> 1 -> 0
+Rota 8: 0 -> 5 -> 45 -> 16 -> 86 -> 93 -> 100 -> 0
+Rota 9: 0 -> 83 -> 8 -> 46 -> 32 -> 0
+Rota 10: 0 -> 95 -> 59 -> 99 -> 96 -> 37 -> 91 -> 0
+Rota 11: 0 -> 94 -> 6 -> 50 -> 0
+Rota 12: 0 -> 36 -> 47 -> 64 -> 10 -> 48 -> 0
+Rota 13: 0 -> 52 -> 69 -> 30 -> 51 -> 20 -> 0
+Rota 14: 0 -> 87 -> 97 -> 43 -> 0
+Rota 15: 0 -> 14 -> 44 -> 38 -> 57 -> 0
+Rota 16: 0 -> 33 -> 81 -> 9 -> 34 -> 0
+Rota 17: 0 -> 42 -> 2 -> 15 -> 41 -> 22 -> 0
+Rota 18: 0 -> 62 -> 11 -> 19 -> 49 -> 0
+Rota 19: 0 -> 72 -> 73 -> 21 -> 0
+Rota 20: 0 -> 39 -> 67 -> 0
+Rota 21: 0 -> 63 -> 90 -> 0
+Rota 22: 0 -> 82 -> 0
+---------------------------------------- 
+INSTANCIA: r106.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r106.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2327.87
+Iter 1: Melhor = 2273.76
+Iter 3: Melhor = 2250.15
+Iter 6: Melhor = 2221.89
+Iter 7: Melhor = 2212.31
+Iter 11: Melhor = 2137.23
+Iter 12: Melhor = 2091.68
+Iter 16: Melhor = 2057.38
+Iter 20: Melhor = 2045.43
+Iter 21: Melhor = 2019.67
+Iter 25: Melhor = 1981.06
+Iter 26: Melhor = 1910.46
+Iter 34: Melhor = 1906.17
+Iter 39: Melhor = 1764.41
+Iter 85: Melhor = 1739.5
+
+=== RESULTADO FINAL ===
+Custo Total: 1739.50
+Veiculos Usados: 21
+Tempo: 0.25 s
+Rota 1: 0 -> 53 -> 58 -> 94 -> 0
+Rota 2: 0 -> 27 -> 28 -> 76 -> 3 -> 68 -> 80 -> 12 -> 26 -> 0
+Rota 3: 0 -> 13 -> 98 -> 93 -> 96 -> 0
+Rota 4: 0 -> 6 -> 89 -> 52 -> 0
+Rota 5: 0 -> 2 -> 14 -> 16 -> 61 -> 84 -> 17 -> 60 -> 83 -> 0
+Rota 6: 0 -> 95 -> 59 -> 99 -> 91 -> 85 -> 37 -> 100 -> 5 -> 0
+Rota 7: 0 -> 30 -> 10 -> 20 -> 70 -> 1 -> 50 -> 0
+Rota 8: 0 -> 18 -> 8 -> 46 -> 48 -> 82 -> 7 -> 31 -> 0
+Rota 9: 0 -> 33 -> 65 -> 71 -> 66 -> 35 -> 34 -> 77 -> 0
+Rota 10: 0 -> 54 -> 4 -> 72 -> 21 -> 0
+Rota 11: 0 -> 92 -> 42 -> 15 -> 41 -> 56 -> 55 -> 25 -> 75 -> 0
+Rota 12: 0 -> 29 -> 24 -> 0
+Rota 13: 0 -> 69 -> 88 -> 19 -> 49 -> 32 -> 0
+Rota 14: 0 -> 40 -> 73 -> 22 -> 74 -> 0
+Rota 15: 0 -> 47 -> 36 -> 11 -> 90 -> 0
+Rota 16: 0 -> 79 -> 78 -> 81 -> 0
+Rota 17: 0 -> 39 -> 23 -> 67 -> 43 -> 0
+Rota 18: 0 -> 45 -> 44 -> 38 -> 86 -> 97 -> 0
+Rota 19: 0 -> 87 -> 57 -> 0
+Rota 20: 0 -> 51 -> 9 -> 0
+Rota 21: 0 -> 63 -> 62 -> 64 -> 0
+---------------------------------------- 
+INSTANCIA: r107.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r107.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2275.17
+Iter 1: Melhor = 2218.33
+Iter 2: Melhor = 2157.39
+Iter 4: Melhor = 2090.15
+Iter 5: Melhor = 2074.71
+Iter 6: Melhor = 2060.88
+Iter 7: Melhor = 1960.64
+Iter 8: Melhor = 1937.12
+Iter 9: Melhor = 1920.04
+Iter 10: Melhor = 1917.7
+Iter 12: Melhor = 1892.99
+Iter 15: Melhor = 1887.19
+Iter 16: Melhor = 1821.41
+Iter 19: Melhor = 1769.66
+Iter 24: Melhor = 1764.47
+Iter 29: Melhor = 1730.44
+Iter 33: Melhor = 1706.56
+Iter 35: Melhor = 1702.15
+Iter 40: Melhor = 1694.26
+Iter 44: Melhor = 1668.98
+Iter 49: Melhor = 1646.72
+Iter 50: Melhor = 1636.67
+Iter 68: Melhor = 1612.85
+
+=== RESULTADO FINAL ===
+Custo Total: 1612.85
+Veiculos Usados: 16
+Tempo: 0.27 s
+Rota 1: 0 -> 27 -> 76 -> 79 -> 78 -> 34 -> 35 -> 71 -> 51 -> 81 -> 0
+Rota 2: 0 -> 69 -> 62 -> 11 -> 63 -> 90 -> 20 -> 32 -> 70 -> 1 -> 0
+Rota 3: 0 -> 52 -> 31 -> 88 -> 28 -> 80 -> 12 -> 26 -> 0
+Rota 4: 0 -> 45 -> 8 -> 84 -> 5 -> 17 -> 85 -> 93 -> 59 -> 0
+Rota 5: 0 -> 53 -> 58 -> 89 -> 0
+Rota 6: 0 -> 33 -> 9 -> 82 -> 7 -> 48 -> 60 -> 0
+Rota 7: 0 -> 40 -> 21 -> 73 -> 72 -> 75 -> 74 -> 54 -> 0
+Rota 8: 0 -> 99 -> 96 -> 94 -> 6 -> 13 -> 95 -> 97 -> 98 -> 0
+Rota 9: 0 -> 65 -> 66 -> 3 -> 77 -> 50 -> 0
+Rota 10: 0 -> 91 -> 61 -> 16 -> 86 -> 14 -> 43 -> 37 -> 100 -> 18 -> 0
+Rota 11: 0 -> 36 -> 64 -> 49 -> 19 -> 47 -> 46 -> 83 -> 0
+Rota 12: 0 -> 22 -> 41 -> 4 -> 25 -> 24 -> 0
+Rota 13: 0 -> 30 -> 10 -> 68 -> 29 -> 0
+Rota 14: 0 -> 38 -> 87 -> 2 -> 57 -> 0
+Rota 15: 0 -> 39 -> 23 -> 67 -> 56 -> 55 -> 0
+Rota 16: 0 -> 92 -> 42 -> 15 -> 44 -> 0
+---------------------------------------- 
+INSTANCIA: r108.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r108.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1957.54
+Iter 1: Melhor = 1945.2
+Iter 2: Melhor = 1942.33
+Iter 3: Melhor = 1913.24
+Iter 5: Melhor = 1896.35
+Iter 6: Melhor = 1865.13
+Iter 7: Melhor = 1799.19
+Iter 8: Melhor = 1761.83
+Iter 9: Melhor = 1710.88
+Iter 12: Melhor = 1684.71
+Iter 13: Melhor = 1676.88
+Iter 14: Melhor = 1648.3
+Iter 15: Melhor = 1612.91
+Iter 16: Melhor = 1542.36
+Iter 27: Melhor = 1500.77
+Iter 28: Melhor = 1492.07
+Iter 39: Melhor = 1421.81
+Iter 54: Melhor = 1411.68
+Iter 68: Melhor = 1374.09
+Iter 83: Melhor = 1363.17
+Iter 95: Melhor = 1359.31
+
+=== RESULTADO FINAL ===
+Custo Total: 1359.31
+Veiculos Usados: 14
+Tempo: 0.27 s
+Rota 1: 0 -> 53 -> 28 -> 27 -> 52 -> 31 -> 88 -> 82 -> 0
+Rota 2: 0 -> 26 -> 21 -> 73 -> 4 -> 25 -> 54 -> 12 -> 0
+Rota 3: 0 -> 95 -> 94 -> 13 -> 58 -> 40 -> 0
+Rota 4: 0 -> 51 -> 9 -> 35 -> 81 -> 3 -> 77 -> 68 -> 80 -> 0
+Rota 5: 0 -> 98 -> 37 -> 5 -> 84 -> 45 -> 17 -> 86 -> 61 -> 91 -> 0
+Rota 6: 0 -> 69 -> 1 -> 70 -> 30 -> 20 -> 66 -> 65 -> 71 -> 50 -> 0
+Rota 7: 0 -> 97 -> 92 -> 99 -> 96 -> 59 -> 93 -> 85 -> 16 -> 14 -> 43 -> 0
+Rota 8: 0 -> 23 -> 67 -> 39 -> 56 -> 75 -> 74 -> 22 -> 41 -> 72 -> 0
+Rota 9: 0 -> 76 -> 79 -> 33 -> 78 -> 34 -> 10 -> 0
+Rota 10: 0 -> 2 -> 57 -> 42 -> 87 -> 6 -> 89 -> 18 -> 60 -> 83 -> 7 -> 0
+Rota 11: 0 -> 62 -> 11 -> 63 -> 90 -> 32 -> 19 -> 47 -> 48 -> 0
+Rota 12: 0 -> 8 -> 46 -> 36 -> 49 -> 64 -> 0
+Rota 13: 0 -> 15 -> 44 -> 38 -> 100 -> 0
+Rota 14: 0 -> 29 -> 24 -> 55 -> 0
+---------------------------------------- 
+INSTANCIA: r109.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r109.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2119.97
+Iter 1: Melhor = 2094.92
+Iter 2: Melhor = 2028.06
+Iter 3: Melhor = 2026.03
+Iter 5: Melhor = 2022.35
+Iter 8: Melhor = 1970.58
+Iter 13: Melhor = 1940.78
+Iter 15: Melhor = 1918.55
+Iter 18: Melhor = 1895.18
+Iter 20: Melhor = 1853.9
+Iter 21: Melhor = 1779.32
+Iter 24: Melhor = 1754.71
+Iter 25: Melhor = 1729.81
+Iter 36: Melhor = 1695.22
+Iter 39: Melhor = 1644.33
+Iter 45: Melhor = 1605.39
+Iter 53: Melhor = 1563.13
+Iter 67: Melhor = 1508.91
+Iter 87: Melhor = 1487.7
+
+=== RESULTADO FINAL ===
+Custo Total: 1487.70
+Veiculos Usados: 16
+Tempo: 0.24 s
+Rota 1: 0 -> 69 -> 30 -> 51 -> 81 -> 78 -> 79 -> 34 -> 35 -> 1 -> 0
+Rota 2: 0 -> 95 -> 94 -> 6 -> 99 -> 96 -> 93 -> 91 -> 100 -> 13 -> 58 -> 0
+Rota 3: 0 -> 27 -> 28 -> 12 -> 76 -> 50 -> 3 -> 77 -> 68 -> 80 -> 24 -> 0
+Rota 4: 0 -> 53 -> 26 -> 54 -> 25 -> 55 -> 0
+Rota 5: 0 -> 62 -> 11 -> 19 -> 47 -> 36 -> 49 -> 48 -> 60 -> 89 -> 0
+Rota 6: 0 -> 31 -> 88 -> 10 -> 90 -> 32 -> 70 -> 0
+Rota 7: 0 -> 40 -> 21 -> 73 -> 22 -> 41 -> 74 -> 56 -> 4 -> 0
+Rota 8: 0 -> 15 -> 57 -> 87 -> 37 -> 97 -> 43 -> 0
+Rota 9: 0 -> 2 -> 42 -> 14 -> 44 -> 38 -> 86 -> 17 -> 0
+Rota 10: 0 -> 72 -> 75 -> 23 -> 39 -> 67 -> 0
+Rota 11: 0 -> 59 -> 92 -> 98 -> 85 -> 5 -> 18 -> 46 -> 0
+Rota 12: 0 -> 52 -> 7 -> 82 -> 8 -> 84 -> 0
+Rota 13: 0 -> 33 -> 29 -> 71 -> 65 -> 66 -> 20 -> 0
+Rota 14: 0 -> 83 -> 45 -> 61 -> 16 -> 0
+Rota 15: 0 -> 9 -> 0
+Rota 16: 0 -> 64 -> 63 -> 0
+---------------------------------------- 
+INSTANCIA: r110.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r110.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1998.57
+Iter 4: Melhor = 1872.82
+Iter 11: Melhor = 1857.42
+Iter 12: Melhor = 1795.14
+Iter 13: Melhor = 1774.53
+Iter 16: Melhor = 1765.99
+Iter 17: Melhor = 1725.54
+Iter 18: Melhor = 1692.07
+Iter 24: Melhor = 1660.08
+Iter 31: Melhor = 1612.78
+Iter 40: Melhor = 1596.21
+Iter 47: Melhor = 1545.81
+Iter 59: Melhor = 1540.25
+Iter 62: Melhor = 1494.63
+Iter 73: Melhor = 1473.83
+Iter 85: Melhor = 1463.23
+Iter 95: Melhor = 1444.57
+
+=== RESULTADO FINAL ===
+Custo Total: 1444.57
+Veiculos Usados: 14
+Tempo: 0.25 s
+Rota 1: 0 -> 79 -> 29 -> 81 -> 9 -> 34 -> 78 -> 33 -> 1 -> 0
+Rota 2: 0 -> 53 -> 3 -> 50 -> 77 -> 68 -> 80 -> 24 -> 0
+Rota 3: 0 -> 28 -> 27 -> 82 -> 7 -> 88 -> 69 -> 10 -> 62 -> 48 -> 89 -> 0
+Rota 4: 0 -> 6 -> 94 -> 59 -> 99 -> 96 -> 97 -> 42 -> 13 -> 58 -> 0
+Rota 5: 0 -> 30 -> 51 -> 71 -> 35 -> 65 -> 32 -> 70 -> 0
+Rota 6: 0 -> 40 -> 21 -> 73 -> 72 -> 74 -> 22 -> 41 -> 56 -> 39 -> 4 -> 0
+Rota 7: 0 -> 31 -> 11 -> 49 -> 64 -> 36 -> 60 -> 0
+Rota 8: 0 -> 76 -> 12 -> 75 -> 23 -> 67 -> 25 -> 55 -> 0
+Rota 9: 0 -> 95 -> 98 -> 85 -> 61 -> 5 -> 84 -> 17 -> 45 -> 93 -> 0
+Rota 10: 0 -> 15 -> 43 -> 37 -> 92 -> 91 -> 100 -> 0
+Rota 11: 0 -> 52 -> 18 -> 83 -> 8 -> 46 -> 0
+Rota 12: 0 -> 47 -> 19 -> 63 -> 90 -> 20 -> 66 -> 0
+Rota 13: 0 -> 2 -> 57 -> 87 -> 26 -> 54 -> 0
+Rota 14: 0 -> 44 -> 14 -> 86 -> 16 -> 38 -> 0
+---------------------------------------- 
+INSTANCIA: r111.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r111.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2116.12
+Iter 1: Melhor = 2088.85
+Iter 3: Melhor = 2034.93
+Iter 4: Melhor = 2007.42
+Iter 5: Melhor = 2003.33
+Iter 6: Melhor = 1888.87
+Iter 14: Melhor = 1810.45
+Iter 17: Melhor = 1799.8
+Iter 22: Melhor = 1792.29
+Iter 24: Melhor = 1770.21
+Iter 28: Melhor = 1729.8
+Iter 46: Melhor = 1706.82
+Iter 50: Melhor = 1696.72
+Iter 55: Melhor = 1685.01
+Iter 58: Melhor = 1679.95
+Iter 74: Melhor = 1674.21
+Iter 78: Melhor = 1662.09
+Iter 88: Melhor = 1646.6
+Iter 89: Melhor = 1625.9
+Iter 90: Melhor = 1619.84
+Iter 93: Melhor = 1593.6
+Iter 98: Melhor = 1575.58
+
+=== RESULTADO FINAL ===
+Custo Total: 1575.58
+Veiculos Usados: 16
+Tempo: 0.26 s
+Rota 1: 0 -> 40 -> 73 -> 22 -> 41 -> 56 -> 4 -> 75 -> 72 -> 0
+Rota 2: 0 -> 27 -> 92 -> 15 -> 42 -> 29 -> 68 -> 80 -> 54 -> 0
+Rota 3: 0 -> 50 -> 76 -> 33 -> 81 -> 9 -> 51 -> 20 -> 35 -> 0
+Rota 4: 0 -> 89 -> 6 -> 96 -> 59 -> 93 -> 85 -> 98 -> 37 -> 95 -> 58 -> 0
+Rota 5: 0 -> 53 -> 28 -> 26 -> 12 -> 3 -> 77 -> 1 -> 0
+Rota 6: 0 -> 52 -> 18 -> 8 -> 46 -> 17 -> 60 -> 83 -> 5 -> 0
+Rota 7: 0 -> 16 -> 61 -> 84 -> 86 -> 14 -> 43 -> 100 -> 0
+Rota 8: 0 -> 2 -> 97 -> 13 -> 94 -> 91 -> 0
+Rota 9: 0 -> 31 -> 88 -> 7 -> 36 -> 49 -> 19 -> 47 -> 48 -> 82 -> 0
+Rota 10: 0 -> 62 -> 11 -> 64 -> 63 -> 90 -> 10 -> 32 -> 70 -> 0
+Rota 11: 0 -> 69 -> 30 -> 71 -> 65 -> 66 -> 34 -> 0
+Rota 12: 0 -> 79 -> 78 -> 24 -> 55 -> 25 -> 21 -> 0
+Rota 13: 0 -> 87 -> 57 -> 74 -> 0
+Rota 14: 0 -> 45 -> 44 -> 99 -> 0
+Rota 15: 0 -> 23 -> 39 -> 67 -> 0
+Rota 16: 0 -> 38 -> 0
+---------------------------------------- 
+INSTANCIA: r112.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r112.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1911.04
+Iter 1: Melhor = 1808.43
+Iter 3: Melhor = 1701.77
+Iter 7: Melhor = 1690.38
+Iter 8: Melhor = 1624.31
+Iter 10: Melhor = 1563.12
+Iter 13: Melhor = 1561.72
+Iter 18: Melhor = 1497.83
+Iter 21: Melhor = 1464.34
+Iter 28: Melhor = 1433.14
+Iter 36: Melhor = 1430.95
+Iter 40: Melhor = 1346.37
+Iter 48: Melhor = 1324.94
+Iter 52: Melhor = 1297.19
+Iter 89: Melhor = 1295.55
+Iter 94: Melhor = 1268.69
+
+=== RESULTADO FINAL ===
+Custo Total: 1268.69
+Veiculos Usados: 12
+Tempo: 0.25 s
+Rota 1: 0 -> 53 -> 58 -> 40 -> 26 -> 12 -> 80 -> 68 -> 77 -> 1 -> 0
+Rota 2: 0 -> 27 -> 28 -> 2 -> 21 -> 73 -> 72 -> 74 -> 22 -> 75 -> 41 -> 56 -> 0
+Rota 3: 0 -> 94 -> 6 -> 99 -> 59 -> 92 -> 98 -> 85 -> 91 -> 100 -> 37 -> 89 -> 0
+Rota 4: 0 -> 61 -> 16 -> 44 -> 38 -> 86 -> 97 -> 96 -> 93 -> 13 -> 0
+Rota 5: 0 -> 52 -> 7 -> 82 -> 8 -> 18 -> 83 -> 45 -> 84 -> 5 -> 60 -> 0
+Rota 6: 0 -> 69 -> 31 -> 88 -> 62 -> 11 -> 19 -> 47 -> 46 -> 17 -> 0
+Rota 7: 0 -> 67 -> 23 -> 39 -> 4 -> 25 -> 55 -> 54 -> 24 -> 0
+Rota 8: 0 -> 87 -> 57 -> 43 -> 42 -> 15 -> 14 -> 0
+Rota 9: 0 -> 70 -> 32 -> 90 -> 63 -> 64 -> 49 -> 36 -> 48 -> 0
+Rota 10: 0 -> 95 -> 10 -> 30 -> 35 -> 34 -> 0
+Rota 11: 0 -> 76 -> 79 -> 81 -> 33 -> 50 -> 3 -> 29 -> 78 -> 0
+Rota 12: 0 -> 51 -> 9 -> 71 -> 65 -> 66 -> 20 -> 0
+---------------------------------------- 
+INSTANCIA: r201.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r201.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2429.24
+Iter 1: Melhor = 2282.22
+Iter 4: Melhor = 2233.32
+Iter 5: Melhor = 2224.35
+Iter 6: Melhor = 2142.83
+Iter 7: Melhor = 2138.05
+Iter 11: Melhor = 2044.94
+Iter 21: Melhor = 2021.25
+Iter 22: Melhor = 1999.36
+Iter 25: Melhor = 1963.58
+Iter 26: Melhor = 1922.72
+Iter 28: Melhor = 1907.1
+Iter 29: Melhor = 1862.58
+Iter 31: Melhor = 1826.98
+Iter 36: Melhor = 1811.53
+Iter 43: Melhor = 1804.05
+Iter 44: Melhor = 1784.16
+Iter 45: Melhor = 1767.2
+Iter 47: Melhor = 1670.97
+Iter 65: Melhor = 1616.35
+Iter 83: Melhor = 1591.14
+
+=== RESULTADO FINAL ===
+Custo Total: 1591.14
+Veiculos Usados: 9
+Tempo: 0.22 s
+Rota 1: 0 -> 53 -> 40 -> 58 -> 93 -> 100 -> 70 -> 0
+Rota 2: 0 -> 42 -> 14 -> 5 -> 45 -> 83 -> 82 -> 47 -> 36 -> 19 -> 11 -> 64 -> 49 -> 46 -> 10 -> 20 -> 50 -> 26 -> 54 -> 4 -> 55 -> 24 -> 25 -> 80 -> 77 -> 89 -> 0
+Rota 3: 0 -> 28 -> 76 -> 79 -> 78 -> 81 -> 9 -> 51 -> 90 -> 32 -> 66 -> 35 -> 1 -> 48 -> 17 -> 60 -> 0
+Rota 4: 0 -> 52 -> 69 -> 31 -> 88 -> 62 -> 7 -> 18 -> 8 -> 6 -> 94 -> 84 -> 96 -> 37 -> 43 -> 74 -> 13 -> 91 -> 0
+Rota 5: 0 -> 27 -> 30 -> 71 -> 34 -> 3 -> 68 -> 56 -> 0
+Rota 6: 0 -> 63 -> 65 -> 33 -> 39 -> 72 -> 21 -> 2 -> 15 -> 98 -> 44 -> 38 -> 86 -> 99 -> 97 -> 0
+Rota 7: 0 -> 12 -> 29 -> 67 -> 23 -> 75 -> 73 -> 22 -> 41 -> 57 -> 0
+Rota 8: 0 -> 95 -> 92 -> 59 -> 85 -> 87 -> 0
+Rota 9: 0 -> 16 -> 61 -> 0
+---------------------------------------- 
+INSTANCIA: r202.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r202.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2223.07
+Iter 1: Melhor = 2149.69
+Iter 2: Melhor = 1977.28
+Iter 9: Melhor = 1945.29
+Iter 11: Melhor = 1882.06
+Iter 12: Melhor = 1850.3
+Iter 14: Melhor = 1816.41
+Iter 17: Melhor = 1798.75
+Iter 20: Melhor = 1711.71
+Iter 28: Melhor = 1695.23
+Iter 29: Melhor = 1686.95
+Iter 30: Melhor = 1631.98
+Iter 36: Melhor = 1599.15
+Iter 38: Melhor = 1570.88
+Iter 42: Melhor = 1552.44
+Iter 50: Melhor = 1548.64
+Iter 55: Melhor = 1508.3
+Iter 68: Melhor = 1469.88
+Iter 72: Melhor = 1462.34
+Iter 83: Melhor = 1448.36
+Iter 84: Melhor = 1444.82
+Iter 90: Melhor = 1439.74
+
+=== RESULTADO FINAL ===
+Custo Total: 1439.74
+Veiculos Usados: 8
+Tempo: 0.22 s
+Rota 1: 0 -> 53 -> 40 -> 56 -> 75 -> 72 -> 21 -> 74 -> 4 -> 55 -> 25 -> 24 -> 80 -> 3 -> 77 -> 12 -> 26 -> 58 -> 2 -> 0
+Rota 2: 0 -> 28 -> 76 -> 79 -> 78 -> 81 -> 9 -> 20 -> 66 -> 35 -> 34 -> 50 -> 1 -> 70 -> 31 -> 52 -> 7 -> 48 -> 82 -> 83 -> 5 -> 93 -> 85 -> 37 -> 0
+Rota 3: 0 -> 92 -> 42 -> 15 -> 14 -> 38 -> 44 -> 61 -> 16 -> 99 -> 87 -> 57 -> 41 -> 22 -> 97 -> 43 -> 54 -> 68 -> 13 -> 95 -> 94 -> 59 -> 96 -> 98 -> 91 -> 100 -> 89 -> 0
+Rota 4: 0 -> 6 -> 86 -> 84 -> 17 -> 60 -> 0
+Rota 5: 0 -> 27 -> 69 -> 33 -> 29 -> 11 -> 64 -> 19 -> 88 -> 51 -> 90 -> 49 -> 46 -> 10 -> 32 -> 0
+Rota 6: 0 -> 47 -> 36 -> 45 -> 62 -> 8 -> 18 -> 0
+Rota 7: 0 -> 39 -> 67 -> 23 -> 73 -> 0
+Rota 8: 0 -> 63 -> 65 -> 71 -> 30 -> 0
+---------------------------------------- 
+INSTANCIA: r203.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r203.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2116.79
+Iter 2: Melhor = 1948.14
+Iter 7: Melhor = 1895.98
+Iter 9: Melhor = 1843.92
+Iter 11: Melhor = 1750.08
+Iter 20: Melhor = 1731.31
+Iter 23: Melhor = 1613.27
+Iter 32: Melhor = 1587.56
+Iter 36: Melhor = 1566.14
+Iter 47: Melhor = 1445.57
+
+=== RESULTADO FINAL ===
+Custo Total: 1445.57
+Veiculos Usados: 9
+Tempo: 0.24 s
+Rota 1: 0 -> 27 -> 69 -> 1 -> 50 -> 30 -> 88 -> 62 -> 11 -> 90 -> 63 -> 32 -> 20 -> 51 -> 81 -> 77 -> 3 -> 70 -> 52 -> 31 -> 7 -> 82 -> 18 -> 89 -> 0
+Rota 2: 0 -> 39 -> 23 -> 67 -> 56 -> 55 -> 4 -> 25 -> 54 -> 24 -> 29 -> 80 -> 12 -> 26 -> 58 -> 2 -> 0
+Rota 3: 0 -> 92 -> 42 -> 87 -> 41 -> 22 -> 74 -> 75 -> 73 -> 21 -> 72 -> 57 -> 13 -> 94 -> 95 -> 97 -> 98 -> 37 -> 100 -> 91 -> 61 -> 85 -> 93 -> 96 -> 59 -> 0
+Rota 4: 0 -> 28 -> 76 -> 99 -> 16 -> 86 -> 38 -> 14 -> 43 -> 6 -> 84 -> 83 -> 60 -> 5 -> 46 -> 47 -> 48 -> 19 -> 66 -> 34 -> 35 -> 71 -> 17 -> 0
+Rota 5: 0 -> 53 -> 40 -> 68 -> 0
+Rota 6: 0 -> 64 -> 49 -> 10 -> 0
+Rota 7: 0 -> 33 -> 65 -> 9 -> 79 -> 78 -> 0
+Rota 8: 0 -> 15 -> 44 -> 8 -> 0
+Rota 9: 0 -> 45 -> 36 -> 0
+---------------------------------------- 
+INSTANCIA: r204.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r204.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1748.67
+Iter 1: Melhor = 1694.16
+Iter 2: Melhor = 1645.7
+Iter 5: Melhor = 1644.42
+Iter 7: Melhor = 1595.5
+Iter 9: Melhor = 1536.42
+Iter 10: Melhor = 1428.22
+Iter 16: Melhor = 1423.15
+Iter 18: Melhor = 1356.18
+Iter 21: Melhor = 1321.22
+Iter 24: Melhor = 1224.75
+Iter 38: Melhor = 1110.75
+Iter 47: Melhor = 1082.55
+Iter 50: Melhor = 1026.4
+
+=== RESULTADO FINAL ===
+Custo Total: 1026.40
+Veiculos Usados: 6
+Tempo: 0.24 s
+Rota 1: 0 -> 53 -> 58 -> 26 -> 12 -> 80 -> 68 -> 77 -> 3 -> 50 -> 27 -> 0
+Rota 2: 0 -> 28 -> 52 -> 88 -> 7 -> 31 -> 1 -> 30 -> 70 -> 90 -> 32 -> 63 -> 10 -> 62 -> 11 -> 64 -> 49 -> 36 -> 19 -> 47 -> 48 -> 82 -> 46 -> 8 -> 84 -> 16 -> 86 -> 43 -> 42 -> 57 -> 2 -> 40 -> 13 -> 94 -> 95 -> 97 -> 59 -> 93 -> 98 -> 37 -> 100 -> 91 -> 85 -> 61 -> 17 -> 45 -> 18 -> 83 -> 60 -> 5 -> 6 -> 89 -> 0
+Rota 3: 0 -> 69 -> 76 -> 79 -> 9 -> 51 -> 20 -> 66 -> 65 -> 71 -> 35 -> 34 -> 78 -> 81 -> 33 -> 29 -> 24 -> 54 -> 55 -> 25 -> 39 -> 56 -> 75 -> 22 -> 72 -> 21 -> 73 -> 41 -> 0
+Rota 4: 0 -> 92 -> 15 -> 23 -> 67 -> 4 -> 74 -> 14 -> 96 -> 0
+Rota 5: 0 -> 44 -> 38 -> 87 -> 0
+Rota 6: 0 -> 99 -> 0
+---------------------------------------- 
+INSTANCIA: r205.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r205.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2026.99
+Iter 2: Melhor = 1987.86
+Iter 4: Melhor = 1940.11
+Iter 7: Melhor = 1770.26
+Iter 12: Melhor = 1756.21
+Iter 15: Melhor = 1697.8
+Iter 17: Melhor = 1679.46
+Iter 20: Melhor = 1604.79
+Iter 27: Melhor = 1510.19
+Iter 28: Melhor = 1500.54
+Iter 42: Melhor = 1408
+Iter 54: Melhor = 1322.39
+
+=== RESULTADO FINAL ===
+Custo Total: 1322.39
+Veiculos Usados: 6
+Tempo: 0.22 s
+Rota 1: 0 -> 72 -> 75 -> 23 -> 39 -> 67 -> 2 -> 87 -> 85 -> 86 -> 38 -> 44 -> 16 -> 61 -> 84 -> 99 -> 40 -> 53 -> 58 -> 89 -> 13 -> 91 -> 100 -> 93 -> 60 -> 17 -> 48 -> 70 -> 0
+Rota 2: 0 -> 28 -> 52 -> 82 -> 19 -> 11 -> 64 -> 63 -> 30 -> 71 -> 9 -> 51 -> 81 -> 3 -> 79 -> 78 -> 34 -> 35 -> 66 -> 20 -> 32 -> 10 -> 1 -> 77 -> 80 -> 68 -> 24 -> 25 -> 4 -> 0
+Rota 3: 0 -> 5 -> 83 -> 45 -> 36 -> 47 -> 8 -> 18 -> 6 -> 94 -> 96 -> 97 -> 37 -> 43 -> 74 -> 56 -> 55 -> 54 -> 26 -> 0
+Rota 4: 0 -> 27 -> 69 -> 31 -> 88 -> 62 -> 49 -> 46 -> 7 -> 50 -> 90 -> 0
+Rota 5: 0 -> 33 -> 65 -> 29 -> 76 -> 12 -> 21 -> 73 -> 22 -> 41 -> 57 -> 0
+Rota 6: 0 -> 59 -> 92 -> 98 -> 95 -> 42 -> 14 -> 15 -> 0
+---------------------------------------- 
+INSTANCIA: r206.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r206.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1964.82
+Iter 2: Melhor = 1836.38
+Iter 7: Melhor = 1771.82
+Iter 10: Melhor = 1743.27
+Iter 12: Melhor = 1709.49
+Iter 17: Melhor = 1708.07
+Iter 18: Melhor = 1693.04
+Iter 19: Melhor = 1611.15
+Iter 20: Melhor = 1466.43
+Iter 41: Melhor = 1448.57
+Iter 45: Melhor = 1441.67
+Iter 48: Melhor = 1405.68
+Iter 59: Melhor = 1390.57
+Iter 63: Melhor = 1317.13
+Iter 69: Melhor = 1309.9
+Iter 72: Melhor = 1306.83
+Iter 88: Melhor = 1287.45
+
+=== RESULTADO FINAL ===
+Custo Total: 1287.45
+Veiculos Usados: 6
+Tempo: 0.22 s
+Rota 1: 0 -> 53 -> 40 -> 73 -> 41 -> 22 -> 74 -> 56 -> 4 -> 55 -> 25 -> 54 -> 68 -> 80 -> 12 -> 77 -> 3 -> 1 -> 70 -> 50 -> 21 -> 72 -> 75 -> 0
+Rota 2: 0 -> 27 -> 69 -> 76 -> 79 -> 81 -> 51 -> 9 -> 78 -> 34 -> 35 -> 24 -> 26 -> 58 -> 2 -> 37 -> 98 -> 100 -> 91 -> 85 -> 93 -> 59 -> 95 -> 96 -> 94 -> 52 -> 31 -> 0
+Rota 3: 0 -> 28 -> 33 -> 29 -> 67 -> 23 -> 39 -> 15 -> 87 -> 57 -> 13 -> 97 -> 43 -> 17 -> 5 -> 83 -> 60 -> 48 -> 82 -> 7 -> 89 -> 0
+Rota 4: 0 -> 92 -> 42 -> 14 -> 44 -> 38 -> 16 -> 86 -> 84 -> 61 -> 99 -> 88 -> 10 -> 90 -> 32 -> 20 -> 66 -> 0
+Rota 5: 0 -> 6 -> 18 -> 8 -> 46 -> 49 -> 0
+Rota 6: 0 -> 45 -> 47 -> 36 -> 63 -> 62 -> 11 -> 19 -> 64 -> 65 -> 71 -> 30 -> 0
+---------------------------------------- 
+INSTANCIA: r207.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r207.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1833.54
+Iter 7: Melhor = 1815
+Iter 8: Melhor = 1755.1
+Iter 9: Melhor = 1743.73
+Iter 10: Melhor = 1630.28
+Iter 18: Melhor = 1567.37
+Iter 19: Melhor = 1481.1
+Iter 22: Melhor = 1430.45
+Iter 32: Melhor = 1430.16
+Iter 36: Melhor = 1390.74
+Iter 39: Melhor = 1388.26
+Iter 43: Melhor = 1335.7
+Iter 50: Melhor = 1318.27
+Iter 51: Melhor = 1308.54
+Iter 57: Melhor = 1294.95
+Iter 60: Melhor = 1286.5
+Iter 65: Melhor = 1270.44
+Iter 85: Melhor = 1264.07
+Iter 86: Melhor = 1264.06
+Iter 89: Melhor = 1234.06
+Iter 93: Melhor = 1209.48
+Iter 94: Melhor = 1182.12
+Iter 95: Melhor = 1178.43
+
+=== RESULTADO FINAL ===
+Custo Total: 1178.43
+Veiculos Usados: 7
+Tempo: 0.23 s
+Rota 1: 0 -> 27 -> 69 -> 76 -> 12 -> 26 -> 58 -> 13 -> 2 -> 57 -> 43 -> 14 -> 100 -> 91 -> 86 -> 16 -> 61 -> 85 -> 98 -> 37 -> 59 -> 0
+Rota 2: 0 -> 53 -> 40 -> 21 -> 73 -> 72 -> 74 -> 75 -> 56 -> 4 -> 25 -> 55 -> 54 -> 80 -> 68 -> 24 -> 29 -> 3 -> 77 -> 50 -> 51 -> 81 -> 70 -> 31 -> 1 -> 0
+Rota 3: 0 -> 28 -> 33 -> 79 -> 78 -> 9 -> 34 -> 35 -> 71 -> 66 -> 20 -> 32 -> 90 -> 63 -> 19 -> 48 -> 82 -> 7 -> 47 -> 46 -> 17 -> 18 -> 83 -> 60 -> 96 -> 95 -> 0
+Rota 4: 0 -> 97 -> 5 -> 93 -> 94 -> 89 -> 52 -> 0
+Rota 5: 0 -> 39 -> 67 -> 23 -> 22 -> 41 -> 87 -> 44 -> 38 -> 84 -> 99 -> 6 -> 8 -> 49 -> 10 -> 0
+Rota 6: 0 -> 45 -> 36 -> 64 -> 11 -> 62 -> 88 -> 30 -> 65 -> 0
+Rota 7: 0 -> 15 -> 42 -> 92 -> 0
+---------------------------------------- 
+INSTANCIA: r208.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r208.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1695.87
+Iter 1: Melhor = 1636.4
+Iter 2: Melhor = 1588.07
+Iter 3: Melhor = 1540.81
+Iter 6: Melhor = 1496.36
+Iter 8: Melhor = 1435.48
+Iter 9: Melhor = 1347.86
+Iter 12: Melhor = 1342.7
+Iter 14: Melhor = 1299.97
+Iter 17: Melhor = 1281.2
+Iter 18: Melhor = 1228.35
+Iter 20: Melhor = 1215.56
+Iter 21: Melhor = 1170.13
+Iter 23: Melhor = 1115.15
+Iter 35: Melhor = 1098.47
+Iter 39: Melhor = 1080.85
+Iter 40: Melhor = 1075.62
+Iter 42: Melhor = 1072.33
+Iter 43: Melhor = 1031.44
+Iter 45: Melhor = 984.783
+Iter 49: Melhor = 979.513
+Iter 75: Melhor = 977.705
+Iter 76: Melhor = 974.657
+Iter 98: Melhor = 962.758
+
+=== RESULTADO FINAL ===
+Custo Total: 962.76
+Veiculos Usados: 4
+Tempo: 0.24 s
+Rota 1: 0 -> 62 -> 11 -> 19 -> 46 -> 8 -> 84 -> 99 -> 44 -> 38 -> 86 -> 16 -> 61 -> 5 -> 83 -> 60 -> 18 -> 17 -> 45 -> 91 -> 85 -> 98 -> 37 -> 100 -> 13 -> 58 -> 40 -> 21 -> 72 -> 73 -> 41 -> 22 -> 2 -> 57 -> 42 -> 43 -> 14 -> 0
+Rota 2: 0 -> 53 -> 26 -> 12 -> 80 -> 68 -> 77 -> 3 -> 33 -> 81 -> 51 -> 20 -> 66 -> 65 -> 71 -> 35 -> 34 -> 78 -> 1 -> 50 -> 0
+Rota 3: 0 -> 92 -> 87 -> 15 -> 23 -> 67 -> 55 -> 25 -> 4 -> 39 -> 56 -> 75 -> 74 -> 97 -> 95 -> 94 -> 6 -> 96 -> 59 -> 93 -> 89 -> 52 -> 27 -> 0
+Rota 4: 0 -> 69 -> 31 -> 88 -> 7 -> 82 -> 48 -> 47 -> 36 -> 49 -> 64 -> 32 -> 90 -> 63 -> 10 -> 70 -> 30 -> 9 -> 79 -> 76 -> 28 -> 29 -> 24 -> 54 -> 0
+---------------------------------------- 
+INSTANCIA: r209.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r209.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2049.37
+Iter 1: Melhor = 1911.13
+Iter 4: Melhor = 1793.41
+Iter 11: Melhor = 1770.31
+Iter 13: Melhor = 1714.79
+Iter 15: Melhor = 1679.39
+Iter 17: Melhor = 1662.19
+Iter 18: Melhor = 1653.62
+Iter 19: Melhor = 1643.92
+Iter 20: Melhor = 1537.68
+Iter 24: Melhor = 1466.07
+Iter 37: Melhor = 1421.25
+Iter 43: Melhor = 1403.35
+Iter 44: Melhor = 1369.25
+Iter 50: Melhor = 1346.14
+Iter 67: Melhor = 1314.78
+Iter 72: Melhor = 1314.37
+
+=== RESULTADO FINAL ===
+Custo Total: 1314.37
+Veiculos Usados: 7
+Tempo: 0.22 s
+Rota 1: 0 -> 69 -> 31 -> 88 -> 62 -> 11 -> 90 -> 30 -> 51 -> 33 -> 81 -> 34 -> 78 -> 79 -> 3 -> 9 -> 65 -> 35 -> 77 -> 68 -> 80 -> 24 -> 54 -> 55 -> 25 -> 39 -> 56 -> 74 -> 4 -> 58 -> 13 -> 93 -> 89 -> 60 -> 17 -> 0
+Rota 2: 0 -> 27 -> 28 -> 12 -> 76 -> 50 -> 1 -> 70 -> 10 -> 20 -> 66 -> 32 -> 48 -> 100 -> 91 -> 0
+Rota 3: 0 -> 40 -> 21 -> 73 -> 72 -> 2 -> 87 -> 57 -> 15 -> 22 -> 23 -> 67 -> 41 -> 53 -> 42 -> 43 -> 26 -> 97 -> 37 -> 96 -> 0
+Rota 4: 0 -> 52 -> 18 -> 7 -> 19 -> 64 -> 49 -> 36 -> 46 -> 45 -> 8 -> 99 -> 84 -> 6 -> 92 -> 0
+Rota 5: 0 -> 83 -> 5 -> 16 -> 98 -> 14 -> 44 -> 38 -> 86 -> 61 -> 85 -> 59 -> 94 -> 0
+Rota 6: 0 -> 82 -> 47 -> 63 -> 71 -> 29 -> 75 -> 0
+Rota 7: 0 -> 95 -> 0
+---------------------------------------- 
+INSTANCIA: r210.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r210.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2071.68
+Iter 1: Melhor = 2046.85
+Iter 2: Melhor = 1915.4
+Iter 3: Melhor = 1895.98
+Iter 5: Melhor = 1835.78
+Iter 6: Melhor = 1832.11
+Iter 14: Melhor = 1703.59
+Iter 32: Melhor = 1700.33
+Iter 36: Melhor = 1646.3
+Iter 39: Melhor = 1643.44
+Iter 40: Melhor = 1632.89
+Iter 42: Melhor = 1584.73
+Iter 45: Melhor = 1510.02
+Iter 61: Melhor = 1509.38
+Iter 62: Melhor = 1507.78
+Iter 63: Melhor = 1505.81
+Iter 71: Melhor = 1499.53
+Iter 73: Melhor = 1481.85
+Iter 95: Melhor = 1476.12
+Iter 99: Melhor = 1462.04
+
+=== RESULTADO FINAL ===
+Custo Total: 1462.04
+Veiculos Usados: 6
+Tempo: 0.23 s
+Rota 1: 0 -> 28 -> 76 -> 50 -> 32 -> 20 -> 66 -> 35 -> 34 -> 3 -> 68 -> 12 -> 80 -> 24 -> 77 -> 54 -> 25 -> 72 -> 26 -> 58 -> 89 -> 0
+Rota 2: 0 -> 27 -> 92 -> 61 -> 16 -> 86 -> 44 -> 45 -> 8 -> 84 -> 18 -> 7 -> 31 -> 10 -> 90 -> 63 -> 49 -> 47 -> 48 -> 83 -> 17 -> 5 -> 60 -> 96 -> 91 -> 100 -> 37 -> 59 -> 93 -> 70 -> 1 -> 0
+Rota 3: 0 -> 53 -> 40 -> 22 -> 41 -> 75 -> 74 -> 56 -> 4 -> 55 -> 43 -> 13 -> 0
+Rota 4: 0 -> 33 -> 65 -> 30 -> 11 -> 62 -> 88 -> 19 -> 36 -> 64 -> 81 -> 9 -> 71 -> 51 -> 29 -> 73 -> 21 -> 97 -> 95 -> 94 -> 2 -> 57 -> 14 -> 98 -> 85 -> 52 -> 82 -> 46 -> 0
+Rota 5: 0 -> 69 -> 79 -> 78 -> 6 -> 87 -> 0
+Rota 6: 0 -> 42 -> 15 -> 23 -> 39 -> 67 -> 38 -> 99 -> 0
+---------------------------------------- 
+INSTANCIA: r211.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: r211.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1731.36
+Iter 2: Melhor = 1711.34
+Iter 4: Melhor = 1696.78
+Iter 5: Melhor = 1678.18
+Iter 6: Melhor = 1675.97
+Iter 7: Melhor = 1617.81
+Iter 8: Melhor = 1602.47
+Iter 9: Melhor = 1481.36
+Iter 14: Melhor = 1373.18
+Iter 18: Melhor = 1322.1
+Iter 21: Melhor = 1316.04
+Iter 26: Melhor = 1294.76
+Iter 31: Melhor = 1250.87
+Iter 32: Melhor = 1231.55
+Iter 37: Melhor = 1208.1
+Iter 38: Melhor = 1182.74
+Iter 40: Melhor = 1179.17
+Iter 45: Melhor = 1144.95
+Iter 48: Melhor = 1142.64
+Iter 54: Melhor = 1129.07
+Iter 63: Melhor = 1092.61
+Iter 69: Melhor = 1088.89
+Iter 79: Melhor = 1086.83
+Iter 92: Melhor = 1085.92
+
+=== RESULTADO FINAL ===
+Custo Total: 1085.92
+Veiculos Usados: 4
+Tempo: 0.23 s
+Rota 1: 0 -> 27 -> 28 -> 76 -> 50 -> 3 -> 79 -> 33 -> 81 -> 78 -> 34 -> 9 -> 51 -> 20 -> 66 -> 35 -> 24 -> 55 -> 25 -> 4 -> 56 -> 74 -> 26 -> 54 -> 68 -> 80 -> 77 -> 1 -> 70 -> 32 -> 89 -> 60 -> 93 -> 58 -> 0
+Rota 2: 0 -> 53 -> 40 -> 21 -> 73 -> 72 -> 75 -> 39 -> 67 -> 23 -> 41 -> 22 -> 2 -> 57 -> 87 -> 42 -> 92 -> 99 -> 59 -> 94 -> 6 -> 96 -> 37 -> 97 -> 13 -> 14 -> 43 -> 100 -> 91 -> 17 -> 48 -> 0
+Rota 3: 0 -> 12 -> 29 -> 65 -> 71 -> 30 -> 69 -> 10 -> 90 -> 63 -> 64 -> 11 -> 19 -> 47 -> 36 -> 49 -> 46 -> 8 -> 84 -> 0
+Rota 4: 0 -> 52 -> 31 -> 88 -> 62 -> 7 -> 82 -> 18 -> 83 -> 45 -> 61 -> 16 -> 86 -> 38 -> 44 -> 98 -> 85 -> 5 -> 95 -> 15 -> 0
+---------------------------------------- 
+INSTANCIA: rc101.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc101.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2930.06
+Iter 1: Melhor = 2919.97
+Iter 3: Melhor = 2808.17
+Iter 8: Melhor = 2651.77
+Iter 18: Melhor = 2643.24
+Iter 21: Melhor = 2555.71
+Iter 26: Melhor = 2500.8
+Iter 28: Melhor = 2392.86
+Iter 31: Melhor = 2392.67
+Iter 43: Melhor = 2367.32
+Iter 67: Melhor = 2216.78
+
+=== RESULTADO FINAL ===
+Custo Total: 2216.78
+Veiculos Usados: 22
+Tempo: 0.23 s
+Rota 1: 0 -> 69 -> 98 -> 88 -> 9 -> 10 -> 17 -> 13 -> 0
+Rota 2: 0 -> 63 -> 85 -> 51 -> 84 -> 56 -> 91 -> 80 -> 0
+Rota 3: 0 -> 65 -> 82 -> 57 -> 86 -> 74 -> 24 -> 0
+Rota 4: 0 -> 83 -> 64 -> 76 -> 89 -> 48 -> 0
+Rota 5: 0 -> 90 -> 55 -> 100 -> 70 -> 0
+Rota 6: 0 -> 99 -> 87 -> 97 -> 58 -> 77 -> 0
+Rota 7: 0 -> 92 -> 95 -> 62 -> 67 -> 34 -> 26 -> 32 -> 93 -> 0
+Rota 8: 0 -> 81 -> 96 -> 54 -> 68 -> 0
+Rota 9: 0 -> 39 -> 36 -> 38 -> 40 -> 43 -> 37 -> 35 -> 0
+Rota 10: 0 -> 33 -> 30 -> 28 -> 50 -> 66 -> 0
+Rota 11: 0 -> 19 -> 18 -> 49 -> 22 -> 20 -> 25 -> 0
+Rota 12: 0 -> 7 -> 6 -> 8 -> 3 -> 4 -> 1 -> 0
+Rota 13: 0 -> 23 -> 21 -> 60 -> 0
+Rota 14: 0 -> 42 -> 44 -> 41 -> 46 -> 0
+Rota 15: 0 -> 73 -> 78 -> 79 -> 0
+Rota 16: 0 -> 47 -> 14 -> 12 -> 11 -> 53 -> 0
+Rota 17: 0 -> 52 -> 15 -> 16 -> 0
+Rota 18: 0 -> 45 -> 5 -> 2 -> 0
+Rota 19: 0 -> 61 -> 94 -> 0
+Rota 20: 0 -> 59 -> 75 -> 0
+Rota 21: 0 -> 72 -> 71 -> 0
+Rota 22: 0 -> 27 -> 29 -> 31 -> 0
+---------------------------------------- 
+INSTANCIA: rc102.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc102.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2847.97
+Iter 1: Melhor = 2757.32
+Iter 2: Melhor = 2737.07
+Iter 3: Melhor = 2731.8
+Iter 4: Melhor = 2645.69
+Iter 6: Melhor = 2640.98
+Iter 8: Melhor = 2560.87
+Iter 9: Melhor = 2441.76
+Iter 15: Melhor = 2427.67
+Iter 18: Melhor = 2364.3
+Iter 23: Melhor = 2354.02
+Iter 26: Melhor = 2299.17
+Iter 30: Melhor = 2229.21
+Iter 41: Melhor = 2154.71
+
+=== RESULTADO FINAL ===
+Custo Total: 2154.71
+Veiculos Usados: 21
+Tempo: 0.23 s
+Rota 1: 0 -> 90 -> 81 -> 68 -> 70 -> 100 -> 0
+Rota 2: 0 -> 80 -> 91 -> 0
+Rota 3: 0 -> 39 -> 36 -> 41 -> 40 -> 43 -> 37 -> 35 -> 72 -> 0
+Rota 4: 0 -> 65 -> 64 -> 51 -> 49 -> 20 -> 24 -> 48 -> 21 -> 0
+Rota 5: 0 -> 92 -> 95 -> 56 -> 66 -> 83 -> 52 -> 82 -> 0
+Rota 6: 0 -> 57 -> 86 -> 74 -> 58 -> 59 -> 0
+Rota 7: 0 -> 69 -> 53 -> 10 -> 13 -> 17 -> 12 -> 98 -> 0
+Rota 8: 0 -> 16 -> 15 -> 9 -> 97 -> 75 -> 0
+Rota 9: 0 -> 50 -> 31 -> 29 -> 28 -> 26 -> 32 -> 34 -> 94 -> 93 -> 0
+Rota 10: 0 -> 71 -> 67 -> 84 -> 85 -> 89 -> 0
+Rota 11: 0 -> 19 -> 23 -> 18 -> 25 -> 77 -> 0
+Rota 12: 0 -> 42 -> 44 -> 61 -> 54 -> 96 -> 0
+Rota 13: 0 -> 99 -> 87 -> 55 -> 2 -> 0
+Rota 14: 0 -> 88 -> 73 -> 78 -> 60 -> 7 -> 0
+Rota 15: 0 -> 79 -> 8 -> 46 -> 4 -> 1 -> 3 -> 5 -> 0
+Rota 16: 0 -> 62 -> 76 -> 22 -> 0
+Rota 17: 0 -> 45 -> 6 -> 0
+Rota 18: 0 -> 38 -> 0
+Rota 19: 0 -> 27 -> 30 -> 0
+Rota 20: 0 -> 47 -> 14 -> 11 -> 0
+Rota 21: 0 -> 63 -> 33 -> 0
+---------------------------------------- 
+INSTANCIA: rc103.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc103.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2550.04
+Iter 2: Melhor = 2442.12
+Iter 4: Melhor = 2376.33
+Iter 6: Melhor = 2319.58
+Iter 7: Melhor = 2277.19
+Iter 8: Melhor = 2266.02
+Iter 10: Melhor = 2199.32
+Iter 12: Melhor = 2190.96
+Iter 14: Melhor = 2174.64
+Iter 15: Melhor = 2156.02
+Iter 17: Melhor = 2070.43
+Iter 23: Melhor = 2011
+Iter 27: Melhor = 1952.59
+Iter 42: Melhor = 1906.17
+Iter 43: Melhor = 1889.38
+
+=== RESULTADO FINAL ===
+Custo Total: 1889.38
+Veiculos Usados: 19
+Tempo: 0.24 s
+Rota 1: 0 -> 70 -> 100 -> 0
+Rota 2: 0 -> 90 -> 80 -> 91 -> 0
+Rota 3: 0 -> 69 -> 9 -> 87 -> 59 -> 75 -> 58 -> 0
+Rota 4: 0 -> 92 -> 64 -> 66 -> 83 -> 82 -> 98 -> 0
+Rota 5: 0 -> 51 -> 76 -> 89 -> 18 -> 48 -> 21 -> 24 -> 20 -> 0
+Rota 6: 0 -> 94 -> 93 -> 71 -> 96 -> 0
+Rota 7: 0 -> 65 -> 99 -> 52 -> 74 -> 86 -> 12 -> 0
+Rota 8: 0 -> 57 -> 23 -> 19 -> 49 -> 22 -> 77 -> 25 -> 0
+Rota 9: 0 -> 68 -> 61 -> 81 -> 54 -> 0
+Rota 10: 0 -> 11 -> 15 -> 16 -> 17 -> 47 -> 14 -> 60 -> 0
+Rota 11: 0 -> 88 -> 53 -> 78 -> 73 -> 13 -> 0
+Rota 12: 0 -> 4 -> 46 -> 7 -> 2 -> 0
+Rota 13: 0 -> 33 -> 30 -> 32 -> 28 -> 26 -> 29 -> 31 -> 34 -> 50 -> 95 -> 0
+Rota 14: 0 -> 45 -> 8 -> 6 -> 5 -> 3 -> 1 -> 0
+Rota 15: 0 -> 42 -> 39 -> 38 -> 44 -> 43 -> 37 -> 35 -> 72 -> 0
+Rota 16: 0 -> 62 -> 67 -> 84 -> 85 -> 63 -> 56 -> 0
+Rota 17: 0 -> 27 -> 97 -> 0
+Rota 18: 0 -> 36 -> 40 -> 41 -> 55 -> 0
+Rota 19: 0 -> 79 -> 10 -> 0
+---------------------------------------- 
+INSTANCIA: rc104.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc104.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2106.64
+Iter 4: Melhor = 2091.91
+Iter 5: Melhor = 2013.06
+Iter 7: Melhor = 2002.72
+Iter 9: Melhor = 1989.15
+Iter 10: Melhor = 1956.5
+Iter 11: Melhor = 1889.94
+Iter 13: Melhor = 1868.72
+Iter 16: Melhor = 1857.33
+Iter 17: Melhor = 1817.67
+Iter 19: Melhor = 1812.11
+Iter 23: Melhor = 1810.25
+Iter 26: Melhor = 1778.71
+Iter 28: Melhor = 1740.37
+Iter 31: Melhor = 1677.94
+Iter 32: Melhor = 1582.77
+Iter 71: Melhor = 1580.19
+Iter 72: Melhor = 1516.62
+Iter 88: Melhor = 1471.96
+
+=== RESULTADO FINAL ===
+Custo Total: 1471.96
+Veiculos Usados: 13
+Tempo: 0.24 s
+Rota 1: 0 -> 80 -> 81 -> 96 -> 62 -> 67 -> 84 -> 85 -> 63 -> 89 -> 0
+Rota 2: 0 -> 90 -> 91 -> 92 -> 94 -> 93 -> 71 -> 72 -> 41 -> 39 -> 36 -> 35 -> 37 -> 0
+Rota 3: 0 -> 65 -> 18 -> 48 -> 21 -> 23 -> 25 -> 24 -> 22 -> 0
+Rota 4: 0 -> 38 -> 44 -> 43 -> 40 -> 42 -> 61 -> 54 -> 68 -> 0
+Rota 5: 0 -> 69 -> 98 -> 55 -> 60 -> 78 -> 88 -> 0
+Rota 6: 0 -> 1 -> 3 -> 5 -> 45 -> 4 -> 46 -> 7 -> 6 -> 2 -> 0
+Rota 7: 0 -> 53 -> 82 -> 14 -> 47 -> 17 -> 10 -> 0
+Rota 8: 0 -> 66 -> 83 -> 99 -> 52 -> 75 -> 58 -> 77 -> 0
+Rota 9: 0 -> 50 -> 33 -> 34 -> 32 -> 30 -> 28 -> 26 -> 27 -> 29 -> 31 -> 0
+Rota 10: 0 -> 11 -> 9 -> 87 -> 59 -> 97 -> 74 -> 86 -> 57 -> 0
+Rota 11: 0 -> 73 -> 79 -> 8 -> 100 -> 70 -> 0
+Rota 12: 0 -> 20 -> 49 -> 19 -> 76 -> 51 -> 95 -> 56 -> 64 -> 0
+Rota 13: 0 -> 15 -> 16 -> 13 -> 12 -> 0
+---------------------------------------- 
+INSTANCIA: rc105.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc105.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2832.6
+Iter 1: Melhor = 2748.67
+Iter 5: Melhor = 2728.75
+Iter 7: Melhor = 2685.36
+Iter 9: Melhor = 2621.05
+Iter 10: Melhor = 2553.86
+Iter 23: Melhor = 2520.54
+Iter 24: Melhor = 2500.73
+Iter 25: Melhor = 2451.58
+Iter 31: Melhor = 2402.62
+Iter 37: Melhor = 2332.82
+Iter 41: Melhor = 2298.87
+Iter 43: Melhor = 2239.47
+Iter 50: Melhor = 2188.3
+Iter 62: Melhor = 2136.43
+Iter 80: Melhor = 2111.34
+
+=== RESULTADO FINAL ===
+Custo Total: 2111.34
+Veiculos Usados: 20
+Tempo: 0.24 s
+Rota 1: 0 -> 90 -> 98 -> 82 -> 66 -> 91 -> 80 -> 0
+Rota 2: 0 -> 68 -> 54 -> 70 -> 0
+Rota 3: 0 -> 14 -> 47 -> 15 -> 16 -> 9 -> 10 -> 12 -> 13 -> 60 -> 0
+Rota 4: 0 -> 39 -> 42 -> 44 -> 38 -> 2 -> 4 -> 3 -> 1 -> 0
+Rota 5: 0 -> 99 -> 52 -> 86 -> 74 -> 58 -> 0
+Rota 6: 0 -> 94 -> 95 -> 84 -> 51 -> 56 -> 96 -> 93 -> 0
+Rota 7: 0 -> 55 -> 100 -> 0
+Rota 8: 0 -> 69 -> 88 -> 53 -> 57 -> 77 -> 0
+Rota 9: 0 -> 92 -> 62 -> 30 -> 32 -> 34 -> 31 -> 26 -> 0
+Rota 10: 0 -> 11 -> 79 -> 5 -> 46 -> 0
+Rota 11: 0 -> 67 -> 71 -> 72 -> 35 -> 37 -> 0
+Rota 12: 0 -> 81 -> 61 -> 43 -> 0
+Rota 13: 0 -> 65 -> 83 -> 64 -> 22 -> 49 -> 20 -> 48 -> 21 -> 25 -> 24 -> 0
+Rota 14: 0 -> 87 -> 59 -> 97 -> 75 -> 0
+Rota 15: 0 -> 78 -> 73 -> 7 -> 0
+Rota 16: 0 -> 45 -> 8 -> 6 -> 17 -> 0
+Rota 17: 0 -> 63 -> 76 -> 89 -> 85 -> 50 -> 0
+Rota 18: 0 -> 36 -> 40 -> 41 -> 0
+Rota 19: 0 -> 33 -> 28 -> 27 -> 29 -> 0
+Rota 20: 0 -> 23 -> 18 -> 19 -> 0
+---------------------------------------- 
+INSTANCIA: rc106.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc106.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2446.78
+Iter 1: Melhor = 2337.38
+Iter 3: Melhor = 2279.67
+Iter 8: Melhor = 2165.67
+Iter 17: Melhor = 2156.59
+Iter 26: Melhor = 2122.26
+Iter 30: Melhor = 2092.59
+Iter 39: Melhor = 2087.73
+Iter 43: Melhor = 2030.25
+Iter 55: Melhor = 1996.24
+Iter 63: Melhor = 1993.5
+Iter 65: Melhor = 1983.4
+Iter 82: Melhor = 1953.52
+Iter 85: Melhor = 1941.09
+Iter 94: Melhor = 1938.66
+
+=== RESULTADO FINAL ===
+Custo Total: 1938.66
+Veiculos Usados: 18
+Tempo: 0.23 s
+Rota 1: 0 -> 42 -> 44 -> 40 -> 36 -> 35 -> 37 -> 43 -> 93 -> 0
+Rota 2: 0 -> 72 -> 39 -> 38 -> 41 -> 61 -> 81 -> 96 -> 54 -> 70 -> 100 -> 0
+Rota 3: 0 -> 24 -> 25 -> 48 -> 0
+Rota 4: 0 -> 69 -> 98 -> 88 -> 7 -> 6 -> 8 -> 3 -> 4 -> 1 -> 80 -> 0
+Rota 5: 0 -> 90 -> 57 -> 86 -> 74 -> 58 -> 77 -> 0
+Rota 6: 0 -> 65 -> 52 -> 99 -> 11 -> 10 -> 9 -> 13 -> 17 -> 60 -> 0
+Rota 7: 0 -> 75 -> 59 -> 87 -> 97 -> 66 -> 91 -> 0
+Rota 8: 0 -> 68 -> 55 -> 0
+Rota 9: 0 -> 29 -> 31 -> 34 -> 26 -> 32 -> 50 -> 0
+Rota 10: 0 -> 82 -> 23 -> 21 -> 18 -> 22 -> 20 -> 49 -> 0
+Rota 11: 0 -> 83 -> 64 -> 51 -> 56 -> 84 -> 89 -> 0
+Rota 12: 0 -> 27 -> 28 -> 30 -> 33 -> 0
+Rota 13: 0 -> 62 -> 63 -> 76 -> 85 -> 94 -> 0
+Rota 14: 0 -> 45 -> 5 -> 2 -> 79 -> 73 -> 46 -> 0
+Rota 15: 0 -> 12 -> 14 -> 47 -> 16 -> 15 -> 78 -> 0
+Rota 16: 0 -> 95 -> 92 -> 67 -> 71 -> 0
+Rota 17: 0 -> 53 -> 0
+Rota 18: 0 -> 19 -> 0
+---------------------------------------- 
+INSTANCIA: rc107.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc107.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2359.9
+Iter 1: Melhor = 2300.17
+Iter 3: Melhor = 2196.16
+Iter 4: Melhor = 2186.76
+Iter 5: Melhor = 2033.19
+Iter 11: Melhor = 1994.59
+Iter 24: Melhor = 1942.36
+Iter 28: Melhor = 1937.98
+Iter 29: Melhor = 1877.45
+Iter 40: Melhor = 1868.07
+Iter 45: Melhor = 1817.28
+Iter 51: Melhor = 1814.94
+Iter 52: Melhor = 1792.44
+Iter 53: Melhor = 1785.17
+Iter 54: Melhor = 1744.21
+Iter 88: Melhor = 1722.62
+Iter 89: Melhor = 1693.51
+
+=== RESULTADO FINAL ===
+Custo Total: 1693.51
+Veiculos Usados: 15
+Tempo: 0.24 s
+Rota 1: 0 -> 90 -> 91 -> 56 -> 66 -> 80 -> 0
+Rota 2: 0 -> 82 -> 2 -> 3 -> 5 -> 45 -> 46 -> 8 -> 4 -> 1 -> 0
+Rota 3: 0 -> 92 -> 67 -> 62 -> 50 -> 30 -> 32 -> 33 -> 93 -> 0
+Rota 4: 0 -> 94 -> 81 -> 68 -> 55 -> 100 -> 70 -> 0
+Rota 5: 0 -> 64 -> 51 -> 63 -> 85 -> 96 -> 54 -> 0
+Rota 6: 0 -> 71 -> 72 -> 40 -> 37 -> 35 -> 36 -> 43 -> 39 -> 0
+Rota 7: 0 -> 83 -> 19 -> 21 -> 49 -> 20 -> 22 -> 24 -> 48 -> 25 -> 0
+Rota 8: 0 -> 65 -> 99 -> 52 -> 57 -> 86 -> 59 -> 97 -> 58 -> 74 -> 0
+Rota 9: 0 -> 61 -> 41 -> 44 -> 42 -> 38 -> 60 -> 0
+Rota 10: 0 -> 95 -> 84 -> 76 -> 18 -> 23 -> 89 -> 0
+Rota 11: 0 -> 31 -> 29 -> 28 -> 26 -> 27 -> 34 -> 0
+Rota 12: 0 -> 69 -> 98 -> 53 -> 88 -> 6 -> 7 -> 79 -> 78 -> 17 -> 0
+Rota 13: 0 -> 16 -> 47 -> 14 -> 12 -> 11 -> 10 -> 15 -> 13 -> 0
+Rota 14: 0 -> 9 -> 87 -> 75 -> 77 -> 0
+Rota 15: 0 -> 73 -> 0
+---------------------------------------- 
+INSTANCIA: rc108.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc108.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2088.08
+Iter 1: Melhor = 1977.77
+Iter 2: Melhor = 1974.66
+Iter 5: Melhor = 1939.41
+Iter 7: Melhor = 1828.39
+Iter 19: Melhor = 1828
+Iter 22: Melhor = 1780.43
+Iter 25: Melhor = 1768.91
+Iter 27: Melhor = 1768.77
+Iter 30: Melhor = 1746.5
+Iter 31: Melhor = 1737.4
+Iter 34: Melhor = 1722.07
+Iter 37: Melhor = 1705.73
+Iter 38: Melhor = 1674.41
+Iter 42: Melhor = 1663.08
+Iter 53: Melhor = 1614.48
+Iter 69: Melhor = 1585.75
+
+=== RESULTADO FINAL ===
+Custo Total: 1585.75
+Veiculos Usados: 14
+Tempo: 0.24 s
+Rota 1: 0 -> 69 -> 98 -> 53 -> 12 -> 14 -> 47 -> 17 -> 15 -> 13 -> 74 -> 0
+Rota 2: 0 -> 80 -> 91 -> 92 -> 95 -> 56 -> 93 -> 0
+Rota 3: 0 -> 90 -> 65 -> 58 -> 77 -> 25 -> 48 -> 0
+Rota 4: 0 -> 79 -> 7 -> 8 -> 6 -> 2 -> 100 -> 70 -> 55 -> 68 -> 0
+Rota 5: 0 -> 88 -> 78 -> 73 -> 16 -> 11 -> 10 -> 9 -> 59 -> 0
+Rota 6: 0 -> 81 -> 96 -> 94 -> 62 -> 50 -> 0
+Rota 7: 0 -> 82 -> 99 -> 52 -> 57 -> 86 -> 87 -> 97 -> 75 -> 0
+Rota 8: 0 -> 23 -> 21 -> 18 -> 19 -> 49 -> 22 -> 24 -> 20 -> 83 -> 66 -> 0
+Rota 9: 0 -> 61 -> 42 -> 43 -> 44 -> 40 -> 41 -> 39 -> 35 -> 0
+Rota 10: 0 -> 64 -> 89 -> 76 -> 51 -> 84 -> 85 -> 63 -> 0
+Rota 11: 0 -> 46 -> 3 -> 5 -> 45 -> 4 -> 1 -> 60 -> 0
+Rota 12: 0 -> 71 -> 27 -> 26 -> 28 -> 33 -> 30 -> 31 -> 34 -> 0
+Rota 13: 0 -> 67 -> 29 -> 32 -> 72 -> 54 -> 0
+Rota 14: 0 -> 37 -> 36 -> 38 -> 0
+---------------------------------------- 
+INSTANCIA: rc201.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc201.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2749.74
+Iter 2: Melhor = 2654.33
+Iter 4: Melhor = 2619.61
+Iter 5: Melhor = 2557.29
+Iter 6: Melhor = 2514.97
+Iter 8: Melhor = 2497.39
+Iter 9: Melhor = 2472.57
+Iter 13: Melhor = 2319.11
+Iter 16: Melhor = 2299.8
+Iter 17: Melhor = 2249.89
+Iter 23: Melhor = 2187.83
+Iter 29: Melhor = 2184.36
+Iter 30: Melhor = 2149.26
+Iter 33: Melhor = 2130.48
+Iter 36: Melhor = 2096.59
+Iter 37: Melhor = 2087.56
+Iter 42: Melhor = 2086.66
+Iter 47: Melhor = 2042.83
+Iter 48: Melhor = 1959.91
+Iter 70: Melhor = 1934.41
+Iter 76: Melhor = 1818.48
+Iter 80: Melhor = 1801.84
+
+=== RESULTADO FINAL ===
+Custo Total: 1801.84
+Veiculos Usados: 9
+Tempo: 0.22 s
+Rota 1: 0 -> 65 -> 83 -> 52 -> 99 -> 57 -> 49 -> 22 -> 84 -> 96 -> 54 -> 43 -> 37 -> 35 -> 91 -> 80 -> 93 -> 100 -> 70 -> 0
+Rota 2: 0 -> 90 -> 66 -> 56 -> 20 -> 48 -> 25 -> 77 -> 58 -> 0
+Rota 3: 0 -> 59 -> 75 -> 15 -> 16 -> 11 -> 12 -> 88 -> 53 -> 78 -> 6 -> 8 -> 46 -> 3 -> 4 -> 1 -> 60 -> 17 -> 13 -> 0
+Rota 4: 0 -> 92 -> 62 -> 95 -> 64 -> 21 -> 23 -> 18 -> 19 -> 76 -> 51 -> 85 -> 34 -> 32 -> 26 -> 89 -> 24 -> 0
+Rota 5: 0 -> 82 -> 98 -> 69 -> 10 -> 97 -> 74 -> 55 -> 68 -> 0
+Rota 6: 0 -> 45 -> 5 -> 2 -> 7 -> 79 -> 73 -> 87 -> 86 -> 9 -> 50 -> 0
+Rota 7: 0 -> 72 -> 36 -> 39 -> 38 -> 44 -> 40 -> 41 -> 81 -> 94 -> 0
+Rota 8: 0 -> 42 -> 63 -> 33 -> 31 -> 29 -> 27 -> 28 -> 30 -> 67 -> 71 -> 61 -> 0
+Rota 9: 0 -> 14 -> 47 -> 0
+---------------------------------------- 
+INSTANCIA: rc202.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc202.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2582.63
+Iter 2: Melhor = 2396.14
+Iter 4: Melhor = 2348.8
+Iter 9: Melhor = 2347.32
+Iter 10: Melhor = 2262.5
+Iter 12: Melhor = 2129.29
+Iter 14: Melhor = 2051.53
+Iter 27: Melhor = 2037.53
+Iter 32: Melhor = 1994.45
+Iter 38: Melhor = 1905.19
+Iter 51: Melhor = 1826.57
+
+=== RESULTADO FINAL ===
+Custo Total: 1826.57
+Veiculos Usados: 9
+Tempo: 0.22 s
+Rota 1: 0 -> 90 -> 81 -> 54 -> 68 -> 55 -> 100 -> 70 -> 72 -> 96 -> 94 -> 93 -> 0
+Rota 2: 0 -> 42 -> 39 -> 36 -> 29 -> 27 -> 28 -> 30 -> 32 -> 31 -> 34 -> 26 -> 89 -> 21 -> 48 -> 25 -> 77 -> 58 -> 59 -> 75 -> 52 -> 0
+Rota 3: 0 -> 61 -> 38 -> 44 -> 41 -> 40 -> 43 -> 37 -> 35 -> 4 -> 7 -> 2 -> 5 -> 3 -> 1 -> 80 -> 91 -> 95 -> 50 -> 0
+Rota 4: 0 -> 82 -> 98 -> 83 -> 85 -> 63 -> 84 -> 49 -> 22 -> 20 -> 24 -> 74 -> 12 -> 17 -> 60 -> 0
+Rota 5: 0 -> 45 -> 8 -> 46 -> 6 -> 66 -> 56 -> 10 -> 13 -> 0
+Rota 6: 0 -> 65 -> 47 -> 14 -> 11 -> 15 -> 16 -> 73 -> 78 -> 79 -> 53 -> 86 -> 57 -> 97 -> 0
+Rota 7: 0 -> 88 -> 67 -> 71 -> 51 -> 87 -> 9 -> 0
+Rota 8: 0 -> 92 -> 33 -> 62 -> 19 -> 23 -> 18 -> 76 -> 99 -> 0
+Rota 9: 0 -> 69 -> 64 -> 0
+---------------------------------------- 
+INSTANCIA: rc203.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc203.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2206.53
+Iter 2: Melhor = 2159.27
+Iter 6: Melhor = 2104.69
+Iter 7: Melhor = 2099.76
+Iter 8: Melhor = 1973.87
+Iter 9: Melhor = 1952.12
+Iter 12: Melhor = 1899.71
+Iter 17: Melhor = 1830.56
+Iter 28: Melhor = 1777.51
+Iter 33: Melhor = 1770.03
+Iter 34: Melhor = 1756.44
+Iter 35: Melhor = 1742.41
+Iter 36: Melhor = 1695.89
+Iter 41: Melhor = 1669.75
+Iter 60: Melhor = 1665.93
+Iter 61: Melhor = 1557.55
+Iter 65: Melhor = 1556.73
+Iter 68: Melhor = 1504.25
+Iter 74: Melhor = 1458.62
+Iter 82: Melhor = 1436.02
+
+=== RESULTADO FINAL ===
+Custo Total: 1436.02
+Veiculos Usados: 8
+Tempo: 0.24 s
+Rota 1: 0 -> 90 -> 82 -> 99 -> 87 -> 10 -> 13 -> 17 -> 47 -> 14 -> 12 -> 16 -> 73 -> 2 -> 7 -> 5 -> 3 -> 1 -> 46 -> 0
+Rota 2: 0 -> 65 -> 64 -> 23 -> 25 -> 21 -> 48 -> 18 -> 19 -> 20 -> 24 -> 51 -> 85 -> 0
+Rota 3: 0 -> 92 -> 67 -> 62 -> 76 -> 84 -> 63 -> 89 -> 22 -> 49 -> 83 -> 57 -> 52 -> 86 -> 74 -> 59 -> 97 -> 58 -> 77 -> 75 -> 60 -> 98 -> 0
+Rota 4: 0 -> 27 -> 33 -> 30 -> 32 -> 28 -> 26 -> 29 -> 31 -> 34 -> 50 -> 66 -> 56 -> 95 -> 91 -> 80 -> 94 -> 93 -> 71 -> 72 -> 54 -> 96 -> 0
+Rota 5: 0 -> 69 -> 88 -> 53 -> 78 -> 79 -> 6 -> 8 -> 4 -> 70 -> 100 -> 43 -> 37 -> 61 -> 0
+Rota 6: 0 -> 45 -> 42 -> 44 -> 38 -> 41 -> 40 -> 35 -> 55 -> 68 -> 81 -> 0
+Rota 7: 0 -> 11 -> 15 -> 9 -> 0
+Rota 8: 0 -> 36 -> 39 -> 0
+---------------------------------------- 
+INSTANCIA: rc204.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc204.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1797.98
+Iter 4: Melhor = 1764.79
+Iter 6: Melhor = 1714.1
+Iter 7: Melhor = 1687.23
+Iter 8: Melhor = 1592.3
+Iter 10: Melhor = 1527.06
+Iter 12: Melhor = 1526.96
+Iter 16: Melhor = 1471.97
+Iter 18: Melhor = 1410.6
+Iter 24: Melhor = 1393.99
+Iter 25: Melhor = 1385.65
+Iter 27: Melhor = 1356.09
+Iter 28: Melhor = 1355.63
+Iter 29: Melhor = 1271.86
+Iter 45: Melhor = 1230.97
+Iter 64: Melhor = 1201.11
+
+=== RESULTADO FINAL ===
+Custo Total: 1201.11
+Veiculos Usados: 5
+Tempo: 0.23 s
+Rota 1: 0 -> 90 -> 23 -> 76 -> 99 -> 53 -> 13 -> 75 -> 58 -> 77 -> 59 -> 97 -> 57 -> 52 -> 82 -> 0
+Rota 2: 0 -> 69 -> 79 -> 8 -> 4 -> 3 -> 1 -> 61 -> 43 -> 40 -> 37 -> 36 -> 35 -> 42 -> 39 -> 41 -> 72 -> 94 -> 56 -> 0
+Rota 3: 0 -> 80 -> 91 -> 92 -> 95 -> 84 -> 85 -> 63 -> 89 -> 51 -> 71 -> 93 -> 96 -> 54 -> 81 -> 68 -> 55 -> 70 -> 100 -> 2 -> 6 -> 7 -> 46 -> 45 -> 5 -> 0
+Rota 4: 0 -> 98 -> 88 -> 60 -> 78 -> 73 -> 10 -> 12 -> 14 -> 17 -> 47 -> 16 -> 15 -> 11 -> 9 -> 87 -> 86 -> 74 -> 22 -> 20 -> 49 -> 19 -> 48 -> 21 -> 18 -> 25 -> 24 -> 64 -> 83 -> 66 -> 65 -> 0
+Rota 5: 0 -> 34 -> 31 -> 29 -> 28 -> 26 -> 30 -> 32 -> 33 -> 27 -> 62 -> 50 -> 67 -> 38 -> 44 -> 0
+---------------------------------------- 
+INSTANCIA: rc205.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc205.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2603.62
+Iter 2: Melhor = 2575.7
+Iter 3: Melhor = 2470.41
+Iter 4: Melhor = 2459.88
+Iter 6: Melhor = 2402.01
+Iter 10: Melhor = 2387.68
+Iter 12: Melhor = 2287.8
+Iter 16: Melhor = 2223.03
+Iter 19: Melhor = 2159.82
+Iter 26: Melhor = 2155.78
+Iter 44: Melhor = 2002.02
+
+=== RESULTADO FINAL ===
+Custo Total: 2002.02
+Veiculos Usados: 9
+Tempo: 0.22 s
+Rota 1: 0 -> 90 -> 57 -> 86 -> 74 -> 13 -> 17 -> 60 -> 93 -> 96 -> 80 -> 91 -> 100 -> 70 -> 0
+Rota 2: 0 -> 92 -> 95 -> 84 -> 85 -> 20 -> 49 -> 21 -> 25 -> 48 -> 24 -> 58 -> 0
+Rota 3: 0 -> 65 -> 99 -> 52 -> 82 -> 9 -> 87 -> 59 -> 75 -> 97 -> 77 -> 89 -> 0
+Rota 4: 0 -> 69 -> 98 -> 53 -> 66 -> 56 -> 54 -> 94 -> 68 -> 34 -> 26 -> 32 -> 50 -> 1 -> 0
+Rota 5: 0 -> 36 -> 39 -> 42 -> 44 -> 40 -> 38 -> 35 -> 37 -> 43 -> 3 -> 0
+Rota 6: 0 -> 88 -> 79 -> 73 -> 78 -> 8 -> 5 -> 46 -> 6 -> 7 -> 10 -> 55 -> 4 -> 0
+Rota 7: 0 -> 27 -> 33 -> 28 -> 30 -> 29 -> 31 -> 61 -> 81 -> 72 -> 71 -> 41 -> 83 -> 0
+Rota 8: 0 -> 62 -> 63 -> 23 -> 18 -> 19 -> 22 -> 51 -> 2 -> 0
+Rota 9: 0 -> 45 -> 47 -> 14 -> 12 -> 15 -> 16 -> 11 -> 64 -> 67 -> 76 -> 0
+---------------------------------------- 
+INSTANCIA: rc206.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc206.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2397.57
+Iter 1: Melhor = 2221.83
+Iter 6: Melhor = 2174.39
+Iter 7: Melhor = 2040.46
+Iter 14: Melhor = 1964.6
+Iter 20: Melhor = 1924.72
+Iter 22: Melhor = 1888.96
+Iter 29: Melhor = 1861.32
+Iter 30: Melhor = 1821.02
+Iter 34: Melhor = 1817.31
+Iter 36: Melhor = 1705.65
+Iter 38: Melhor = 1661.77
+Iter 42: Melhor = 1596.43
+Iter 44: Melhor = 1516.13
+Iter 62: Melhor = 1430.1
+
+=== RESULTADO FINAL ===
+Custo Total: 1430.10
+Veiculos Usados: 5
+Tempo: 0.22 s
+Rota 1: 0 -> 90 -> 69 -> 98 -> 88 -> 53 -> 78 -> 73 -> 79 -> 8 -> 46 -> 4 -> 1 -> 3 -> 43 -> 37 -> 35 -> 68 -> 70 -> 100 -> 80 -> 91 -> 93 -> 0
+Rota 2: 0 -> 61 -> 81 -> 41 -> 38 -> 40 -> 44 -> 96 -> 54 -> 94 -> 55 -> 60 -> 17 -> 13 -> 97 -> 74 -> 58 -> 77 -> 25 -> 48 -> 24 -> 89 -> 0
+Rota 3: 0 -> 92 -> 95 -> 62 -> 31 -> 29 -> 27 -> 28 -> 30 -> 33 -> 63 -> 85 -> 76 -> 51 -> 18 -> 21 -> 23 -> 19 -> 49 -> 20 -> 22 -> 84 -> 50 -> 34 -> 32 -> 26 -> 56 -> 66 -> 0
+Rota 4: 0 -> 65 -> 72 -> 42 -> 39 -> 36 -> 71 -> 67 -> 64 -> 83 -> 99 -> 52 -> 82 -> 16 -> 12 -> 10 -> 9 -> 87 -> 86 -> 57 -> 0
+Rota 5: 0 -> 5 -> 45 -> 2 -> 47 -> 14 -> 11 -> 15 -> 75 -> 59 -> 7 -> 6 -> 0
+---------------------------------------- 
+INSTANCIA: rc207.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc207.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2273.41
+Iter 2: Melhor = 2096.13
+Iter 9: Melhor = 2057.74
+Iter 10: Melhor = 2030.08
+Iter 12: Melhor = 1968.62
+Iter 14: Melhor = 1916.99
+Iter 18: Melhor = 1896.7
+Iter 20: Melhor = 1773.11
+Iter 41: Melhor = 1691.94
+Iter 57: Melhor = 1604.2
+
+=== RESULTADO FINAL ===
+Custo Total: 1604.20
+Veiculos Usados: 6
+Tempo: 0.23 s
+Rota 1: 0 -> 83 -> 64 -> 85 -> 63 -> 76 -> 51 -> 49 -> 22 -> 20 -> 84 -> 62 -> 50 -> 34 -> 32 -> 27 -> 26 -> 33 -> 89 -> 91 -> 66 -> 56 -> 24 -> 93 -> 80 -> 0
+Rota 2: 0 -> 90 -> 86 -> 74 -> 87 -> 59 -> 53 -> 78 -> 10 -> 97 -> 9 -> 13 -> 17 -> 77 -> 58 -> 25 -> 48 -> 60 -> 4 -> 100 -> 70 -> 0
+Rota 3: 0 -> 98 -> 69 -> 12 -> 11 -> 16 -> 15 -> 14 -> 73 -> 79 -> 5 -> 7 -> 8 -> 3 -> 1 -> 46 -> 45 -> 6 -> 39 -> 35 -> 54 -> 68 -> 55 -> 0
+Rota 4: 0 -> 95 -> 71 -> 72 -> 30 -> 31 -> 29 -> 28 -> 67 -> 94 -> 81 -> 44 -> 40 -> 38 -> 36 -> 37 -> 41 -> 42 -> 43 -> 92 -> 96 -> 0
+Rota 5: 0 -> 61 -> 2 -> 88 -> 99 -> 57 -> 23 -> 21 -> 19 -> 18 -> 65 -> 0
+Rota 6: 0 -> 82 -> 52 -> 75 -> 47 -> 0
+---------------------------------------- 
+INSTANCIA: rc208.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc208.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1944.96
+Iter 1: Melhor = 1875.21
+Iter 3: Melhor = 1808.64
+Iter 5: Melhor = 1788.57
+Iter 6: Melhor = 1771.73
+Iter 7: Melhor = 1770.41
+Iter 8: Melhor = 1732.56
+Iter 9: Melhor = 1690.9
+Iter 10: Melhor = 1667.32
+Iter 12: Melhor = 1620.92
+Iter 13: Melhor = 1590.4
+Iter 14: Melhor = 1589.79
+Iter 16: Melhor = 1566.18
+Iter 17: Melhor = 1548.62
+Iter 18: Melhor = 1493.67
+Iter 20: Melhor = 1420.87
+Iter 32: Melhor = 1402.5
+Iter 36: Melhor = 1373.35
+Iter 41: Melhor = 1316.26
+Iter 53: Melhor = 1254.52
+Iter 61: Melhor = 1253.72
+Iter 65: Melhor = 1251.82
+Iter 68: Melhor = 1248.25
+Iter 70: Melhor = 1243.27
+Iter 71: Melhor = 1236.8
+Iter 72: Melhor = 1211.09
+Iter 78: Melhor = 1209.06
+Iter 80: Melhor = 1195.24
+Iter 83: Melhor = 1189.88
+Iter 84: Melhor = 1188.07
+Iter 88: Melhor = 1165.89
+Iter 93: Melhor = 1129.12
+Iter 95: Melhor = 1118.74
+
+=== RESULTADO FINAL ===
+Custo Total: 1118.74
+Veiculos Usados: 4
+Tempo: 0.23 s
+Rota 1: 0 -> 90 -> 65 -> 83 -> 64 -> 92 -> 95 -> 67 -> 62 -> 50 -> 33 -> 28 -> 26 -> 27 -> 29 -> 31 -> 34 -> 32 -> 30 -> 84 -> 51 -> 22 -> 24 -> 20 -> 49 -> 48 -> 25 -> 77 -> 58 -> 74 -> 13 -> 17 -> 60 -> 70 -> 100 -> 55 -> 68 -> 80 -> 91 -> 0
+Rota 2: 0 -> 82 -> 99 -> 52 -> 57 -> 86 -> 11 -> 16 -> 15 -> 12 -> 14 -> 47 -> 78 -> 73 -> 79 -> 7 -> 2 -> 6 -> 8 -> 46 -> 4 -> 45 -> 5 -> 3 -> 1 -> 43 -> 37 -> 35 -> 39 -> 41 -> 54 -> 96 -> 93 -> 66 -> 56 -> 89 -> 0
+Rota 3: 0 -> 61 -> 81 -> 94 -> 85 -> 63 -> 76 -> 19 -> 18 -> 21 -> 23 -> 87 -> 75 -> 59 -> 97 -> 10 -> 9 -> 53 -> 0
+Rota 4: 0 -> 69 -> 98 -> 88 -> 36 -> 40 -> 44 -> 42 -> 38 -> 72 -> 71 -> 0
+---------------------------------------- 
+INSTANCIA: relatorio_final.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: relatorio_final.txt
+Formigas: 30 | Iteracoes: 100
+---------------------------------------- 
+INSTANCIA: rc101.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc101.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2960.09
+Iter 2: Melhor = 2793.44
+Iter 7: Melhor = 2712.57
+Iter 11: Melhor = 2709.19
+Iter 15: Melhor = 2709.17
+Iter 17: Melhor = 2606.22
+Iter 19: Melhor = 2523.76
+Iter 20: Melhor = 2429.71
+Iter 32: Melhor = 2422.71
+Iter 34: Melhor = 2371.1
+Iter 38: Melhor = 2369.83
+Iter 41: Melhor = 2329.26
+Iter 47: Melhor = 2252.69
+Iter 77: Melhor = 2226.29
+
+=== RESULTADO FINAL ===
+Custo Total: 2226.29
+Veiculos Usados: 22
+Tempo: 0.22 s
+Rota 1: 0 -> 66 -> 56 -> 91 -> 80 -> 0
+Rota 2: 0 -> 88 -> 73 -> 79 -> 60 -> 70 -> 100 -> 0
+Rota 3: 0 -> 2 -> 6 -> 7 -> 3 -> 1 -> 4 -> 0
+Rota 4: 0 -> 65 -> 83 -> 64 -> 19 -> 49 -> 22 -> 20 -> 24 -> 25 -> 0
+Rota 5: 0 -> 90 -> 94 -> 96 -> 54 -> 68 -> 93 -> 0
+Rota 6: 0 -> 92 -> 95 -> 84 -> 85 -> 50 -> 0
+Rota 7: 0 -> 82 -> 99 -> 57 -> 74 -> 58 -> 0
+Rota 8: 0 -> 69 -> 98 -> 53 -> 78 -> 10 -> 13 -> 17 -> 0
+Rota 9: 0 -> 52 -> 86 -> 87 -> 97 -> 77 -> 0
+Rota 10: 0 -> 61 -> 81 -> 55 -> 0
+Rota 11: 0 -> 42 -> 44 -> 43 -> 37 -> 35 -> 0
+Rota 12: 0 -> 62 -> 51 -> 76 -> 89 -> 48 -> 0
+Rota 13: 0 -> 59 -> 11 -> 12 -> 9 -> 0
+Rota 14: 0 -> 27 -> 29 -> 31 -> 30 -> 32 -> 0
+Rota 15: 0 -> 72 -> 38 -> 40 -> 41 -> 0
+Rota 16: 0 -> 23 -> 21 -> 18 -> 0
+Rota 17: 0 -> 63 -> 33 -> 28 -> 26 -> 34 -> 0
+Rota 18: 0 -> 39 -> 36 -> 71 -> 0
+Rota 19: 0 -> 67 -> 46 -> 0
+Rota 20: 0 -> 45 -> 5 -> 8 -> 0
+Rota 21: 0 -> 14 -> 47 -> 16 -> 15 -> 0
+Rota 22: 0 -> 75 -> 0
+---------------------------------------- 
+INSTANCIA: rc102.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc102.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2689.2
+Iter 3: Melhor = 2616.41
+Iter 11: Melhor = 2601.42
+Iter 12: Melhor = 2552.66
+Iter 13: Melhor = 2442.2
+Iter 17: Melhor = 2439.77
+Iter 21: Melhor = 2371.97
+Iter 24: Melhor = 2358.28
+Iter 30: Melhor = 2344.4
+Iter 38: Melhor = 2318.24
+Iter 41: Melhor = 2315.14
+Iter 42: Melhor = 2191.2
+Iter 48: Melhor = 2147.69
+Iter 52: Melhor = 2029.6
+Iter 82: Melhor = 2024.46
+Iter 93: Melhor = 2022.31
+
+=== RESULTADO FINAL ===
+Custo Total: 2022.31
+Veiculos Usados: 19
+Tempo: 0.22 s
+Rota 1: 0 -> 36 -> 39 -> 38 -> 44 -> 41 -> 43 -> 35 -> 37 -> 72 -> 0
+Rota 2: 0 -> 45 -> 6 -> 7 -> 46 -> 4 -> 3 -> 5 -> 1 -> 0
+Rota 3: 0 -> 53 -> 98 -> 82 -> 52 -> 83 -> 91 -> 80 -> 0
+Rota 4: 0 -> 71 -> 67 -> 84 -> 85 -> 95 -> 50 -> 0
+Rota 5: 0 -> 69 -> 88 -> 10 -> 13 -> 17 -> 12 -> 0
+Rota 6: 0 -> 90 -> 66 -> 56 -> 70 -> 0
+Rota 7: 0 -> 14 -> 47 -> 73 -> 79 -> 8 -> 2 -> 100 -> 0
+Rota 8: 0 -> 92 -> 62 -> 51 -> 76 -> 20 -> 24 -> 21 -> 48 -> 0
+Rota 9: 0 -> 99 -> 57 -> 86 -> 74 -> 59 -> 0
+Rota 10: 0 -> 65 -> 9 -> 87 -> 97 -> 75 -> 58 -> 0
+Rota 11: 0 -> 42 -> 40 -> 54 -> 93 -> 96 -> 94 -> 0
+Rota 12: 0 -> 77 -> 25 -> 0
+Rota 13: 0 -> 68 -> 55 -> 0
+Rota 14: 0 -> 61 -> 81 -> 60 -> 0
+Rota 15: 0 -> 64 -> 22 -> 49 -> 89 -> 0
+Rota 16: 0 -> 63 -> 33 -> 28 -> 30 -> 32 -> 26 -> 31 -> 34 -> 0
+Rota 17: 0 -> 11 -> 15 -> 16 -> 78 -> 0
+Rota 18: 0 -> 29 -> 27 -> 0
+Rota 19: 0 -> 23 -> 19 -> 18 -> 0
+---------------------------------------- 
+INSTANCIA: rc103.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc103.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2526.15
+Iter 1: Melhor = 2523.02
+Iter 2: Melhor = 2391.27
+Iter 5: Melhor = 2371.34
+Iter 7: Melhor = 2173.33
+Iter 18: Melhor = 2098.62
+Iter 21: Melhor = 2083.4
+Iter 27: Melhor = 2059.76
+Iter 36: Melhor = 2045.1
+Iter 37: Melhor = 2005.96
+Iter 42: Melhor = 1990.26
+Iter 45: Melhor = 1956.75
+Iter 47: Melhor = 1940.42
+Iter 48: Melhor = 1867.29
+Iter 74: Melhor = 1844.86
+
+=== RESULTADO FINAL ===
+Custo Total: 1844.86
+Veiculos Usados: 17
+Tempo: 0.23 s
+Rota 1: 0 -> 92 -> 56 -> 95 -> 94 -> 80 -> 96 -> 0
+Rota 2: 0 -> 42 -> 44 -> 38 -> 40 -> 43 -> 35 -> 37 -> 72 -> 54 -> 81 -> 0
+Rota 3: 0 -> 83 -> 57 -> 99 -> 87 -> 75 -> 77 -> 24 -> 0
+Rota 4: 0 -> 27 -> 26 -> 28 -> 30 -> 32 -> 34 -> 31 -> 29 -> 71 -> 0
+Rota 5: 0 -> 90 -> 66 -> 74 -> 86 -> 52 -> 0
+Rota 6: 0 -> 65 -> 19 -> 49 -> 22 -> 20 -> 58 -> 82 -> 0
+Rota 7: 0 -> 98 -> 53 -> 9 -> 10 -> 12 -> 47 -> 17 -> 14 -> 0
+Rota 8: 0 -> 64 -> 23 -> 21 -> 48 -> 18 -> 25 -> 91 -> 0
+Rota 9: 0 -> 88 -> 55 -> 100 -> 70 -> 0
+Rota 10: 0 -> 11 -> 15 -> 16 -> 13 -> 97 -> 59 -> 0
+Rota 11: 0 -> 76 -> 84 -> 85 -> 63 -> 89 -> 51 -> 0
+Rota 12: 0 -> 69 -> 60 -> 73 -> 78 -> 7 -> 46 -> 4 -> 3 -> 0
+Rota 13: 0 -> 62 -> 67 -> 50 -> 93 -> 61 -> 0
+Rota 14: 0 -> 45 -> 8 -> 6 -> 2 -> 1 -> 5 -> 0
+Rota 15: 0 -> 79 -> 68 -> 0
+Rota 16: 0 -> 33 -> 41 -> 0
+Rota 17: 0 -> 39 -> 36 -> 0
+---------------------------------------- 
+INSTANCIA: rc104.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc104.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2004.96
+Iter 10: Melhor = 1961.02
+Iter 11: Melhor = 1896.19
+Iter 13: Melhor = 1873.4
+Iter 25: Melhor = 1811.44
+Iter 40: Melhor = 1801.03
+Iter 50: Melhor = 1712.57
+Iter 56: Melhor = 1686.68
+Iter 90: Melhor = 1651.48
+
+=== RESULTADO FINAL ===
+Custo Total: 1651.48
+Veiculos Usados: 15
+Tempo: 0.24 s
+Rota 1: 0 -> 68 -> 70 -> 100 -> 82 -> 0
+Rota 2: 0 -> 90 -> 96 -> 93 -> 94 -> 91 -> 81 -> 54 -> 72 -> 71 -> 80 -> 0
+Rota 3: 0 -> 65 -> 10 -> 11 -> 9 -> 87 -> 59 -> 97 -> 75 -> 0
+Rota 4: 0 -> 53 -> 78 -> 73 -> 88 -> 60 -> 98 -> 0
+Rota 5: 0 -> 69 -> 99 -> 57 -> 52 -> 86 -> 74 -> 58 -> 83 -> 0
+Rota 6: 0 -> 92 -> 44 -> 43 -> 42 -> 40 -> 37 -> 36 -> 35 -> 39 -> 41 -> 61 -> 0
+Rota 7: 0 -> 24 -> 22 -> 20 -> 49 -> 19 -> 18 -> 48 -> 21 -> 51 -> 64 -> 95 -> 0
+Rota 8: 0 -> 50 -> 29 -> 31 -> 34 -> 26 -> 28 -> 27 -> 33 -> 32 -> 0
+Rota 9: 0 -> 30 -> 76 -> 89 -> 85 -> 63 -> 56 -> 66 -> 0
+Rota 10: 0 -> 1 -> 4 -> 46 -> 2 -> 6 -> 0
+Rota 11: 0 -> 14 -> 47 -> 17 -> 16 -> 15 -> 13 -> 12 -> 0
+Rota 12: 0 -> 45 -> 5 -> 3 -> 8 -> 79 -> 7 -> 55 -> 0
+Rota 13: 0 -> 23 -> 25 -> 77 -> 0
+Rota 14: 0 -> 62 -> 67 -> 84 -> 0
+Rota 15: 0 -> 38 -> 0
+---------------------------------------- 
+INSTANCIA: rc105.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc105.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2812.5
+Iter 2: Melhor = 2758.03
+Iter 3: Melhor = 2602.34
+Iter 13: Melhor = 2591.95
+Iter 15: Melhor = 2556.55
+Iter 17: Melhor = 2525.29
+Iter 19: Melhor = 2494.34
+Iter 20: Melhor = 2487.9
+Iter 21: Melhor = 2482.62
+Iter 27: Melhor = 2458.46
+Iter 28: Melhor = 2392.1
+Iter 29: Melhor = 2382.64
+Iter 33: Melhor = 2373.72
+Iter 37: Melhor = 2342.21
+Iter 56: Melhor = 2288.29
+Iter 58: Melhor = 2279.35
+Iter 64: Melhor = 2173.71
+Iter 92: Melhor = 2170.01
+
+=== RESULTADO FINAL ===
+Custo Total: 2170.01
+Veiculos Usados: 22
+Tempo: 0.22 s
+Rota 1: 0 -> 90 -> 98 -> 55 -> 68 -> 70 -> 100 -> 0
+Rota 2: 0 -> 80 -> 91 -> 0
+Rota 3: 0 -> 94 -> 71 -> 41 -> 43 -> 35 -> 37 -> 96 -> 0
+Rota 4: 0 -> 56 -> 66 -> 93 -> 0
+Rota 5: 0 -> 23 -> 18 -> 19 -> 49 -> 77 -> 24 -> 0
+Rota 6: 0 -> 60 -> 17 -> 0
+Rota 7: 0 -> 65 -> 53 -> 10 -> 12 -> 13 -> 0
+Rota 8: 0 -> 64 -> 86 -> 87 -> 59 -> 97 -> 75 -> 58 -> 0
+Rota 9: 0 -> 69 -> 88 -> 2 -> 6 -> 7 -> 46 -> 4 -> 1 -> 3 -> 0
+Rota 10: 0 -> 82 -> 52 -> 99 -> 74 -> 0
+Rota 11: 0 -> 33 -> 30 -> 32 -> 26 -> 34 -> 31 -> 0
+Rota 12: 0 -> 5 -> 45 -> 8 -> 54 -> 0
+Rota 13: 0 -> 81 -> 61 -> 72 -> 50 -> 0
+Rota 14: 0 -> 92 -> 95 -> 27 -> 28 -> 29 -> 89 -> 0
+Rota 15: 0 -> 83 -> 57 -> 22 -> 20 -> 48 -> 21 -> 25 -> 0
+Rota 16: 0 -> 47 -> 14 -> 15 -> 16 -> 78 -> 0
+Rota 17: 0 -> 79 -> 73 -> 0
+Rota 18: 0 -> 11 -> 9 -> 0
+Rota 19: 0 -> 76 -> 63 -> 51 -> 85 -> 0
+Rota 20: 0 -> 62 -> 67 -> 84 -> 0
+Rota 21: 0 -> 39 -> 42 -> 44 -> 38 -> 40 -> 0
+Rota 22: 0 -> 36 -> 0
+---------------------------------------- 
+INSTANCIA: rc106.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc106.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2505.8
+Iter 1: Melhor = 2441.76
+Iter 3: Melhor = 2430.78
+Iter 5: Melhor = 2389.58
+Iter 7: Melhor = 2366.02
+Iter 8: Melhor = 2297
+Iter 11: Melhor = 2273.83
+Iter 13: Melhor = 2158.82
+Iter 16: Melhor = 2151.35
+Iter 23: Melhor = 1996.65
+Iter 37: Melhor = 1911.7
+Iter 92: Melhor = 1865.77
+
+=== RESULTADO FINAL ===
+Custo Total: 1865.77
+Veiculos Usados: 16
+Tempo: 0.22 s
+Rota 1: 0 -> 90 -> 66 -> 56 -> 100 -> 70 -> 0
+Rota 2: 0 -> 94 -> 67 -> 50 -> 34 -> 32 -> 91 -> 0
+Rota 3: 0 -> 61 -> 81 -> 71 -> 93 -> 96 -> 54 -> 80 -> 0
+Rota 4: 0 -> 83 -> 64 -> 85 -> 63 -> 22 -> 49 -> 20 -> 48 -> 24 -> 0
+Rota 5: 0 -> 27 -> 29 -> 31 -> 28 -> 26 -> 89 -> 0
+Rota 6: 0 -> 69 -> 98 -> 53 -> 12 -> 78 -> 60 -> 68 -> 0
+Rota 7: 0 -> 65 -> 99 -> 57 -> 86 -> 74 -> 58 -> 77 -> 0
+Rota 8: 0 -> 72 -> 44 -> 41 -> 40 -> 43 -> 37 -> 35 -> 0
+Rota 9: 0 -> 87 -> 59 -> 75 -> 97 -> 13 -> 17 -> 0
+Rota 10: 0 -> 92 -> 95 -> 62 -> 33 -> 30 -> 84 -> 25 -> 0
+Rota 11: 0 -> 82 -> 11 -> 14 -> 47 -> 15 -> 16 -> 9 -> 10 -> 0
+Rota 12: 0 -> 52 -> 23 -> 21 -> 18 -> 19 -> 55 -> 0
+Rota 13: 0 -> 88 -> 2 -> 6 -> 46 -> 8 -> 4 -> 1 -> 0
+Rota 14: 0 -> 42 -> 39 -> 38 -> 36 -> 3 -> 0
+Rota 15: 0 -> 5 -> 45 -> 7 -> 79 -> 73 -> 0
+Rota 16: 0 -> 76 -> 51 -> 0
+---------------------------------------- 
+INSTANCIA: rc107.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc107.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2263.26
+Iter 1: Melhor = 2213.75
+Iter 2: Melhor = 2177.73
+Iter 5: Melhor = 2172.47
+Iter 7: Melhor = 2115.51
+Iter 9: Melhor = 2075.5
+Iter 11: Melhor = 2022.79
+Iter 16: Melhor = 2016.16
+Iter 20: Melhor = 1941.59
+Iter 25: Melhor = 1895.76
+Iter 28: Melhor = 1872.01
+Iter 38: Melhor = 1867.1
+Iter 39: Melhor = 1856.18
+Iter 40: Melhor = 1828.78
+Iter 41: Melhor = 1751.76
+Iter 72: Melhor = 1749.87
+Iter 75: Melhor = 1715.35
+
+=== RESULTADO FINAL ===
+Custo Total: 1715.35
+Veiculos Usados: 15
+Tempo: 0.23 s
+Rota 1: 0 -> 52 -> 86 -> 75 -> 77 -> 58 -> 74 -> 0
+Rota 2: 0 -> 90 -> 69 -> 81 -> 54 -> 96 -> 93 -> 91 -> 80 -> 0
+Rota 3: 0 -> 61 -> 72 -> 38 -> 37 -> 35 -> 36 -> 39 -> 68 -> 0
+Rota 4: 0 -> 98 -> 88 -> 78 -> 79 -> 73 -> 8 -> 6 -> 4 -> 100 -> 0
+Rota 5: 0 -> 92 -> 95 -> 84 -> 62 -> 67 -> 50 -> 34 -> 32 -> 33 -> 0
+Rota 6: 0 -> 53 -> 10 -> 11 -> 9 -> 13 -> 15 -> 17 -> 60 -> 0
+Rota 7: 0 -> 2 -> 7 -> 46 -> 45 -> 1 -> 3 -> 55 -> 70 -> 0
+Rota 8: 0 -> 71 -> 94 -> 23 -> 25 -> 48 -> 24 -> 0
+Rota 9: 0 -> 64 -> 51 -> 85 -> 63 -> 76 -> 89 -> 56 -> 0
+Rota 10: 0 -> 82 -> 65 -> 83 -> 57 -> 99 -> 66 -> 20 -> 0
+Rota 11: 0 -> 40 -> 41 -> 44 -> 42 -> 43 -> 0
+Rota 12: 0 -> 14 -> 12 -> 47 -> 16 -> 59 -> 87 -> 97 -> 0
+Rota 13: 0 -> 31 -> 29 -> 28 -> 26 -> 27 -> 30 -> 0
+Rota 14: 0 -> 22 -> 21 -> 18 -> 19 -> 49 -> 0
+Rota 15: 0 -> 5 -> 0
+---------------------------------------- 
+INSTANCIA: rc108.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc108.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2111.28
+Iter 2: Melhor = 1877.77
+Iter 8: Melhor = 1830.4
+Iter 14: Melhor = 1767.08
+Iter 32: Melhor = 1722.71
+Iter 33: Melhor = 1722.52
+Iter 39: Melhor = 1659.92
+Iter 48: Melhor = 1649.72
+Iter 55: Melhor = 1601.1
+Iter 67: Melhor = 1499.92
+Iter 91: Melhor = 1444.56
+
+=== RESULTADO FINAL ===
+Custo Total: 1444.56
+Veiculos Usados: 13
+Tempo: 0.23 s
+Rota 1: 0 -> 61 -> 81 -> 71 -> 72 -> 54 -> 96 -> 93 -> 91 -> 80 -> 0
+Rota 2: 0 -> 90 -> 69 -> 55 -> 88 -> 98 -> 83 -> 66 -> 68 -> 0
+Rota 3: 0 -> 65 -> 99 -> 52 -> 87 -> 59 -> 97 -> 75 -> 58 -> 74 -> 0
+Rota 4: 0 -> 49 -> 19 -> 18 -> 22 -> 20 -> 24 -> 0
+Rota 5: 0 -> 41 -> 42 -> 44 -> 43 -> 40 -> 38 -> 39 -> 37 -> 36 -> 35 -> 0
+Rota 6: 0 -> 94 -> 67 -> 62 -> 85 -> 63 -> 50 -> 0
+Rota 7: 0 -> 46 -> 5 -> 3 -> 1 -> 45 -> 4 -> 70 -> 100 -> 0
+Rota 8: 0 -> 33 -> 32 -> 30 -> 31 -> 34 -> 29 -> 26 -> 28 -> 27 -> 0
+Rota 9: 0 -> 86 -> 10 -> 14 -> 12 -> 17 -> 47 -> 13 -> 0
+Rota 10: 0 -> 51 -> 76 -> 89 -> 48 -> 21 -> 23 -> 25 -> 77 -> 0
+Rota 11: 0 -> 82 -> 53 -> 11 -> 9 -> 15 -> 16 -> 60 -> 0
+Rota 12: 0 -> 57 -> 64 -> 56 -> 95 -> 84 -> 92 -> 0
+Rota 13: 0 -> 2 -> 6 -> 8 -> 7 -> 79 -> 73 -> 78 -> 0
+---------------------------------------- 
+INSTANCIA: rc201.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc201.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2732.12
+Iter 1: Melhor = 2669.13
+Iter 2: Melhor = 2482.69
+Iter 8: Melhor = 2321.87
+Iter 11: Melhor = 2280.33
+Iter 19: Melhor = 2208.2
+Iter 22: Melhor = 2107.36
+Iter 34: Melhor = 2090.26
+Iter 35: Melhor = 2067.65
+Iter 38: Melhor = 1982.65
+Iter 45: Melhor = 1965.29
+Iter 47: Melhor = 1943.55
+Iter 49: Melhor = 1942.36
+Iter 61: Melhor = 1920.77
+Iter 63: Melhor = 1890.72
+Iter 98: Melhor = 1884.81
+
+=== RESULTADO FINAL ===
+Custo Total: 1884.81
+Veiculos Usados: 10
+Tempo: 0.21 s
+Rota 1: 0 -> 90 -> 66 -> 56 -> 91 -> 80 -> 93 -> 70 -> 100 -> 0
+Rota 2: 0 -> 92 -> 95 -> 62 -> 67 -> 71 -> 94 -> 84 -> 51 -> 85 -> 50 -> 34 -> 26 -> 32 -> 89 -> 24 -> 48 -> 25 -> 77 -> 58 -> 0
+Rota 3: 0 -> 72 -> 42 -> 39 -> 38 -> 44 -> 40 -> 43 -> 35 -> 37 -> 54 -> 68 -> 60 -> 17 -> 0
+Rota 4: 0 -> 61 -> 81 -> 41 -> 3 -> 1 -> 4 -> 13 -> 0
+Rota 5: 0 -> 65 -> 82 -> 69 -> 98 -> 88 -> 78 -> 73 -> 79 -> 53 -> 10 -> 97 -> 74 -> 55 -> 0
+Rota 6: 0 -> 64 -> 83 -> 15 -> 16 -> 12 -> 7 -> 8 -> 46 -> 6 -> 20 -> 96 -> 0
+Rota 7: 0 -> 63 -> 33 -> 28 -> 27 -> 29 -> 31 -> 30 -> 76 -> 21 -> 19 -> 18 -> 22 -> 49 -> 57 -> 0
+Rota 8: 0 -> 14 -> 47 -> 59 -> 75 -> 52 -> 99 -> 9 -> 87 -> 86 -> 0
+Rota 9: 0 -> 11 -> 23 -> 0
+Rota 10: 0 -> 36 -> 5 -> 45 -> 2 -> 0
+---------------------------------------- 
+INSTANCIA: rc202.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc202.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2652.44
+Iter 1: Melhor = 2596.29
+Iter 2: Melhor = 2482.1
+Iter 7: Melhor = 2445.76
+Iter 9: Melhor = 2434.21
+Iter 10: Melhor = 2287.16
+Iter 13: Melhor = 2239.64
+Iter 15: Melhor = 2219.5
+Iter 19: Melhor = 2129.82
+Iter 25: Melhor = 2126.46
+Iter 28: Melhor = 1949.51
+Iter 54: Melhor = 1923.48
+Iter 57: Melhor = 1880.79
+Iter 60: Melhor = 1879.43
+Iter 64: Melhor = 1822.11
+Iter 80: Melhor = 1788.34
+Iter 81: Melhor = 1779.1
+Iter 82: Melhor = 1770.1
+Iter 87: Melhor = 1743.33
+Iter 93: Melhor = 1719.98
+Iter 94: Melhor = 1581.95
+
+=== RESULTADO FINAL ===
+Custo Total: 1581.95
+Veiculos Usados: 8
+Tempo: 0.21 s
+Rota 1: 0 -> 65 -> 99 -> 53 -> 78 -> 79 -> 8 -> 6 -> 46 -> 4 -> 60 -> 7 -> 12 -> 17 -> 59 -> 75 -> 52 -> 82 -> 98 -> 0
+Rota 2: 0 -> 90 -> 56 -> 66 -> 68 -> 55 -> 100 -> 70 -> 1 -> 3 -> 5 -> 2 -> 0
+Rota 3: 0 -> 92 -> 63 -> 33 -> 29 -> 27 -> 28 -> 30 -> 32 -> 34 -> 31 -> 26 -> 50 -> 85 -> 89 -> 24 -> 21 -> 48 -> 25 -> 77 -> 58 -> 83 -> 0
+Rota 4: 0 -> 69 -> 88 -> 51 -> 76 -> 22 -> 86 -> 87 -> 57 -> 9 -> 10 -> 97 -> 74 -> 13 -> 80 -> 91 -> 95 -> 94 -> 96 -> 93 -> 0
+Rota 5: 0 -> 81 -> 61 -> 41 -> 40 -> 43 -> 35 -> 37 -> 72 -> 54 -> 0
+Rota 6: 0 -> 64 -> 62 -> 19 -> 23 -> 18 -> 49 -> 20 -> 0
+Rota 7: 0 -> 36 -> 39 -> 42 -> 44 -> 38 -> 71 -> 67 -> 84 -> 0
+Rota 8: 0 -> 45 -> 14 -> 47 -> 15 -> 16 -> 11 -> 73 -> 0
+---------------------------------------- 
+INSTANCIA: rc203.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc203.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2268.48
+Iter 1: Melhor = 2227.55
+Iter 2: Melhor = 2178.22
+Iter 3: Melhor = 2177.6
+Iter 5: Melhor = 2034.51
+Iter 7: Melhor = 1901.87
+Iter 20: Melhor = 1887.93
+Iter 22: Melhor = 1814.85
+Iter 28: Melhor = 1682.5
+Iter 38: Melhor = 1665.7
+Iter 47: Melhor = 1605.28
+Iter 59: Melhor = 1594.05
+Iter 64: Melhor = 1587.81
+
+=== RESULTADO FINAL ===
+Custo Total: 1587.81
+Veiculos Usados: 8
+Tempo: 0.23 s
+Rota 1: 0 -> 65 -> 99 -> 22 -> 49 -> 19 -> 21 -> 48 -> 18 -> 25 -> 77 -> 58 -> 86 -> 82 -> 83 -> 90 -> 0
+Rota 2: 0 -> 69 -> 55 -> 4 -> 5 -> 3 -> 1 -> 46 -> 2 -> 70 -> 100 -> 61 -> 81 -> 54 -> 96 -> 94 -> 80 -> 0
+Rota 3: 0 -> 45 -> 36 -> 42 -> 44 -> 40 -> 38 -> 41 -> 37 -> 35 -> 43 -> 71 -> 93 -> 72 -> 85 -> 63 -> 91 -> 0
+Rota 4: 0 -> 88 -> 53 -> 78 -> 79 -> 8 -> 6 -> 7 -> 60 -> 73 -> 47 -> 17 -> 14 -> 16 -> 13 -> 75 -> 97 -> 59 -> 52 -> 57 -> 98 -> 0
+Rota 5: 0 -> 92 -> 64 -> 67 -> 62 -> 84 -> 56 -> 66 -> 74 -> 24 -> 20 -> 51 -> 89 -> 50 -> 32 -> 34 -> 29 -> 31 -> 26 -> 28 -> 95 -> 0
+Rota 6: 0 -> 76 -> 23 -> 9 -> 10 -> 12 -> 68 -> 0
+Rota 7: 0 -> 39 -> 11 -> 15 -> 87 -> 0
+Rota 8: 0 -> 33 -> 27 -> 30 -> 0
+---------------------------------------- 
+INSTANCIA: rc204.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc204.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1813.22
+Iter 1: Melhor = 1743.75
+Iter 5: Melhor = 1730.75
+Iter 6: Melhor = 1659.84
+Iter 8: Melhor = 1604.83
+Iter 12: Melhor = 1453.48
+Iter 17: Melhor = 1437.24
+Iter 24: Melhor = 1392.6
+Iter 29: Melhor = 1366.53
+Iter 31: Melhor = 1337.83
+Iter 34: Melhor = 1332.73
+Iter 36: Melhor = 1302.6
+Iter 51: Melhor = 1301.85
+Iter 57: Melhor = 1300.13
+Iter 65: Melhor = 1297.08
+Iter 66: Melhor = 1282.46
+
+=== RESULTADO FINAL ===
+Custo Total: 1282.46
+Veiculos Usados: 5
+Tempo: 0.22 s
+Rota 1: 0 -> 80 -> 92 -> 18 -> 48 -> 21 -> 23 -> 19 -> 49 -> 20 -> 22 -> 24 -> 25 -> 77 -> 58 -> 97 -> 59 -> 86 -> 52 -> 57 -> 0
+Rota 2: 0 -> 90 -> 69 -> 53 -> 88 -> 98 -> 82 -> 84 -> 51 -> 63 -> 85 -> 64 -> 83 -> 66 -> 65 -> 34 -> 30 -> 32 -> 33 -> 29 -> 31 -> 26 -> 28 -> 27 -> 50 -> 89 -> 94 -> 96 -> 0
+Rota 3: 0 -> 68 -> 61 -> 81 -> 54 -> 43 -> 40 -> 35 -> 36 -> 37 -> 39 -> 38 -> 44 -> 42 -> 41 -> 72 -> 70 -> 100 -> 60 -> 78 -> 73 -> 47 -> 14 -> 0
+Rota 4: 0 -> 11 -> 15 -> 9 -> 87 -> 99 -> 75 -> 74 -> 13 -> 10 -> 12 -> 17 -> 16 -> 7 -> 6 -> 1 -> 3 -> 5 -> 45 -> 46 -> 2 -> 0
+Rota 5: 0 -> 91 -> 56 -> 95 -> 62 -> 67 -> 71 -> 93 -> 76 -> 79 -> 8 -> 4 -> 55 -> 0
+---------------------------------------- 
+INSTANCIA: rc205.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc205.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2624.58
+Iter 1: Melhor = 2436.04
+Iter 3: Melhor = 2391.63
+Iter 13: Melhor = 2380.54
+Iter 14: Melhor = 2300.59
+Iter 16: Melhor = 2143.82
+Iter 24: Melhor = 2103.66
+Iter 29: Melhor = 2079.67
+Iter 36: Melhor = 2030.71
+Iter 44: Melhor = 2024.54
+Iter 54: Melhor = 1929.21
+Iter 59: Melhor = 1907.54
+
+=== RESULTADO FINAL ===
+Custo Total: 1907.54
+Veiculos Usados: 10
+Tempo: 0.21 s
+Rota 1: 0 -> 90 -> 57 -> 52 -> 99 -> 82 -> 83 -> 56 -> 66 -> 55 -> 68 -> 35 -> 37 -> 43 -> 54 -> 96 -> 93 -> 70 -> 100 -> 1 -> 0
+Rota 2: 0 -> 69 -> 98 -> 53 -> 87 -> 59 -> 75 -> 97 -> 74 -> 24 -> 77 -> 89 -> 91 -> 80 -> 0
+Rota 3: 0 -> 14 -> 47 -> 15 -> 11 -> 9 -> 16 -> 10 -> 13 -> 17 -> 58 -> 25 -> 48 -> 0
+Rota 4: 0 -> 65 -> 64 -> 71 -> 67 -> 29 -> 31 -> 85 -> 20 -> 49 -> 21 -> 32 -> 26 -> 50 -> 34 -> 60 -> 0
+Rota 5: 0 -> 81 -> 61 -> 8 -> 7 -> 46 -> 5 -> 2 -> 6 -> 4 -> 3 -> 0
+Rota 6: 0 -> 92 -> 62 -> 63 -> 23 -> 19 -> 22 -> 18 -> 51 -> 95 -> 84 -> 94 -> 0
+Rota 7: 0 -> 88 -> 79 -> 73 -> 78 -> 12 -> 86 -> 0
+Rota 8: 0 -> 45 -> 42 -> 44 -> 38 -> 40 -> 41 -> 72 -> 0
+Rota 9: 0 -> 33 -> 27 -> 28 -> 30 -> 76 -> 0
+Rota 10: 0 -> 39 -> 36 -> 0
+---------------------------------------- 
+INSTANCIA: rc206.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc206.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2340.68
+Iter 2: Melhor = 2300.27
+Iter 3: Melhor = 2171.37
+Iter 5: Melhor = 2149.83
+Iter 9: Melhor = 2145.9
+Iter 11: Melhor = 2122.04
+Iter 12: Melhor = 2031.79
+Iter 13: Melhor = 1984.4
+Iter 18: Melhor = 1900.87
+Iter 20: Melhor = 1851.29
+Iter 29: Melhor = 1822.98
+Iter 33: Melhor = 1789.2
+Iter 34: Melhor = 1771.96
+Iter 42: Melhor = 1720.54
+Iter 45: Melhor = 1695.46
+Iter 61: Melhor = 1694.73
+Iter 62: Melhor = 1678.18
+Iter 66: Melhor = 1674.67
+Iter 69: Melhor = 1672.04
+Iter 71: Melhor = 1636
+Iter 76: Melhor = 1585.54
+Iter 79: Melhor = 1560.74
+Iter 86: Melhor = 1558.64
+Iter 96: Melhor = 1527.04
+
+=== RESULTADO FINAL ===
+Custo Total: 1527.04
+Veiculos Usados: 6
+Tempo: 0.21 s
+Rota 1: 0 -> 65 -> 83 -> 64 -> 95 -> 62 -> 63 -> 76 -> 85 -> 51 -> 22 -> 19 -> 21 -> 23 -> 18 -> 49 -> 20 -> 24 -> 25 -> 48 -> 77 -> 58 -> 74 -> 13 -> 17 -> 60 -> 70 -> 100 -> 80 -> 0
+Rota 2: 0 -> 90 -> 69 -> 98 -> 88 -> 55 -> 68 -> 54 -> 93 -> 91 -> 56 -> 32 -> 89 -> 0
+Rota 3: 0 -> 81 -> 61 -> 41 -> 38 -> 40 -> 44 -> 6 -> 7 -> 8 -> 46 -> 4 -> 1 -> 3 -> 43 -> 35 -> 37 -> 0
+Rota 4: 0 -> 72 -> 36 -> 39 -> 42 -> 45 -> 5 -> 2 -> 92 -> 94 -> 67 -> 71 -> 84 -> 57 -> 86 -> 87 -> 9 -> 10 -> 53 -> 97 -> 66 -> 96 -> 0
+Rota 5: 0 -> 31 -> 29 -> 27 -> 28 -> 30 -> 33 -> 50 -> 26 -> 34 -> 0
+Rota 6: 0 -> 82 -> 12 -> 11 -> 16 -> 15 -> 47 -> 14 -> 59 -> 75 -> 52 -> 99 -> 73 -> 78 -> 79 -> 0
+---------------------------------------- 
+INSTANCIA: rc207.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc207.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 2204.85
+Iter 2: Melhor = 2136.48
+Iter 6: Melhor = 2125.65
+Iter 7: Melhor = 1962.38
+Iter 10: Melhor = 1951.33
+Iter 21: Melhor = 1899.63
+Iter 32: Melhor = 1843.39
+Iter 34: Melhor = 1755.09
+Iter 40: Melhor = 1666.26
+Iter 43: Melhor = 1637.16
+Iter 47: Melhor = 1597.66
+Iter 62: Melhor = 1537.2
+Iter 78: Melhor = 1534.33
+Iter 80: Melhor = 1521.2
+
+=== RESULTADO FINAL ===
+Custo Total: 1521.20
+Veiculos Usados: 7
+Tempo: 0.22 s
+Rota 1: 0 -> 90 -> 61 -> 81 -> 94 -> 67 -> 62 -> 50 -> 33 -> 26 -> 27 -> 32 -> 34 -> 56 -> 66 -> 48 -> 25 -> 77 -> 58 -> 74 -> 13 -> 17 -> 60 -> 68 -> 80 -> 0
+Rota 2: 0 -> 69 -> 98 -> 88 -> 53 -> 12 -> 14 -> 47 -> 16 -> 15 -> 11 -> 10 -> 9 -> 97 -> 78 -> 6 -> 46 -> 45 -> 4 -> 1 -> 70 -> 55 -> 100 -> 91 -> 89 -> 24 -> 0
+Rota 3: 0 -> 95 -> 63 -> 31 -> 29 -> 30 -> 28 -> 71 -> 72 -> 44 -> 40 -> 38 -> 37 -> 36 -> 35 -> 39 -> 43 -> 42 -> 41 -> 96 -> 54 -> 93 -> 0
+Rota 4: 0 -> 82 -> 83 -> 52 -> 99 -> 57 -> 20 -> 22 -> 49 -> 92 -> 84 -> 0
+Rota 5: 0 -> 65 -> 86 -> 87 -> 59 -> 73 -> 79 -> 8 -> 3 -> 0
+Rota 6: 0 -> 75 -> 21 -> 18 -> 23 -> 19 -> 64 -> 51 -> 76 -> 85 -> 0
+Rota 7: 0 -> 2 -> 7 -> 5 -> 0
+---------------------------------------- 
+INSTANCIA: rc208.txt 
+--- INICIANDO ACO PARA VRPTW ---
+Instancia: rc208.txt
+Formigas: 30 | Iteracoes: 100
+Iter 0: Melhor = 1941.52
+Iter 1: Melhor = 1936.77
+Iter 3: Melhor = 1892.68
+Iter 4: Melhor = 1783.57
+Iter 6: Melhor = 1765.89
+Iter 7: Melhor = 1691.07
+Iter 10: Melhor = 1655.74
+Iter 11: Melhor = 1652.65
+Iter 12: Melhor = 1617.18
+Iter 13: Melhor = 1581.72
+Iter 14: Melhor = 1561.1
+Iter 17: Melhor = 1555.69
+Iter 21: Melhor = 1512.17
+Iter 22: Melhor = 1465.03
+Iter 30: Melhor = 1446.04
+Iter 34: Melhor = 1419.02
+Iter 38: Melhor = 1411.75
+Iter 41: Melhor = 1410.94
+Iter 42: Melhor = 1366.05
+Iter 44: Melhor = 1301.56
+Iter 50: Melhor = 1221.03
+Iter 69: Melhor = 1204.36
+Iter 94: Melhor = 1199.76
+
+=== RESULTADO FINAL ===
+Custo Total: 1199.76
+Veiculos Usados: 4
+Tempo: 0.22 s
+Rota 1: 0 -> 90 -> 65 -> 83 -> 64 -> 18 -> 48 -> 23 -> 21 -> 19 -> 49 -> 22 -> 24 -> 20 -> 56 -> 91 -> 80 -> 96 -> 54 -> 93 -> 37 -> 35 -> 43 -> 1 -> 46 -> 4 -> 60 -> 55 -> 100 -> 70 -> 68 -> 0
+Rota 2: 0 -> 71 -> 67 -> 62 -> 44 -> 42 -> 39 -> 38 -> 36 -> 40 -> 41 -> 72 -> 2 -> 45 -> 5 -> 3 -> 6 -> 7 -> 8 -> 79 -> 73 -> 78 -> 88 -> 53 -> 9 -> 10 -> 14 -> 66 -> 57 -> 59 -> 97 -> 13 -> 17 -> 74 -> 58 -> 77 -> 25 -> 0
+Rota 3: 0 -> 61 -> 81 -> 94 -> 92 -> 95 -> 84 -> 51 -> 85 -> 63 -> 76 -> 89 -> 34 -> 32 -> 30 -> 29 -> 31 -> 27 -> 26 -> 28 -> 33 -> 50 -> 0
+Rota 4: 0 -> 69 -> 98 -> 82 -> 99 -> 52 -> 86 -> 87 -> 75 -> 12 -> 11 -> 15 -> 16 -> 47 -> 0
