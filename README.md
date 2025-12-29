@@ -104,9 +104,6 @@ Valores testados:
 * 2000
 * 10000
 
-Justificativa:
-O valor 2000 iterações apresentou um bom equilíbrio entre qualidade da solução e tempo de execução.
-
 ### Tamanho da Destruição (LNS)
 ```cpp
 int destroy_size = 15;
@@ -189,4 +186,5 @@ Rota 11: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
 * Custo Total: soma das distâncias de todas as rotas da melhor solução encontrada.  
 * Veículos Usados: número total de rotas (veículos) necessárias para atender todos os clientes.  
 * Tempo: tempo total de execução do algoritmo.  
+
 * Rotas: sequência de clientes atendidos por cada veículo, iniciando e finalizando no depósito (cliente 0).  
