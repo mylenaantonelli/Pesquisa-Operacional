@@ -1,0 +1,4128 @@
+----------------------------------------
+----------------------------------------
+INSTANCIA: instancias/c101.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c101.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1870.69 | Veiculos: 21
+Iter 0: Melhor = 1803.52
+Iter 1: Melhor = 1665.83
+Iter 2: Melhor = 1596.46
+Iter 3: Melhor = 1478.65
+Iter 4: Melhor = 1433.74
+Iter 5: Melhor = 1426.68
+Iter 6: Melhor = 1424.15
+Iter 7: Melhor = 1304.27
+Iter 8: Melhor = 1232.95
+Iter 9: Melhor = 1168.77
+Iter 10: Melhor = 1110.08
+Iter 11: Melhor = 1077.05
+Iter 12: Melhor = 1071.13
+Iter 13: Melhor = 1065.5
+Iter 14: Melhor = 1061.62
+Iter 15: Melhor = 1021.47
+Iter 17: Melhor = 1007.76
+Iter 18: Melhor = 944.334
+Iter 20: Melhor = 943.138
+Iter 21: Melhor = 942.366
+Iter 27: Melhor = 941.975
+Iter 28: Melhor = 941.433
+Iter 29: Melhor = 935.441
+Iter 56: Melhor = 933.494
+Iter 57: Melhor = 929.41
+Iter 69: Melhor = 924.035
+Iter 73: Melhor = 898.24
+Iter 78: Melhor = 897.469
+
+=== RESULTADO FINAL ===
+Custo Total: 897.47
+Veiculos Usados: 11
+Tempo: 0.11 s
+Rota 1: 0 -> 20 -> 24 -> 25 -> 27 -> 29 -> 22 -> 21 -> 0
+Rota 2: 0 -> 5 -> 3 -> 7 -> 8 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 3: 0 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 0
+Rota 4: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 46 -> 45 -> 48 -> 51 -> 50 -> 52 -> 49 -> 47 -> 0
+Rota 5: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 68 -> 66 -> 69 -> 0
+Rota 6: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 0
+Rota 7: 0 -> 13 -> 17 -> 18 -> 19 -> 30 -> 28 -> 26 -> 23 -> 0
+Rota 8: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 9: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 10: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 11: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/c102.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c102.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1992.46 | Veiculos: 19
+Iter 0: Melhor = 1687.22
+Iter 1: Melhor = 1602.14
+Iter 2: Melhor = 1484.3
+Iter 3: Melhor = 1369.6
+Iter 4: Melhor = 1308.61
+Iter 5: Melhor = 1238.48
+Iter 7: Melhor = 1218
+Iter 8: Melhor = 1135.96
+Iter 9: Melhor = 1084.59
+Iter 10: Melhor = 1055.51
+Iter 11: Melhor = 1054.37
+Iter 12: Melhor = 1053.35
+Iter 13: Melhor = 1047.36
+Iter 18: Melhor = 1046.02
+Iter 19: Melhor = 1044.16
+Iter 22: Melhor = 1035.88
+Iter 25: Melhor = 1035.47
+Iter 26: Melhor = 1034.41
+Iter 27: Melhor = 1030.36
+Iter 30: Melhor = 1029.18
+Iter 43: Melhor = 1028.02
+Iter 44: Melhor = 1026.61
+Iter 49: Melhor = 1025.66
+Iter 57: Melhor = 1024.35
+Iter 60: Melhor = 998.825
+Iter 61: Melhor = 986.535
+Iter 65: Melhor = 983.426
+Iter 67: Melhor = 982.364
+Iter 73: Melhor = 981.328
+Iter 77: Melhor = 980.567
+Iter 82: Melhor = 979.948
+Iter 93: Melhor = 975.689
+Iter 96: Melhor = 971.449
+Iter 98: Melhor = 952.849
+Iter 101: Melhor = 952.13
+Iter 102: Melhor = 948.145
+Iter 103: Melhor = 941.099
+Iter 105: Melhor = 940.75
+Iter 112: Melhor = 940.199
+Iter 118: Melhor = 938.279
+Iter 131: Melhor = 934.48
+Iter 135: Melhor = 927.7
+Iter 229: Melhor = 927.553
+Iter 253: Melhor = 898.92
+Iter 267: Melhor = 897.487
+
+=== RESULTADO FINAL ===
+Custo Total: 897.49
+Veiculos Usados: 11
+Tempo: 0.12 s
+Rota 1: 0 -> 20 -> 24 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 22 -> 21 -> 0
+Rota 2: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 46 -> 45 -> 47 -> 0
+Rota 3: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 0
+Rota 4: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 66 -> 0
+Rota 5: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 0
+Rota 6: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 7: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 8: 0 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 48 -> 51 -> 50 -> 52 -> 49 -> 0
+Rota 9: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 10: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
+Rota 11: 0 -> 57 -> 59 -> 68 -> 69 -> 0
+----------------------------------------
+INSTANCIA: instancias/c103.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c103.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1656.8 | Veiculos: 17
+Iter 0: Melhor = 1560.68
+Iter 1: Melhor = 1516.66
+Iter 2: Melhor = 1451.43
+Iter 3: Melhor = 1440.99
+Iter 4: Melhor = 1393.59
+Iter 5: Melhor = 1376.35
+Iter 6: Melhor = 1348.22
+Iter 7: Melhor = 1307.86
+Iter 8: Melhor = 1247.68
+Iter 9: Melhor = 1219.44
+Iter 10: Melhor = 1212.29
+Iter 11: Melhor = 1200.15
+Iter 12: Melhor = 1193.84
+Iter 13: Melhor = 1139.52
+Iter 17: Melhor = 1136.91
+Iter 18: Melhor = 1132.11
+Iter 20: Melhor = 1117.15
+Iter 29: Melhor = 1106.44
+Iter 34: Melhor = 1103.28
+Iter 36: Melhor = 1081.01
+Iter 38: Melhor = 1041.06
+Iter 39: Melhor = 1033.11
+Iter 41: Melhor = 996.533
+Iter 46: Melhor = 990.041
+Iter 61: Melhor = 989.925
+Iter 69: Melhor = 983.263
+Iter 74: Melhor = 973.949
+Iter 77: Melhor = 973.349
+Iter 79: Melhor = 951.183
+Iter 90: Melhor = 951.015
+Iter 101: Melhor = 949.108
+Iter 103: Melhor = 947.599
+Iter 104: Melhor = 942.395
+Iter 106: Melhor = 940.638
+Iter 108: Melhor = 939.023
+Iter 117: Melhor = 937.584
+Iter 131: Melhor = 932.851
+Iter 133: Melhor = 932.711
+Iter 141: Melhor = 931.746
+Iter 145: Melhor = 930.793
+Iter 147: Melhor = 930.538
+Iter 231: Melhor = 926.186
+Iter 237: Melhor = 910.393
+Iter 243: Melhor = 908.956
+Iter 258: Melhor = 903.398
+Iter 259: Melhor = 879.956
+Iter 264: Melhor = 879.195
+
+=== RESULTADO FINAL ===
+Custo Total: 879.19
+Veiculos Usados: 10
+Tempo: 0.13 s
+Rota 1: 0 -> 20 -> 25 -> 27 -> 30 -> 28 -> 26 -> 23 -> 22 -> 21 -> 0
+Rota 2: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 45 -> 46 -> 50 -> 52 -> 49 -> 47 -> 0
+Rota 3: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 0
+Rota 4: 0 -> 67 -> 65 -> 62 -> 74 -> 72 -> 61 -> 64 -> 57 -> 48 -> 51 -> 31 -> 0
+Rota 5: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 0
+Rota 6: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 7: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 8: 0 -> 32 -> 33 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 29 -> 24 -> 0
+Rota 9: 0 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 68 -> 66 -> 69 -> 0
+Rota 10: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 63 -> 0
+----------------------------------------
+INSTANCIA: instancias/c104.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c104.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1702.63 | Veiculos: 15
+Iter 0: Melhor = 1524.99
+Iter 3: Melhor = 1498.13
+Iter 4: Melhor = 1485.75
+Iter 5: Melhor = 1484.17
+Iter 6: Melhor = 1477.32
+Iter 9: Melhor = 1470.29
+Iter 11: Melhor = 1466.39
+Iter 12: Melhor = 1459.87
+Iter 14: Melhor = 1445.52
+Iter 17: Melhor = 1411.62
+Iter 18: Melhor = 1389.36
+Iter 19: Melhor = 1383.39
+Iter 20: Melhor = 1359.38
+Iter 21: Melhor = 1348.05
+Iter 23: Melhor = 1296.04
+Iter 24: Melhor = 1290.27
+Iter 25: Melhor = 1277.74
+Iter 26: Melhor = 1272.06
+Iter 30: Melhor = 1263.63
+Iter 31: Melhor = 1260.42
+Iter 32: Melhor = 1213.19
+Iter 34: Melhor = 1192.35
+Iter 35: Melhor = 1190.73
+Iter 38: Melhor = 1189.66
+Iter 40: Melhor = 1184.83
+Iter 42: Melhor = 1172.61
+Iter 49: Melhor = 1163.03
+Iter 55: Melhor = 1158.79
+Iter 59: Melhor = 1158.06
+Iter 61: Melhor = 1154.58
+Iter 62: Melhor = 1153.93
+Iter 63: Melhor = 1149.42
+Iter 64: Melhor = 1146.91
+Iter 71: Melhor = 1146.35
+Iter 72: Melhor = 1140.67
+Iter 79: Melhor = 1140.25
+Iter 83: Melhor = 1132.93
+Iter 88: Melhor = 1132.05
+Iter 89: Melhor = 1125.83
+Iter 93: Melhor = 1115.63
+Iter 95: Melhor = 1111.66
+Iter 97: Melhor = 1110.63
+Iter 105: Melhor = 1108.99
+Iter 108: Melhor = 1104.7
+Iter 122: Melhor = 1100.36
+Iter 123: Melhor = 1098.07
+Iter 124: Melhor = 1097.1
+Iter 125: Melhor = 1093.77
+Iter 126: Melhor = 1089.62
+Iter 127: Melhor = 1089.6
+Iter 128: Melhor = 1057.95
+Iter 132: Melhor = 1054.89
+Iter 137: Melhor = 1054.1
+Iter 141: Melhor = 1053.41
+Iter 144: Melhor = 1051.96
+Iter 153: Melhor = 1051.71
+Iter 155: Melhor = 1051.6
+Iter 167: Melhor = 1049.85
+Iter 169: Melhor = 1049.57
+Iter 174: Melhor = 1048.41
+Iter 187: Melhor = 1046.6
+Iter 190: Melhor = 1046.58
+Iter 194: Melhor = 1046.48
+Iter 224: Melhor = 1044.37
+Iter 260: Melhor = 1041.42
+Iter 263: Melhor = 1040.48
+Iter 267: Melhor = 1039.87
+Iter 280: Melhor = 1039.14
+Iter 282: Melhor = 1035.95
+Iter 293: Melhor = 1034.43
+Iter 294: Melhor = 1034.28
+Iter 297: Melhor = 1033.86
+Iter 317: Melhor = 1033.23
+Iter 323: Melhor = 1029.43
+Iter 330: Melhor = 1021.7
+Iter 333: Melhor = 1021.42
+Iter 350: Melhor = 1021.29
+Iter 380: Melhor = 1020.24
+Iter 403: Melhor = 1018.38
+Iter 409: Melhor = 1018.33
+Iter 413: Melhor = 1016.36
+Iter 417: Melhor = 1011.63
+Iter 427: Melhor = 1011.59
+Iter 439: Melhor = 1010.92
+Iter 474: Melhor = 1003.65
+Iter 489: Melhor = 993.833
+Iter 493: Melhor = 993.118
+Iter 500: Melhor = 992.897
+Iter 501: Melhor = 986.687
+Iter 508: Melhor = 985.508
+Iter 509: Melhor = 984.824
+Iter 512: Melhor = 978.308
+Iter 561: Melhor = 977.684
+Iter 666: Melhor = 976.755
+Iter 948: Melhor = 976.52
+
+=== RESULTADO FINAL ===
+Custo Total: 976.52
+Veiculos Usados: 10
+Tempo: 0.13 s
+Rota 1: 0 -> 67 -> 65 -> 62 -> 74 -> 63 -> 0
+Rota 2: 0 -> 81 -> 76 -> 82 -> 83 -> 84 -> 85 -> 88 -> 86 -> 89 -> 91 -> 90 -> 0
+Rota 3: 0 -> 27 -> 25 -> 32 -> 33 -> 30 -> 28 -> 26 -> 23 -> 22 -> 0
+Rota 4: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 45 -> 46 -> 48 -> 51 -> 50 -> 20 -> 21 -> 0
+Rota 5: 0 -> 57 -> 64 -> 61 -> 72 -> 80 -> 77 -> 79 -> 73 -> 70 -> 71 -> 78 -> 0
+Rota 6: 0 -> 87 -> 7 -> 8 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 5 -> 0
+Rota 7: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 10 -> 0
+Rota 8: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 3 -> 0
+Rota 9: 0 -> 24 -> 29 -> 34 -> 36 -> 39 -> 38 -> 37 -> 35 -> 31 -> 52 -> 49 -> 47 -> 0
+Rota 10: 0 -> 66 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 68 -> 69 -> 0
+----------------------------------------
+INSTANCIA: instancias/c105.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c105.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1888.39 | Veiculos: 20
+Iter 0: Melhor = 1729.5
+Iter 1: Melhor = 1507.04
+Iter 2: Melhor = 1417.64
+Iter 3: Melhor = 1339.74
+Iter 5: Melhor = 1317.38
+Iter 8: Melhor = 1243.32
+Iter 9: Melhor = 1238.01
+Iter 10: Melhor = 1193.86
+Iter 12: Melhor = 1153.29
+Iter 14: Melhor = 1123.59
+Iter 15: Melhor = 1090.3
+Iter 24: Melhor = 1089.76
+Iter 31: Melhor = 1087.82
+Iter 37: Melhor = 1085.54
+Iter 52: Melhor = 1081.53
+Iter 53: Melhor = 1049.68
+Iter 73: Melhor = 984.135
+Iter 87: Melhor = 969.227
+Iter 88: Melhor = 951.03
+Iter 126: Melhor = 948.043
+Iter 127: Melhor = 936.82
+Iter 129: Melhor = 911.58
+Iter 131: Melhor = 906.343
+Iter 135: Melhor = 905.926
+Iter 142: Melhor = 903.358
+Iter 144: Melhor = 898.227
+Iter 151: Melhor = 894.104
+Iter 152: Melhor = 884.972
+Iter 168: Melhor = 884.108
+Iter 171: Melhor = 860.331
+Iter 172: Melhor = 857.054
+Iter 173: Melhor = 855.675
+Iter 176: Melhor = 851.102
+Iter 180: Melhor = 828.937
+
+=== RESULTADO FINAL ===
+Custo Total: 828.94
+Veiculos Usados: 10
+Tempo: 0.11 s
+Rota 1: 0 -> 20 -> 24 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 22 -> 21 -> 0
+Rota 2: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 0
+Rota 3: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 46 -> 45 -> 48 -> 51 -> 50 -> 52 -> 49 -> 47 -> 0
+Rota 4: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 68 -> 66 -> 69 -> 0
+Rota 5: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 0
+Rota 6: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 7: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 8: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 9: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 10: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/c106.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c106.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1913.09 | Veiculos: 19
+Iter 0: Melhor = 1753.28
+Iter 1: Melhor = 1686.86
+Iter 2: Melhor = 1654.78
+Iter 3: Melhor = 1611.89
+Iter 4: Melhor = 1582.44
+Iter 5: Melhor = 1484
+Iter 6: Melhor = 1480.82
+Iter 7: Melhor = 1317.21
+Iter 8: Melhor = 1294.9
+Iter 12: Melhor = 1262.7
+Iter 13: Melhor = 1250.59
+Iter 15: Melhor = 1233.93
+Iter 20: Melhor = 1210.87
+Iter 21: Melhor = 1142.69
+Iter 22: Melhor = 1087.33
+Iter 23: Melhor = 1083.16
+Iter 24: Melhor = 1080.93
+Iter 25: Melhor = 1076.95
+Iter 26: Melhor = 1071.09
+Iter 27: Melhor = 1024.03
+Iter 29: Melhor = 973.065
+Iter 30: Melhor = 972.29
+Iter 31: Melhor = 949.957
+Iter 36: Melhor = 937.727
+Iter 40: Melhor = 934.297
+Iter 42: Melhor = 933.907
+Iter 43: Melhor = 910.153
+Iter 50: Melhor = 898.098
+Iter 60: Melhor = 888.736
+Iter 67: Melhor = 829.698
+Iter 73: Melhor = 828.937
+
+=== RESULTADO FINAL ===
+Custo Total: 828.94
+Veiculos Usados: 10
+Tempo: 0.11 s
+Rota 1: 0 -> 20 -> 24 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 22 -> 21 -> 0
+Rota 2: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 0
+Rota 3: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 46 -> 45 -> 48 -> 51 -> 50 -> 52 -> 49 -> 47 -> 0
+Rota 4: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 68 -> 66 -> 69 -> 0
+Rota 5: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 0
+Rota 6: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 7: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 8: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 9: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
+Rota 10: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+----------------------------------------
+INSTANCIA: instancias/c107.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c107.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2131.54 | Veiculos: 18
+Iter 0: Melhor = 2058.21
+Iter 1: Melhor = 1870.12
+Iter 3: Melhor = 1794.79
+Iter 5: Melhor = 1764.25
+Iter 6: Melhor = 1712.55
+Iter 7: Melhor = 1673.91
+Iter 8: Melhor = 1630.92
+Iter 9: Melhor = 1604.63
+Iter 10: Melhor = 1520.09
+Iter 11: Melhor = 1419.54
+Iter 12: Melhor = 1409.32
+Iter 13: Melhor = 1384.38
+Iter 14: Melhor = 1378.93
+Iter 16: Melhor = 1378.76
+Iter 18: Melhor = 1332.74
+Iter 19: Melhor = 1323.49
+Iter 20: Melhor = 1312.85
+Iter 21: Melhor = 1311.61
+Iter 22: Melhor = 1270.95
+Iter 26: Melhor = 1264.93
+Iter 27: Melhor = 1223.2
+Iter 29: Melhor = 1215.19
+Iter 31: Melhor = 1184.87
+Iter 33: Melhor = 1161.23
+Iter 34: Melhor = 1158.97
+Iter 38: Melhor = 1154.84
+Iter 39: Melhor = 1150.38
+Iter 48: Melhor = 1150.38
+Iter 49: Melhor = 1147.62
+Iter 51: Melhor = 1141.32
+Iter 53: Melhor = 1110.01
+Iter 54: Melhor = 1105.13
+Iter 66: Melhor = 1103.43
+Iter 79: Melhor = 1101.21
+Iter 90: Melhor = 1100.78
+Iter 117: Melhor = 1094.83
+Iter 256: Melhor = 1092.43
+Iter 331: Melhor = 1090.63
+Iter 345: Melhor = 1090.21
+Iter 413: Melhor = 1086.88
+Iter 414: Melhor = 1085.7
+Iter 430: Melhor = 1080.39
+Iter 542: Melhor = 1074.95
+Iter 546: Melhor = 1074.54
+Iter 548: Melhor = 1073.37
+Iter 549: Melhor = 1073.02
+Iter 550: Melhor = 1062.08
+Iter 553: Melhor = 1036.45
+Iter 577: Melhor = 1035.13
+Iter 585: Melhor = 1034.65
+Iter 734: Melhor = 1034.09
+Iter 737: Melhor = 1033.32
+Iter 750: Melhor = 1031.35
+Iter 751: Melhor = 1026.89
+Iter 758: Melhor = 1019.55
+Iter 769: Melhor = 1019.4
+Iter 871: Melhor = 1018.94
+Iter 873: Melhor = 998.572
+Iter 877: Melhor = 998.459
+Iter 897: Melhor = 997.698
+Iter 919: Melhor = 995.966
+Iter 924: Melhor = 994.48
+Iter 925: Melhor = 992.867
+Iter 929: Melhor = 990.134
+Iter 931: Melhor = 988.429
+Iter 933: Melhor = 988.211
+Iter 934: Melhor = 986.488
+Iter 939: Melhor = 984.302
+Iter 951: Melhor = 971.897
+Iter 967: Melhor = 922.835
+Iter 968: Melhor = 913.365
+Iter 970: Melhor = 862.375
+
+=== RESULTADO FINAL ===
+Custo Total: 862.37
+Veiculos Usados: 10
+Tempo: 0.11 s
+Rota 1: 0 -> 32 -> 33 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 0
+Rota 2: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 0
+Rota 3: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 46 -> 45 -> 48 -> 51 -> 50 -> 52 -> 49 -> 47 -> 0
+Rota 4: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 68 -> 66 -> 69 -> 0
+Rota 5: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 6: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 7: 0 -> 20 -> 24 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 22 -> 21 -> 0
+Rota 8: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 0
+Rota 9: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 10: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/c108.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c108.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2103.41 | Veiculos: 17
+Iter 0: Melhor = 1967.45
+Iter 1: Melhor = 1825.88
+Iter 2: Melhor = 1689.97
+Iter 3: Melhor = 1687.86
+Iter 4: Melhor = 1667.48
+Iter 5: Melhor = 1666.56
+Iter 6: Melhor = 1615.86
+Iter 8: Melhor = 1590.2
+Iter 9: Melhor = 1583.91
+Iter 10: Melhor = 1569.96
+Iter 11: Melhor = 1569.51
+Iter 12: Melhor = 1469.34
+Iter 14: Melhor = 1404.86
+Iter 15: Melhor = 1361.17
+Iter 16: Melhor = 1349.34
+Iter 18: Melhor = 1344.85
+Iter 20: Melhor = 1341.69
+Iter 21: Melhor = 1337.34
+Iter 22: Melhor = 1317.05
+Iter 27: Melhor = 1315.36
+Iter 28: Melhor = 1283.21
+Iter 29: Melhor = 1280.96
+Iter 30: Melhor = 1265.45
+Iter 31: Melhor = 1260.26
+Iter 32: Melhor = 1254.45
+Iter 33: Melhor = 1244.31
+Iter 36: Melhor = 1222.85
+Iter 37: Melhor = 1222.72
+Iter 39: Melhor = 1216.93
+Iter 40: Melhor = 1216.86
+Iter 41: Melhor = 1208.8
+Iter 42: Melhor = 1201.12
+Iter 45: Melhor = 1194.98
+Iter 48: Melhor = 1180.08
+Iter 49: Melhor = 1177.61
+Iter 50: Melhor = 1173.39
+Iter 51: Melhor = 1101.57
+Iter 53: Melhor = 1049.12
+Iter 56: Melhor = 1014.82
+Iter 57: Melhor = 1000.29
+Iter 60: Melhor = 975.422
+Iter 65: Melhor = 972.987
+Iter 70: Melhor = 970.479
+Iter 71: Melhor = 968.51
+Iter 74: Melhor = 967.84
+Iter 79: Melhor = 967.458
+Iter 86: Melhor = 966.708
+Iter 92: Melhor = 965.348
+Iter 93: Melhor = 939.865
+Iter 98: Melhor = 939.515
+Iter 99: Melhor = 939.05
+Iter 100: Melhor = 937.656
+Iter 108: Melhor = 936.896
+Iter 116: Melhor = 934.847
+Iter 128: Melhor = 903.089
+Iter 129: Melhor = 898.976
+Iter 131: Melhor = 897.55
+Iter 133: Melhor = 895.388
+Iter 134: Melhor = 895.122
+Iter 148: Melhor = 892.446
+Iter 152: Melhor = 891.281
+Iter 183: Melhor = 871.91
+Iter 185: Melhor = 868.385
+Iter 187: Melhor = 864.844
+Iter 197: Melhor = 855.785
+Iter 207: Melhor = 855.115
+Iter 212: Melhor = 828.937
+
+=== RESULTADO FINAL ===
+Custo Total: 828.94
+Veiculos Usados: 10
+Tempo: 0.11 s
+Rota 1: 0 -> 43 -> 42 -> 41 -> 40 -> 44 -> 45 -> 46 -> 48 -> 51 -> 50 -> 52 -> 49 -> 47 -> 0
+Rota 2: 0 -> 20 -> 24 -> 25 -> 27 -> 29 -> 30 -> 28 -> 26 -> 23 -> 22 -> 21 -> 0
+Rota 3: 0 -> 13 -> 17 -> 18 -> 19 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 4: 0 -> 98 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 0
+Rota 5: 0 -> 67 -> 65 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 68 -> 66 -> 69 -> 0
+Rota 6: 0 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 0
+Rota 7: 0 -> 5 -> 3 -> 7 -> 8 -> 10 -> 11 -> 9 -> 6 -> 4 -> 2 -> 1 -> 75 -> 0
+Rota 8: 0 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
+Rota 9: 0 -> 57 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 0
+Rota 10: 0 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 0
+----------------------------------------
+INSTANCIA: instancias/c109.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c109.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1788.55 | Veiculos: 14
+Iter 0: Melhor = 1652.03
+Iter 2: Melhor = 1559.68
+Iter 3: Melhor = 1454.28
+Iter 4: Melhor = 1420.82
+Iter 5: Melhor = 1414.9
+Iter 6: Melhor = 1384.12
+Iter 8: Melhor = 1376.3
+Iter 9: Melhor = 1327.21
+Iter 10: Melhor = 1287.04
+Iter 12: Melhor = 1254.36
+Iter 17: Melhor = 1211.89
+Iter 28: Melhor = 1208.98
+Iter 29: Melhor = 1168.81
+Iter 34: Melhor = 1167.11
+Iter 35: Melhor = 1167.06
+Iter 38: Melhor = 1165.76
+Iter 42: Melhor = 1149.31
+Iter 43: Melhor = 1149.24
+Iter 49: Melhor = 1146.7
+Iter 52: Melhor = 1139.53
+Iter 60: Melhor = 1131.89
+Iter 63: Melhor = 1130.67
+Iter 64: Melhor = 1130.39
+Iter 71: Melhor = 1128.27
+Iter 85: Melhor = 1128.07
+Iter 115: Melhor = 1120.02
+Iter 123: Melhor = 1119.25
+Iter 146: Melhor = 1118.52
+Iter 182: Melhor = 1116.02
+Iter 195: Melhor = 1115.03
+Iter 197: Melhor = 1114.81
+Iter 200: Melhor = 1114.16
+Iter 201: Melhor = 1113.84
+Iter 205: Melhor = 1107.89
+Iter 213: Melhor = 1104.99
+Iter 216: Melhor = 1104.04
+Iter 222: Melhor = 1102.65
+Iter 226: Melhor = 1101.48
+Iter 242: Melhor = 1101.34
+Iter 245: Melhor = 1101.29
+Iter 286: Melhor = 1095.68
+Iter 290: Melhor = 1090.17
+Iter 303: Melhor = 1088.92
+Iter 374: Melhor = 1088.77
+Iter 382: Melhor = 1086.72
+Iter 414: Melhor = 1084.39
+Iter 463: Melhor = 1083.05
+Iter 470: Melhor = 1071.91
+Iter 526: Melhor = 1071.91
+Iter 547: Melhor = 1071.04
+Iter 574: Melhor = 1067.65
+Iter 576: Melhor = 1032.28
+Iter 581: Melhor = 1031.51
+Iter 584: Melhor = 1030.28
+Iter 598: Melhor = 1023.66
+Iter 727: Melhor = 1023.5
+Iter 731: Melhor = 1021.75
+Iter 734: Melhor = 1020.72
+Iter 803: Melhor = 1020.69
+Iter 808: Melhor = 1020.08
+Iter 814: Melhor = 1018.26
+Iter 861: Melhor = 1017.64
+Iter 874: Melhor = 1015.86
+Iter 881: Melhor = 1015.43
+
+=== RESULTADO FINAL ===
+Custo Total: 1015.43
+Veiculos Usados: 10
+Tempo: 0.12 s
+Rota 1: 0 -> 67 -> 65 -> 74 -> 62 -> 40 -> 44 -> 46 -> 45 -> 48 -> 47 -> 0
+Rota 2: 0 -> 41 -> 42 -> 43 -> 10 -> 9 -> 6 -> 4 -> 1 -> 75 -> 0
+Rota 3: 0 -> 5 -> 3 -> 7 -> 8 -> 11 -> 15 -> 16 -> 14 -> 12 -> 0
+Rota 4: 0 -> 57 -> 55 -> 54 -> 56 -> 53 -> 72 -> 61 -> 64 -> 68 -> 66 -> 69 -> 0
+Rota 5: 0 -> 20 -> 25 -> 27 -> 29 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 22 -> 0
+Rota 6: 0 -> 96 -> 95 -> 94 -> 92 -> 93 -> 97 -> 100 -> 99 -> 2 -> 0
+Rota 7: 0 -> 13 -> 17 -> 19 -> 18 -> 30 -> 28 -> 26 -> 23 -> 21 -> 0
+Rota 8: 0 -> 63 -> 81 -> 78 -> 76 -> 71 -> 70 -> 73 -> 77 -> 79 -> 80 -> 0
+Rota 9: 0 -> 98 -> 90 -> 87 -> 86 -> 83 -> 82 -> 84 -> 85 -> 88 -> 89 -> 91 -> 0
+Rota 10: 0 -> 24 -> 32 -> 33 -> 31 -> 60 -> 58 -> 59 -> 51 -> 50 -> 52 -> 49 -> 0
+----------------------------------------
+INSTANCIA: instancias/c201.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c201.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1880.47 | Veiculos: 15
+Iter 0: Melhor = 1522.37
+Iter 1: Melhor = 1365.69
+Iter 2: Melhor = 1265.02
+Iter 3: Melhor = 1145.88
+Iter 4: Melhor = 1026.37
+Iter 5: Melhor = 1025.33
+Iter 6: Melhor = 965.821
+Iter 7: Melhor = 963.468
+Iter 8: Melhor = 955.651
+Iter 9: Melhor = 944.933
+Iter 10: Melhor = 942.296
+Iter 11: Melhor = 935.409
+Iter 12: Melhor = 901.185
+Iter 13: Melhor = 884.763
+Iter 14: Melhor = 883.512
+Iter 15: Melhor = 879.963
+Iter 16: Melhor = 874.309
+Iter 18: Melhor = 865.547
+Iter 19: Melhor = 863.761
+Iter 20: Melhor = 841.464
+Iter 21: Melhor = 829.377
+Iter 22: Melhor = 795.278
+Iter 23: Melhor = 783.924
+Iter 24: Melhor = 781.981
+Iter 25: Melhor = 746.407
+Iter 26: Melhor = 716.559
+Iter 27: Melhor = 705.268
+Iter 28: Melhor = 676.375
+Iter 34: Melhor = 674.96
+Iter 40: Melhor = 671.516
+
+=== RESULTADO FINAL ===
+Custo Total: 671.52
+Veiculos Usados: 5
+Tempo: 0.13 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 3 -> 4 -> 89 -> 0
+Rota 2: 0 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 68 -> 45 -> 51 -> 50 -> 52 -> 47 -> 43 -> 48 -> 0
+Rota 3: 0 -> 91 -> 88 -> 84 -> 86 -> 83 -> 82 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 96 -> 87 -> 90 -> 0
+Rota 4: 0 -> 20 -> 22 -> 24 -> 27 -> 30 -> 29 -> 6 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 28 -> 26 -> 23 -> 18 -> 19 -> 16 -> 14 -> 12 -> 15 -> 17 -> 13 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 0
+Rota 5: 0 -> 67 -> 66 -> 69 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 42 -> 41 -> 0
+----------------------------------------
+INSTANCIA: instancias/c202.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c202.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1603.09 | Veiculos: 14
+Iter 0: Melhor = 1368.44
+Iter 1: Melhor = 1237.95
+Iter 2: Melhor = 1153.36
+Iter 3: Melhor = 985.315
+Iter 4: Melhor = 974.93
+Iter 6: Melhor = 974.053
+Iter 7: Melhor = 961.246
+Iter 8: Melhor = 960.468
+Iter 9: Melhor = 957.607
+Iter 11: Melhor = 945.695
+Iter 12: Melhor = 945.34
+Iter 14: Melhor = 893.015
+Iter 15: Melhor = 863.535
+Iter 16: Melhor = 857.948
+Iter 17: Melhor = 857.86
+Iter 18: Melhor = 853.593
+Iter 19: Melhor = 853.195
+Iter 20: Melhor = 852.388
+Iter 21: Melhor = 850.767
+Iter 23: Melhor = 809.751
+Iter 25: Melhor = 808.51
+Iter 26: Melhor = 807.589
+Iter 29: Melhor = 806.853
+Iter 34: Melhor = 792.842
+Iter 136: Melhor = 792.045
+Iter 240: Melhor = 780.54
+Iter 245: Melhor = 776.909
+Iter 246: Melhor = 769.181
+Iter 249: Melhor = 753.977
+Iter 251: Melhor = 750.195
+Iter 261: Melhor = 745.905
+Iter 266: Melhor = 740.117
+Iter 281: Melhor = 734.226
+Iter 285: Melhor = 729.783
+Iter 317: Melhor = 729.356
+Iter 320: Melhor = 728.62
+Iter 352: Melhor = 728.013
+Iter 425: Melhor = 706.541
+Iter 456: Melhor = 705.744
+Iter 459: Melhor = 705.604
+Iter 830: Melhor = 704.901
+
+=== RESULTADO FINAL ===
+Custo Total: 704.90
+Veiculos Usados: 4
+Tempo: 0.15 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 3 -> 4 -> 89 -> 91 -> 88 -> 84 -> 86 -> 87 -> 96 -> 0
+Rota 2: 0 -> 20 -> 22 -> 24 -> 27 -> 29 -> 6 -> 32 -> 33 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 31 -> 44 -> 46 -> 45 -> 51 -> 50 -> 52 -> 47 -> 43 -> 42 -> 41 -> 48 -> 0
+Rota 3: 0 -> 67 -> 63 -> 62 -> 74 -> 61 -> 64 -> 66 -> 69 -> 68 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 72 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 82 -> 83 -> 90 -> 0
+Rota 4: 0 -> 21 -> 30 -> 28 -> 26 -> 23 -> 18 -> 19 -> 16 -> 14 -> 12 -> 15 -> 17 -> 13 -> 25 -> 9 -> 11 -> 10 -> 8 -> 0
+----------------------------------------
+INSTANCIA: instancias/c203.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c203.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1583.7 | Veiculos: 11
+Iter 0: Melhor = 1429.24
+Iter 1: Melhor = 1405.92
+Iter 2: Melhor = 1362.24
+Iter 3: Melhor = 1322.55
+Iter 4: Melhor = 1287.64
+Iter 5: Melhor = 1281.35
+Iter 6: Melhor = 1276.05
+Iter 7: Melhor = 1238.44
+Iter 8: Melhor = 1217.98
+Iter 9: Melhor = 1170.91
+Iter 10: Melhor = 1155.87
+Iter 11: Melhor = 1117.49
+Iter 13: Melhor = 1048.06
+Iter 14: Melhor = 1012.47
+Iter 15: Melhor = 1004.11
+Iter 16: Melhor = 992.399
+Iter 17: Melhor = 986.813
+Iter 18: Melhor = 986.52
+Iter 20: Melhor = 984.286
+Iter 21: Melhor = 979.856
+Iter 24: Melhor = 942.63
+Iter 29: Melhor = 933.615
+Iter 30: Melhor = 928.866
+Iter 31: Melhor = 918.156
+Iter 32: Melhor = 914.512
+Iter 33: Melhor = 914.16
+Iter 34: Melhor = 908.404
+Iter 35: Melhor = 904.08
+Iter 36: Melhor = 900.024
+Iter 37: Melhor = 894.432
+Iter 38: Melhor = 855.444
+Iter 40: Melhor = 854.275
+Iter 42: Melhor = 853.33
+Iter 44: Melhor = 833.673
+Iter 45: Melhor = 798.059
+Iter 47: Melhor = 794.776
+Iter 56: Melhor = 786.217
+Iter 60: Melhor = 748.442
+Iter 95: Melhor = 747.334
+Iter 101: Melhor = 746.443
+Iter 104: Melhor = 728.905
+Iter 107: Melhor = 724.018
+Iter 113: Melhor = 724.005
+Iter 118: Melhor = 719.796
+Iter 119: Melhor = 696.039
+Iter 120: Melhor = 692.474
+Iter 121: Melhor = 692.131
+Iter 123: Melhor = 689.142
+Iter 127: Melhor = 682.761
+Iter 130: Melhor = 678.206
+Iter 197: Melhor = 669.99
+
+=== RESULTADO FINAL ===
+Custo Total: 669.99
+Veiculos Usados: 5
+Tempo: 0.16 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 3 -> 4 -> 89 -> 0
+Rota 2: 0 -> 22 -> 24 -> 27 -> 29 -> 30 -> 18 -> 19 -> 16 -> 14 -> 12 -> 15 -> 17 -> 13 -> 9 -> 11 -> 10 -> 8 -> 0
+Rota 3: 0 -> 67 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 66 -> 69 -> 68 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 42 -> 41 -> 43 -> 48 -> 0
+Rota 4: 0 -> 90 -> 91 -> 88 -> 86 -> 84 -> 83 -> 82 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 87 -> 96 -> 0
+Rota 5: 0 -> 47 -> 50 -> 51 -> 52 -> 6 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 28 -> 26 -> 23 -> 25 -> 21 -> 20 -> 0
+----------------------------------------
+INSTANCIA: instancias/c204.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c204.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1446.73 | Veiculos: 9
+Iter 0: Melhor = 1178.44
+Iter 1: Melhor = 1158.59
+Iter 2: Melhor = 1053.67
+Iter 3: Melhor = 995.123
+Iter 4: Melhor = 953.627
+Iter 5: Melhor = 953.205
+Iter 7: Melhor = 945.884
+Iter 8: Melhor = 930.607
+Iter 9: Melhor = 917.926
+Iter 10: Melhor = 911.675
+Iter 11: Melhor = 908.895
+Iter 13: Melhor = 908.871
+Iter 14: Melhor = 906.82
+Iter 15: Melhor = 899.048
+Iter 16: Melhor = 882.988
+Iter 17: Melhor = 858.376
+Iter 18: Melhor = 826.278
+Iter 19: Melhor = 820.883
+Iter 20: Melhor = 820.474
+Iter 21: Melhor = 811.728
+Iter 24: Melhor = 808.521
+Iter 27: Melhor = 793.039
+Iter 28: Melhor = 792.889
+Iter 29: Melhor = 781.649
+Iter 30: Melhor = 778.317
+Iter 33: Melhor = 765.996
+Iter 34: Melhor = 765.965
+Iter 35: Melhor = 765.814
+Iter 42: Melhor = 765.665
+Iter 47: Melhor = 754.722
+Iter 52: Melhor = 742.333
+Iter 55: Melhor = 739.534
+Iter 57: Melhor = 738.211
+Iter 64: Melhor = 729.832
+Iter 65: Melhor = 705.149
+Iter 71: Melhor = 703.488
+Iter 72: Melhor = 699.655
+Iter 74: Melhor = 694.634
+Iter 75: Melhor = 692.261
+Iter 76: Melhor = 692.194
+Iter 78: Melhor = 691.987
+Iter 82: Melhor = 685.799
+Iter 87: Melhor = 685.388
+Iter 115: Melhor = 683.254
+Iter 842: Melhor = 660.137
+Iter 844: Melhor = 658.807
+Iter 846: Melhor = 653.301
+Iter 853: Melhor = 653.105
+Iter 858: Melhor = 653.081
+
+=== RESULTADO FINAL ===
+Custo Total: 653.08
+Veiculos Usados: 4
+Tempo: 0.19 s
+Rota 1: 0 -> 93 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 3 -> 4 -> 88 -> 86 -> 84 -> 83 -> 82 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 87 -> 96 -> 0
+Rota 2: 0 -> 67 -> 66 -> 69 -> 68 -> 41 -> 42 -> 47 -> 43 -> 48 -> 0
+Rota 3: 0 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 51 -> 50 -> 52 -> 29 -> 30 -> 27 -> 22 -> 21 -> 8 -> 0
+Rota 4: 0 -> 20 -> 24 -> 6 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 28 -> 26 -> 23 -> 17 -> 18 -> 19 -> 16 -> 14 -> 12 -> 15 -> 13 -> 25 -> 9 -> 11 -> 10 -> 5 -> 75 -> 89 -> 91 -> 90 -> 0
+----------------------------------------
+INSTANCIA: instancias/c205.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c205.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1485.1 | Veiculos: 9
+Iter 0: Melhor = 1401.65
+Iter 1: Melhor = 1300.23
+Iter 2: Melhor = 1215.66
+Iter 3: Melhor = 1179.3
+Iter 4: Melhor = 1110.08
+Iter 5: Melhor = 998.588
+Iter 6: Melhor = 997.927
+Iter 7: Melhor = 991.108
+Iter 8: Melhor = 971.106
+Iter 9: Melhor = 968.019
+Iter 10: Melhor = 962.222
+Iter 12: Melhor = 959.279
+Iter 13: Melhor = 959.226
+Iter 14: Melhor = 959.05
+Iter 15: Melhor = 955.951
+Iter 16: Melhor = 951.964
+Iter 18: Melhor = 951.301
+Iter 19: Melhor = 950.01
+Iter 33: Melhor = 918.01
+Iter 34: Melhor = 906.136
+Iter 36: Melhor = 898.053
+Iter 39: Melhor = 824.569
+Iter 40: Melhor = 819.789
+Iter 42: Melhor = 811.962
+Iter 46: Melhor = 809.174
+Iter 47: Melhor = 808.712
+Iter 48: Melhor = 805.257
+Iter 49: Melhor = 793.274
+Iter 51: Melhor = 792.87
+Iter 54: Melhor = 778.807
+Iter 55: Melhor = 778.131
+Iter 59: Melhor = 774.201
+Iter 62: Melhor = 771.189
+Iter 67: Melhor = 768.508
+Iter 69: Melhor = 761.444
+Iter 71: Melhor = 759.841
+Iter 106: Melhor = 756.711
+Iter 495: Melhor = 755.796
+Iter 536: Melhor = 752.449
+
+=== RESULTADO FINAL ===
+Custo Total: 752.45
+Veiculos Usados: 4
+Tempo: 0.15 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 3 -> 4 -> 89 -> 91 -> 88 -> 86 -> 84 -> 82 -> 83 -> 90 -> 0
+Rota 2: 0 -> 22 -> 20 -> 69 -> 66 -> 68 -> 43 -> 47 -> 42 -> 41 -> 48 -> 0
+Rota 3: 0 -> 67 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 51 -> 50 -> 52 -> 15 -> 17 -> 13 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 0
+Rota 4: 0 -> 24 -> 27 -> 30 -> 29 -> 6 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 28 -> 26 -> 23 -> 18 -> 19 -> 16 -> 14 -> 12 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 96 -> 87 -> 0
+----------------------------------------
+INSTANCIA: instancias/c206.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c206.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1267.89 | Veiculos: 8
+Iter 0: Melhor = 1179.42
+Iter 1: Melhor = 1156.89
+Iter 2: Melhor = 1116.42
+Iter 3: Melhor = 1112.1
+Iter 4: Melhor = 1110.69
+Iter 5: Melhor = 1045.41
+Iter 6: Melhor = 1035.46
+Iter 7: Melhor = 1001.54
+Iter 8: Melhor = 1000.18
+Iter 9: Melhor = 994.235
+Iter 11: Melhor = 985.285
+Iter 12: Melhor = 983.228
+Iter 13: Melhor = 977.556
+Iter 14: Melhor = 968.816
+Iter 15: Melhor = 963.608
+Iter 16: Melhor = 960.708
+Iter 17: Melhor = 959.08
+Iter 18: Melhor = 957.57
+Iter 20: Melhor = 950.248
+Iter 21: Melhor = 940.222
+Iter 23: Melhor = 924.473
+Iter 25: Melhor = 920.916
+Iter 29: Melhor = 891.64
+Iter 31: Melhor = 880.903
+Iter 33: Melhor = 843.047
+Iter 35: Melhor = 838.996
+Iter 36: Melhor = 837.381
+Iter 38: Melhor = 836.581
+Iter 40: Melhor = 835.7
+Iter 43: Melhor = 832.536
+Iter 44: Melhor = 803.299
+Iter 80: Melhor = 803.161
+Iter 84: Melhor = 803.143
+Iter 99: Melhor = 796.01
+Iter 100: Melhor = 794.325
+Iter 104: Melhor = 793.942
+Iter 114: Melhor = 792.929
+Iter 118: Melhor = 791.256
+Iter 121: Melhor = 789.978
+Iter 123: Melhor = 789.595
+Iter 140: Melhor = 789.241
+Iter 143: Melhor = 788.259
+Iter 159: Melhor = 787.51
+Iter 160: Melhor = 787.098
+Iter 161: Melhor = 786.328
+Iter 165: Melhor = 785.677
+Iter 170: Melhor = 785.099
+Iter 174: Melhor = 784.577
+Iter 201: Melhor = 784.027
+Iter 204: Melhor = 781.601
+Iter 226: Melhor = 780.4
+Iter 337: Melhor = 777.91
+Iter 681: Melhor = 771.969
+Iter 719: Melhor = 771.578
+Iter 722: Melhor = 770.292
+Iter 729: Melhor = 769.503
+Iter 740: Melhor = 762.818
+Iter 742: Melhor = 762.062
+Iter 787: Melhor = 761.916
+Iter 804: Melhor = 761.399
+Iter 815: Melhor = 748.098
+
+=== RESULTADO FINAL ===
+Custo Total: 748.10
+Veiculos Usados: 4
+Tempo: 0.15 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 3 -> 4 -> 89 -> 91 -> 88 -> 84 -> 82 -> 83 -> 86 -> 90 -> 0
+Rota 2: 0 -> 67 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 66 -> 69 -> 45 -> 51 -> 50 -> 52 -> 17 -> 15 -> 13 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 0
+Rota 3: 0 -> 22 -> 27 -> 30 -> 29 -> 6 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 28 -> 26 -> 23 -> 18 -> 19 -> 16 -> 14 -> 12 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 87 -> 96 -> 0
+Rota 4: 0 -> 20 -> 24 -> 68 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 42 -> 41 -> 47 -> 43 -> 48 -> 0
+----------------------------------------
+INSTANCIA: instancias/c207.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c207.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1292.97 | Veiculos: 8
+Iter 0: Melhor = 1163.11
+Iter 2: Melhor = 1077.26
+Iter 3: Melhor = 1072.3
+Iter 4: Melhor = 1029.2
+Iter 5: Melhor = 1014.88
+Iter 6: Melhor = 982.458
+Iter 7: Melhor = 878.809
+Iter 8: Melhor = 870.182
+Iter 9: Melhor = 865.13
+Iter 10: Melhor = 851.5
+Iter 11: Melhor = 835.546
+Iter 12: Melhor = 823.5
+Iter 14: Melhor = 787.03
+Iter 15: Melhor = 782.382
+Iter 20: Melhor = 776.933
+Iter 21: Melhor = 761.894
+Iter 23: Melhor = 751.263
+Iter 31: Melhor = 746.951
+Iter 38: Melhor = 740.368
+Iter 49: Melhor = 738.539
+Iter 56: Melhor = 729.105
+Iter 59: Melhor = 721.008
+Iter 60: Melhor = 718.698
+Iter 61: Melhor = 715.372
+Iter 63: Melhor = 715.039
+Iter 65: Melhor = 714.126
+Iter 75: Melhor = 713.437
+Iter 268: Melhor = 713.122
+Iter 302: Melhor = 709.755
+
+=== RESULTADO FINAL ===
+Custo Total: 709.76
+Veiculos Usados: 4
+Tempo: 0.16 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 3 -> 4 -> 89 -> 91 -> 88 -> 86 -> 90 -> 0
+Rota 2: 0 -> 67 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 66 -> 69 -> 20 -> 17 -> 18 -> 19 -> 16 -> 14 -> 12 -> 15 -> 13 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 0
+Rota 3: 0 -> 22 -> 24 -> 27 -> 30 -> 29 -> 6 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 28 -> 26 -> 23 -> 84 -> 83 -> 82 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 87 -> 96 -> 0
+Rota 4: 0 -> 68 -> 65 -> 49 -> 55 -> 54 -> 53 -> 56 -> 58 -> 60 -> 59 -> 57 -> 40 -> 44 -> 46 -> 45 -> 51 -> 50 -> 52 -> 47 -> 42 -> 41 -> 43 -> 48 -> 0
+----------------------------------------
+INSTANCIA: instancias/c208.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/c208.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1145.23 | Veiculos: 6
+Iter 0: Melhor = 1107.29
+Iter 1: Melhor = 1068.33
+Iter 2: Melhor = 1035.65
+Iter 3: Melhor = 1034.45
+Iter 4: Melhor = 1029.38
+Iter 5: Melhor = 1013.35
+Iter 7: Melhor = 1001.55
+Iter 8: Melhor = 997.925
+Iter 10: Melhor = 987.376
+Iter 12: Melhor = 984.827
+Iter 13: Melhor = 983
+Iter 17: Melhor = 982.928
+Iter 20: Melhor = 958.214
+Iter 23: Melhor = 918.382
+Iter 24: Melhor = 913.798
+Iter 25: Melhor = 912.397
+Iter 27: Melhor = 893.522
+Iter 29: Melhor = 853.835
+Iter 30: Melhor = 851.837
+Iter 36: Melhor = 851.395
+Iter 47: Melhor = 847.917
+Iter 66: Melhor = 847.737
+Iter 68: Melhor = 847.433
+Iter 70: Melhor = 841.964
+Iter 77: Melhor = 840.237
+Iter 83: Melhor = 837.888
+Iter 84: Melhor = 832.141
+Iter 86: Melhor = 830.024
+Iter 87: Melhor = 825.975
+Iter 88: Melhor = 825.312
+Iter 89: Melhor = 822.155
+Iter 91: Melhor = 820.721
+Iter 447: Melhor = 813.079
+
+=== RESULTADO FINAL ===
+Custo Total: 813.08
+Veiculos Usados: 4
+Tempo: 0.16 s
+Rota 1: 0 -> 93 -> 5 -> 75 -> 2 -> 1 -> 99 -> 100 -> 97 -> 92 -> 94 -> 95 -> 98 -> 7 -> 3 -> 4 -> 88 -> 86 -> 91 -> 89 -> 8 -> 21 -> 0
+Rota 2: 0 -> 67 -> 63 -> 62 -> 74 -> 72 -> 61 -> 64 -> 66 -> 69 -> 68 -> 65 -> 49 -> 55 -> 57 -> 40 -> 45 -> 51 -> 50 -> 52 -> 25 -> 17 -> 15 -> 13 -> 9 -> 11 -> 10 -> 90 -> 87 -> 96 -> 0
+Rota 3: 0 -> 22 -> 27 -> 30 -> 28 -> 26 -> 23 -> 18 -> 19 -> 16 -> 14 -> 12 -> 84 -> 83 -> 82 -> 85 -> 76 -> 71 -> 70 -> 73 -> 80 -> 79 -> 81 -> 78 -> 77 -> 0
+Rota 4: 0 -> 20 -> 24 -> 29 -> 6 -> 32 -> 33 -> 31 -> 35 -> 37 -> 38 -> 39 -> 36 -> 34 -> 59 -> 54 -> 53 -> 56 -> 58 -> 60 -> 44 -> 46 -> 41 -> 42 -> 47 -> 43 -> 48 -> 0
+----------------------------------------
+INSTANCIA: instancias/r101.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r101.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2623.24 | Veiculos: 37
+Iter 0: Melhor = 2490.2
+Iter 1: Melhor = 2413.9
+Iter 2: Melhor = 2355.71
+Iter 3: Melhor = 2350.53
+Iter 4: Melhor = 2295.63
+Iter 5: Melhor = 2169.89
+Iter 6: Melhor = 2132.54
+Iter 7: Melhor = 2085.72
+Iter 8: Melhor = 2073.2
+Iter 9: Melhor = 1983.24
+Iter 12: Melhor = 1942.44
+Iter 17: Melhor = 1916.19
+Iter 18: Melhor = 1913.69
+Iter 20: Melhor = 1892.82
+Iter 21: Melhor = 1868.32
+Iter 22: Melhor = 1830.15
+Iter 23: Melhor = 1774.33
+Iter 32: Melhor = 1770.54
+Iter 33: Melhor = 1745.64
+Iter 40: Melhor = 1745.64
+Iter 42: Melhor = 1745.5
+Iter 46: Melhor = 1731.98
+Iter 54: Melhor = 1730.93
+Iter 70: Melhor = 1714.21
+Iter 112: Melhor = 1713.12
+Iter 181: Melhor = 1712.07
+Iter 251: Melhor = 1711.64
+Iter 287: Melhor = 1706.58
+Iter 291: Melhor = 1705.91
+Iter 311: Melhor = 1705.91
+Iter 312: Melhor = 1704.69
+Iter 789: Melhor = 1699.73
+Iter 810: Melhor = 1698.33
+Iter 882: Melhor = 1697.5
+Iter 888: Melhor = 1697.21
+Iter 992: Melhor = 1696.79
+
+=== RESULTADO FINAL ===
+Custo Total: 1696.79
+Veiculos Usados: 21
+Tempo: 0.12 s
+Rota 1: 0 -> 59 -> 99 -> 94 -> 96 -> 0
+Rota 2: 0 -> 45 -> 83 -> 18 -> 84 -> 60 -> 89 -> 0
+Rota 3: 0 -> 5 -> 61 -> 85 -> 37 -> 93 -> 0
+Rota 4: 0 -> 2 -> 87 -> 97 -> 0
+Rota 5: 0 -> 21 -> 73 -> 41 -> 56 -> 25 -> 0
+Rota 6: 0 -> 92 -> 42 -> 15 -> 57 -> 26 -> 0
+Rota 7: 0 -> 82 -> 7 -> 8 -> 46 -> 17 -> 0
+Rota 8: 0 -> 28 -> 12 -> 76 -> 79 -> 3 -> 54 -> 24 -> 80 -> 0
+Rota 9: 0 -> 72 -> 75 -> 22 -> 74 -> 58 -> 0
+Rota 10: 0 -> 36 -> 47 -> 19 -> 90 -> 20 -> 32 -> 70 -> 0
+Rota 11: 0 -> 52 -> 88 -> 6 -> 0
+Rota 12: 0 -> 27 -> 69 -> 30 -> 81 -> 50 -> 0
+Rota 13: 0 -> 95 -> 98 -> 16 -> 86 -> 91 -> 100 -> 0
+Rota 14: 0 -> 33 -> 29 -> 78 -> 34 -> 68 -> 0
+Rota 15: 0 -> 14 -> 44 -> 38 -> 43 -> 13 -> 0
+Rota 16: 0 -> 39 -> 23 -> 67 -> 55 -> 4 -> 0
+Rota 17: 0 -> 65 -> 71 -> 66 -> 1 -> 0
+Rota 18: 0 -> 31 -> 51 -> 9 -> 35 -> 77 -> 0
+Rota 19: 0 -> 63 -> 64 -> 49 -> 48 -> 0
+Rota 20: 0 -> 62 -> 11 -> 10 -> 0
+Rota 21: 0 -> 40 -> 53 -> 0
+----------------------------------------
+INSTANCIA: instancias/r102.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r102.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2442.78 | Veiculos: 34
+Iter 0: Melhor = 2265.45
+Iter 1: Melhor = 2130.29
+Iter 2: Melhor = 2009.64
+Iter 3: Melhor = 1907.97
+Iter 4: Melhor = 1841.8
+Iter 5: Melhor = 1803.81
+Iter 7: Melhor = 1778.67
+Iter 8: Melhor = 1762.42
+Iter 10: Melhor = 1748.76
+Iter 12: Melhor = 1745.1
+Iter 14: Melhor = 1706.4
+Iter 16: Melhor = 1698.61
+Iter 17: Melhor = 1683.87
+Iter 19: Melhor = 1682.85
+Iter 20: Melhor = 1677.84
+Iter 21: Melhor = 1667.73
+Iter 23: Melhor = 1664.64
+Iter 29: Melhor = 1657.95
+Iter 34: Melhor = 1645.79
+Iter 36: Melhor = 1637.14
+Iter 38: Melhor = 1623.17
+Iter 39: Melhor = 1607.29
+Iter 41: Melhor = 1606.62
+Iter 44: Melhor = 1592.23
+Iter 49: Melhor = 1592.11
+Iter 54: Melhor = 1591.33
+Iter 58: Melhor = 1589.88
+Iter 59: Melhor = 1586.65
+Iter 61: Melhor = 1576.68
+Iter 62: Melhor = 1574.33
+Iter 68: Melhor = 1572.44
+Iter 75: Melhor = 1571.8
+Iter 87: Melhor = 1566.45
+Iter 89: Melhor = 1560.79
+Iter 95: Melhor = 1558.89
+Iter 96: Melhor = 1541.89
+Iter 100: Melhor = 1539.36
+Iter 101: Melhor = 1538.89
+Iter 102: Melhor = 1537.2
+Iter 107: Melhor = 1536.55
+Iter 112: Melhor = 1535.02
+Iter 116: Melhor = 1534.26
+Iter 117: Melhor = 1533.59
+Iter 123: Melhor = 1530.04
+Iter 127: Melhor = 1529.57
+Iter 141: Melhor = 1528.97
+Iter 149: Melhor = 1528.24
+Iter 152: Melhor = 1527.6
+Iter 157: Melhor = 1527.13
+Iter 202: Melhor = 1521.94
+Iter 228: Melhor = 1521.44
+Iter 270: Melhor = 1521.44
+Iter 277: Melhor = 1520.93
+Iter 278: Melhor = 1520.51
+Iter 280: Melhor = 1520.2
+Iter 319: Melhor = 1519.77
+
+=== RESULTADO FINAL ===
+Custo Total: 1519.77
+Veiculos Usados: 18
+Tempo: 0.12 s
+Rota 1: 0 -> 28 -> 76 -> 79 -> 68 -> 0
+Rota 2: 0 -> 96 -> 99 -> 59 -> 97 -> 95 -> 0
+Rota 3: 0 -> 27 -> 69 -> 88 -> 8 -> 46 -> 17 -> 93 -> 94 -> 0
+Rota 4: 0 -> 87 -> 57 -> 2 -> 74 -> 58 -> 0
+Rota 5: 0 -> 42 -> 15 -> 41 -> 75 -> 56 -> 4 -> 25 -> 26 -> 0
+Rota 6: 0 -> 73 -> 22 -> 72 -> 54 -> 0
+Rota 7: 0 -> 50 -> 33 -> 29 -> 81 -> 66 -> 1 -> 0
+Rota 8: 0 -> 36 -> 47 -> 19 -> 7 -> 52 -> 0
+Rota 9: 0 -> 30 -> 51 -> 9 -> 20 -> 32 -> 70 -> 0
+Rota 10: 0 -> 14 -> 16 -> 86 -> 91 -> 100 -> 37 -> 0
+Rota 11: 0 -> 92 -> 98 -> 85 -> 44 -> 38 -> 43 -> 13 -> 0
+Rota 12: 0 -> 83 -> 45 -> 61 -> 84 -> 5 -> 60 -> 89 -> 0
+Rota 13: 0 -> 21 -> 39 -> 23 -> 67 -> 55 -> 24 -> 80 -> 12 -> 0
+Rota 14: 0 -> 65 -> 71 -> 78 -> 34 -> 35 -> 3 -> 77 -> 0
+Rota 15: 0 -> 63 -> 64 -> 49 -> 48 -> 82 -> 0
+Rota 16: 0 -> 18 -> 6 -> 0
+Rota 17: 0 -> 62 -> 11 -> 90 -> 10 -> 31 -> 0
+Rota 18: 0 -> 40 -> 53 -> 0
+----------------------------------------
+INSTANCIA: instancias/r103.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r103.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1972.04 | Veiculos: 25
+Iter 0: Melhor = 1893.68
+Iter 1: Melhor = 1771.77
+Iter 2: Melhor = 1718.7
+Iter 3: Melhor = 1682.08
+Iter 4: Melhor = 1636.76
+Iter 5: Melhor = 1615.73
+Iter 6: Melhor = 1579.75
+Iter 7: Melhor = 1540.34
+Iter 8: Melhor = 1519.39
+Iter 9: Melhor = 1473.27
+Iter 11: Melhor = 1463.06
+Iter 12: Melhor = 1447.76
+Iter 15: Melhor = 1431.76
+Iter 17: Melhor = 1424.28
+Iter 20: Melhor = 1411.35
+Iter 24: Melhor = 1398.87
+Iter 25: Melhor = 1394.52
+Iter 29: Melhor = 1392.28
+Iter 31: Melhor = 1386.83
+Iter 32: Melhor = 1382.34
+Iter 34: Melhor = 1378.04
+Iter 35: Melhor = 1372.08
+Iter 43: Melhor = 1350.56
+Iter 47: Melhor = 1350.09
+Iter 48: Melhor = 1347.42
+Iter 53: Melhor = 1347.1
+Iter 56: Melhor = 1347.06
+Iter 60: Melhor = 1342.59
+Iter 65: Melhor = 1339.79
+Iter 66: Melhor = 1339.62
+Iter 70: Melhor = 1337.95
+Iter 71: Melhor = 1335.53
+Iter 73: Melhor = 1326.91
+Iter 75: Melhor = 1325.32
+Iter 79: Melhor = 1323.68
+Iter 80: Melhor = 1321.89
+Iter 82: Melhor = 1313.81
+Iter 84: Melhor = 1313.26
+Iter 92: Melhor = 1300.99
+Iter 97: Melhor = 1285.82
+Iter 104: Melhor = 1285.18
+Iter 114: Melhor = 1285.18
+Iter 130: Melhor = 1283.68
+Iter 138: Melhor = 1283.38
+Iter 141: Melhor = 1282.05
+Iter 160: Melhor = 1279.74
+Iter 163: Melhor = 1275.57
+Iter 164: Melhor = 1273.67
+Iter 169: Melhor = 1272.67
+Iter 171: Melhor = 1270.76
+Iter 174: Melhor = 1269.26
+Iter 213: Melhor = 1267.24
+Iter 393: Melhor = 1265.44
+Iter 521: Melhor = 1264.88
+Iter 772: Melhor = 1264.65
+Iter 778: Melhor = 1264.64
+Iter 828: Melhor = 1260.13
+Iter 839: Melhor = 1259.7
+
+=== RESULTADO FINAL ===
+Custo Total: 1259.70
+Veiculos Usados: 15
+Tempo: 0.13 s
+Rota 1: 0 -> 94 -> 95 -> 97 -> 87 -> 13 -> 0
+Rota 2: 0 -> 60 -> 45 -> 84 -> 17 -> 5 -> 0
+Rota 3: 0 -> 50 -> 33 -> 81 -> 78 -> 3 -> 77 -> 28 -> 0
+Rota 4: 0 -> 76 -> 79 -> 29 -> 24 -> 68 -> 80 -> 12 -> 0
+Rota 5: 0 -> 92 -> 61 -> 16 -> 44 -> 38 -> 86 -> 14 -> 91 -> 85 -> 93 -> 0
+Rota 6: 0 -> 42 -> 43 -> 15 -> 57 -> 41 -> 75 -> 56 -> 4 -> 26 -> 0
+Rota 7: 0 -> 27 -> 69 -> 88 -> 8 -> 46 -> 83 -> 89 -> 0
+Rota 8: 0 -> 1 -> 30 -> 51 -> 9 -> 66 -> 20 -> 32 -> 31 -> 0
+Rota 9: 0 -> 52 -> 7 -> 62 -> 11 -> 63 -> 90 -> 10 -> 70 -> 0
+Rota 10: 0 -> 96 -> 99 -> 6 -> 59 -> 98 -> 100 -> 37 -> 0
+Rota 11: 0 -> 21 -> 39 -> 23 -> 67 -> 55 -> 25 -> 54 -> 0
+Rota 12: 0 -> 36 -> 64 -> 49 -> 19 -> 47 -> 48 -> 82 -> 18 -> 0
+Rota 13: 0 -> 71 -> 65 -> 35 -> 34 -> 0
+Rota 14: 0 -> 2 -> 22 -> 74 -> 72 -> 73 -> 58 -> 0
+Rota 15: 0 -> 40 -> 53 -> 0
+----------------------------------------
+INSTANCIA: instancias/r104.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r104.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1519.35 | Veiculos: 18
+Iter 0: Melhor = 1352.39
+Iter 1: Melhor = 1325.62
+Iter 2: Melhor = 1278.79
+Iter 3: Melhor = 1267.52
+Iter 4: Melhor = 1264.18
+Iter 5: Melhor = 1259.8
+Iter 6: Melhor = 1220.48
+Iter 8: Melhor = 1219.17
+Iter 9: Melhor = 1194.73
+Iter 10: Melhor = 1176.46
+Iter 12: Melhor = 1160.96
+Iter 15: Melhor = 1151.24
+Iter 16: Melhor = 1150.46
+Iter 21: Melhor = 1142.37
+Iter 22: Melhor = 1134.33
+Iter 23: Melhor = 1127.83
+Iter 24: Melhor = 1124.01
+Iter 25: Melhor = 1123.62
+Iter 26: Melhor = 1122.19
+Iter 27: Melhor = 1119.63
+Iter 35: Melhor = 1117.7
+Iter 40: Melhor = 1116.2
+Iter 41: Melhor = 1112.8
+Iter 43: Melhor = 1109.59
+Iter 49: Melhor = 1107.76
+Iter 50: Melhor = 1107.61
+Iter 51: Melhor = 1102.47
+Iter 61: Melhor = 1101.68
+Iter 64: Melhor = 1098.09
+Iter 65: Melhor = 1094.8
+Iter 71: Melhor = 1090.44
+Iter 72: Melhor = 1090.4
+Iter 75: Melhor = 1090.23
+Iter 108: Melhor = 1089.21
+Iter 124: Melhor = 1082.8
+Iter 127: Melhor = 1080.81
+Iter 129: Melhor = 1080.59
+Iter 137: Melhor = 1080.21
+Iter 141: Melhor = 1078.23
+Iter 144: Melhor = 1072.41
+Iter 145: Melhor = 1071.2
+Iter 147: Melhor = 1066.79
+Iter 149: Melhor = 1064.16
+Iter 177: Melhor = 1062.59
+Iter 181: Melhor = 1060.35
+Iter 183: Melhor = 1060.34
+Iter 676: Melhor = 1058.93
+
+=== RESULTADO FINAL ===
+Custo Total: 1058.93
+Veiculos Usados: 12
+Tempo: 0.13 s
+Rota 1: 0 -> 53 -> 12 -> 80 -> 68 -> 77 -> 28 -> 0
+Rota 2: 0 -> 2 -> 57 -> 15 -> 43 -> 41 -> 22 -> 74 -> 73 -> 21 -> 40 -> 58 -> 0
+Rota 3: 0 -> 87 -> 97 -> 37 -> 98 -> 91 -> 100 -> 95 -> 0
+Rota 4: 0 -> 50 -> 33 -> 81 -> 78 -> 34 -> 35 -> 71 -> 65 -> 66 -> 20 -> 0
+Rota 5: 0 -> 76 -> 79 -> 3 -> 29 -> 24 -> 25 -> 54 -> 0
+Rota 6: 0 -> 82 -> 48 -> 47 -> 36 -> 49 -> 64 -> 19 -> 7 -> 52 -> 0
+Rota 7: 0 -> 92 -> 59 -> 99 -> 84 -> 5 -> 96 -> 94 -> 13 -> 0
+Rota 8: 0 -> 42 -> 14 -> 44 -> 38 -> 86 -> 16 -> 61 -> 85 -> 93 -> 6 -> 0
+Rota 9: 0 -> 18 -> 8 -> 46 -> 45 -> 17 -> 83 -> 60 -> 89 -> 0
+Rota 10: 0 -> 69 -> 1 -> 9 -> 51 -> 30 -> 70 -> 27 -> 0
+Rota 11: 0 -> 88 -> 62 -> 11 -> 63 -> 90 -> 32 -> 10 -> 31 -> 0
+Rota 12: 0 -> 72 -> 75 -> 56 -> 23 -> 67 -> 39 -> 55 -> 4 -> 26 -> 0
+----------------------------------------
+INSTANCIA: instancias/r105.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r105.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2238.6 | Veiculos: 27
+Iter 0: Melhor = 2178.35
+Iter 1: Melhor = 2056.63
+Iter 2: Melhor = 2012.54
+Iter 4: Melhor = 1993.16
+Iter 5: Melhor = 1959.72
+Iter 6: Melhor = 1884.84
+Iter 7: Melhor = 1837.39
+Iter 8: Melhor = 1826.93
+Iter 9: Melhor = 1725.64
+Iter 11: Melhor = 1716.54
+Iter 14: Melhor = 1715.34
+Iter 17: Melhor = 1701.01
+Iter 19: Melhor = 1697.46
+Iter 20: Melhor = 1681.88
+Iter 21: Melhor = 1673
+Iter 22: Melhor = 1661.81
+Iter 26: Melhor = 1650.24
+Iter 27: Melhor = 1588.68
+Iter 28: Melhor = 1585.58
+Iter 30: Melhor = 1584.13
+Iter 31: Melhor = 1577.43
+Iter 35: Melhor = 1565.75
+Iter 38: Melhor = 1552.24
+Iter 41: Melhor = 1529.33
+Iter 43: Melhor = 1527.5
+Iter 45: Melhor = 1525.3
+Iter 48: Melhor = 1523.32
+Iter 67: Melhor = 1518.4
+Iter 68: Melhor = 1508.92
+Iter 70: Melhor = 1499.48
+Iter 73: Melhor = 1498.08
+Iter 79: Melhor = 1491.79
+Iter 82: Melhor = 1491.72
+Iter 89: Melhor = 1491.65
+Iter 92: Melhor = 1476.83
+Iter 114: Melhor = 1468.7
+Iter 117: Melhor = 1452.5
+Iter 159: Melhor = 1452.22
+Iter 163: Melhor = 1444.29
+Iter 165: Melhor = 1431.61
+Iter 166: Melhor = 1431.61
+Iter 167: Melhor = 1427.35
+Iter 222: Melhor = 1424.34
+Iter 233: Melhor = 1417.28
+Iter 253: Melhor = 1416.85
+Iter 261: Melhor = 1415.39
+Iter 329: Melhor = 1415
+Iter 333: Melhor = 1414.08
+Iter 334: Melhor = 1411.8
+Iter 351: Melhor = 1411.78
+Iter 460: Melhor = 1406.64
+Iter 477: Melhor = 1399.82
+Iter 640: Melhor = 1399.72
+Iter 680: Melhor = 1398.68
+
+=== RESULTADO FINAL ===
+Custo Total: 1398.68
+Veiculos Usados: 15
+Tempo: 0.11 s
+Rota 1: 0 -> 28 -> 12 -> 29 -> 3 -> 68 -> 24 -> 80 -> 0
+Rota 2: 0 -> 95 -> 59 -> 98 -> 44 -> 38 -> 43 -> 37 -> 100 -> 91 -> 93 -> 0
+Rota 3: 0 -> 69 -> 31 -> 88 -> 7 -> 8 -> 46 -> 0
+Rota 4: 0 -> 52 -> 82 -> 18 -> 6 -> 94 -> 0
+Rota 5: 0 -> 2 -> 15 -> 57 -> 87 -> 97 -> 13 -> 0
+Rota 6: 0 -> 21 -> 73 -> 75 -> 22 -> 41 -> 56 -> 74 -> 58 -> 0
+Rota 7: 0 -> 47 -> 19 -> 11 -> 90 -> 10 -> 32 -> 70 -> 0
+Rota 8: 0 -> 72 -> 39 -> 23 -> 67 -> 55 -> 54 -> 4 -> 25 -> 0
+Rota 9: 0 -> 92 -> 42 -> 14 -> 16 -> 86 -> 84 -> 17 -> 60 -> 89 -> 0
+Rota 10: 0 -> 45 -> 36 -> 64 -> 49 -> 48 -> 0
+Rota 11: 0 -> 27 -> 76 -> 79 -> 81 -> 78 -> 34 -> 35 -> 77 -> 0
+Rota 12: 0 -> 63 -> 62 -> 30 -> 51 -> 50 -> 0
+Rota 13: 0 -> 33 -> 65 -> 71 -> 9 -> 66 -> 20 -> 1 -> 0
+Rota 14: 0 -> 83 -> 5 -> 61 -> 85 -> 99 -> 96 -> 0
+Rota 15: 0 -> 53 -> 40 -> 26 -> 0
+----------------------------------------
+INSTANCIA: instancias/r106.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r106.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2168.74 | Veiculos: 28
+Iter 0: Melhor = 2033.52
+Iter 1: Melhor = 1982.78
+Iter 2: Melhor = 1976.71
+Iter 3: Melhor = 1852.12
+Iter 4: Melhor = 1775.43
+Iter 5: Melhor = 1766.47
+Iter 6: Melhor = 1706.84
+Iter 8: Melhor = 1687.3
+Iter 9: Melhor = 1653.92
+Iter 10: Melhor = 1620.6
+Iter 11: Melhor = 1594.82
+Iter 12: Melhor = 1531.08
+Iter 13: Melhor = 1528.57
+Iter 15: Melhor = 1525.52
+Iter 16: Melhor = 1499.3
+Iter 18: Melhor = 1485.97
+Iter 19: Melhor = 1485.71
+Iter 20: Melhor = 1481.67
+Iter 22: Melhor = 1456.89
+Iter 26: Melhor = 1448.61
+Iter 27: Melhor = 1437.22
+Iter 31: Melhor = 1433.31
+Iter 33: Melhor = 1432.02
+Iter 38: Melhor = 1425.37
+Iter 42: Melhor = 1423.52
+Iter 43: Melhor = 1423.51
+Iter 60: Melhor = 1422.23
+Iter 62: Melhor = 1420.96
+Iter 65: Melhor = 1420.51
+Iter 68: Melhor = 1419.64
+Iter 69: Melhor = 1416.55
+Iter 88: Melhor = 1415.73
+Iter 90: Melhor = 1415.64
+Iter 92: Melhor = 1415.6
+Iter 96: Melhor = 1414.99
+Iter 98: Melhor = 1411.83
+Iter 103: Melhor = 1411.42
+Iter 111: Melhor = 1408.29
+Iter 114: Melhor = 1408.04
+Iter 115: Melhor = 1400.99
+Iter 127: Melhor = 1392.99
+Iter 132: Melhor = 1391.12
+Iter 133: Melhor = 1385.51
+Iter 157: Melhor = 1385.36
+Iter 161: Melhor = 1382.83
+Iter 172: Melhor = 1382.01
+Iter 174: Melhor = 1380.83
+Iter 208: Melhor = 1379.41
+Iter 212: Melhor = 1373.66
+Iter 216: Melhor = 1368.83
+Iter 219: Melhor = 1366.72
+Iter 222: Melhor = 1356.84
+Iter 240: Melhor = 1355.91
+Iter 268: Melhor = 1353.25
+Iter 309: Melhor = 1351.93
+Iter 312: Melhor = 1346.4
+Iter 314: Melhor = 1345.51
+Iter 387: Melhor = 1344.75
+Iter 442: Melhor = 1344.25
+Iter 458: Melhor = 1342.32
+Iter 494: Melhor = 1342.31
+Iter 507: Melhor = 1341.55
+Iter 612: Melhor = 1337.43
+Iter 625: Melhor = 1336.92
+Iter 626: Melhor = 1336.69
+Iter 660: Melhor = 1336.41
+Iter 677: Melhor = 1336.41
+Iter 805: Melhor = 1332.59
+Iter 846: Melhor = 1330.29
+Iter 860: Melhor = 1330.29
+Iter 872: Melhor = 1327.96
+
+=== RESULTADO FINAL ===
+Custo Total: 1327.96
+Veiculos Usados: 14
+Tempo: 0.12 s
+Rota 1: 0 -> 76 -> 53 -> 54 -> 55 -> 25 -> 26 -> 0
+Rota 2: 0 -> 40 -> 73 -> 22 -> 75 -> 56 -> 4 -> 0
+Rota 3: 0 -> 28 -> 29 -> 79 -> 81 -> 78 -> 34 -> 35 -> 3 -> 77 -> 0
+Rota 4: 0 -> 42 -> 14 -> 44 -> 38 -> 43 -> 97 -> 95 -> 94 -> 0
+Rota 5: 0 -> 96 -> 99 -> 5 -> 84 -> 17 -> 60 -> 89 -> 0
+Rota 6: 0 -> 92 -> 37 -> 98 -> 85 -> 61 -> 16 -> 86 -> 91 -> 100 -> 93 -> 59 -> 0
+Rota 7: 0 -> 63 -> 11 -> 62 -> 90 -> 10 -> 31 -> 0
+Rota 8: 0 -> 50 -> 33 -> 65 -> 71 -> 9 -> 68 -> 24 -> 80 -> 12 -> 0
+Rota 9: 0 -> 82 -> 47 -> 19 -> 64 -> 49 -> 48 -> 7 -> 52 -> 0
+Rota 10: 0 -> 27 -> 69 -> 1 -> 30 -> 51 -> 20 -> 66 -> 32 -> 70 -> 0
+Rota 11: 0 -> 2 -> 15 -> 57 -> 87 -> 13 -> 0
+Rota 12: 0 -> 39 -> 23 -> 67 -> 41 -> 74 -> 72 -> 21 -> 58 -> 0
+Rota 13: 0 -> 45 -> 36 -> 8 -> 46 -> 83 -> 0
+Rota 14: 0 -> 88 -> 18 -> 6 -> 0
+----------------------------------------
+INSTANCIA: instancias/r107.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r107.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1818.55 | Veiculos: 21
+Iter 0: Melhor = 1685.46
+Iter 1: Melhor = 1531.28
+Iter 2: Melhor = 1462.61
+Iter 3: Melhor = 1384.18
+Iter 4: Melhor = 1368.75
+Iter 5: Melhor = 1311.48
+Iter 6: Melhor = 1307.26
+Iter 7: Melhor = 1280.7
+Iter 8: Melhor = 1268.41
+Iter 12: Melhor = 1266.66
+Iter 14: Melhor = 1243.08
+Iter 16: Melhor = 1235.87
+Iter 21: Melhor = 1228.92
+Iter 23: Melhor = 1224.64
+Iter 25: Melhor = 1218.97
+Iter 28: Melhor = 1217.15
+Iter 29: Melhor = 1216.37
+Iter 30: Melhor = 1209.92
+Iter 32: Melhor = 1207.63
+Iter 34: Melhor = 1203.37
+Iter 35: Melhor = 1200.7
+Iter 38: Melhor = 1199.66
+Iter 39: Melhor = 1196.45
+Iter 41: Melhor = 1195.69
+Iter 43: Melhor = 1195.37
+Iter 48: Melhor = 1195.07
+Iter 49: Melhor = 1191.74
+Iter 51: Melhor = 1189.64
+Iter 52: Melhor = 1186.1
+Iter 53: Melhor = 1182.72
+Iter 59: Melhor = 1176.03
+Iter 60: Melhor = 1175.76
+Iter 65: Melhor = 1172.38
+Iter 79: Melhor = 1172.37
+Iter 94: Melhor = 1171.23
+Iter 137: Melhor = 1170.37
+Iter 143: Melhor = 1170.35
+Iter 153: Melhor = 1167.74
+Iter 159: Melhor = 1165.78
+Iter 166: Melhor = 1158.15
+Iter 175: Melhor = 1157.84
+Iter 215: Melhor = 1154.23
+Iter 250: Melhor = 1154.13
+Iter 265: Melhor = 1152.58
+Iter 283: Melhor = 1149.47
+Iter 420: Melhor = 1141.71
+Iter 423: Melhor = 1141.23
+Iter 432: Melhor = 1141.2
+Iter 462: Melhor = 1141.04
+Iter 472: Melhor = 1137.61
+Iter 479: Melhor = 1137.49
+Iter 485: Melhor = 1137.17
+Iter 492: Melhor = 1132.27
+Iter 501: Melhor = 1130.52
+Iter 641: Melhor = 1129.63
+
+=== RESULTADO FINAL ===
+Custo Total: 1129.63
+Veiculos Usados: 12
+Tempo: 0.12 s
+Rota 1: 0 -> 53 -> 40 -> 26 -> 12 -> 68 -> 80 -> 0
+Rota 2: 0 -> 94 -> 96 -> 59 -> 99 -> 6 -> 87 -> 97 -> 95 -> 13 -> 0
+Rota 3: 0 -> 18 -> 83 -> 45 -> 8 -> 84 -> 61 -> 16 -> 91 -> 100 -> 85 -> 93 -> 0
+Rota 4: 0 -> 50 -> 33 -> 81 -> 9 -> 78 -> 34 -> 35 -> 3 -> 77 -> 28 -> 0
+Rota 5: 0 -> 57 -> 42 -> 43 -> 15 -> 41 -> 22 -> 75 -> 74 -> 73 -> 2 -> 58 -> 0
+Rota 6: 0 -> 82 -> 46 -> 36 -> 19 -> 10 -> 63 -> 90 -> 32 -> 70 -> 0
+Rota 7: 0 -> 76 -> 79 -> 29 -> 24 -> 55 -> 25 -> 54 -> 0
+Rota 8: 0 -> 51 -> 71 -> 65 -> 66 -> 20 -> 1 -> 0
+Rota 9: 0 -> 31 -> 62 -> 11 -> 64 -> 49 -> 47 -> 48 -> 7 -> 52 -> 0
+Rota 10: 0 -> 92 -> 37 -> 98 -> 44 -> 14 -> 38 -> 86 -> 17 -> 5 -> 60 -> 89 -> 0
+Rota 11: 0 -> 21 -> 72 -> 39 -> 23 -> 67 -> 56 -> 4 -> 0
+Rota 12: 0 -> 27 -> 69 -> 30 -> 88 -> 0
+----------------------------------------
+INSTANCIA: instancias/r108.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r108.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1505.37 | Veiculos: 16
+Iter 0: Melhor = 1472.81
+Iter 1: Melhor = 1445.03
+Iter 2: Melhor = 1434.55
+Iter 3: Melhor = 1392.9
+Iter 4: Melhor = 1367.58
+Iter 5: Melhor = 1340.15
+Iter 6: Melhor = 1313.01
+Iter 7: Melhor = 1300.17
+Iter 8: Melhor = 1264.52
+Iter 9: Melhor = 1248.06
+Iter 10: Melhor = 1195.07
+Iter 11: Melhor = 1185.19
+Iter 12: Melhor = 1174.32
+Iter 13: Melhor = 1154.77
+Iter 16: Melhor = 1150.74
+Iter 17: Melhor = 1134.86
+Iter 18: Melhor = 1124.59
+Iter 21: Melhor = 1108.93
+Iter 22: Melhor = 1102.02
+Iter 23: Melhor = 1101.55
+Iter 24: Melhor = 1097.79
+Iter 26: Melhor = 1097.7
+Iter 28: Melhor = 1088.39
+Iter 30: Melhor = 1081.8
+Iter 32: Melhor = 1077.47
+Iter 37: Melhor = 1069.54
+Iter 38: Melhor = 1065.68
+Iter 39: Melhor = 1063.62
+Iter 40: Melhor = 1059.66
+Iter 41: Melhor = 1039.47
+Iter 42: Melhor = 1039.07
+Iter 44: Melhor = 1035.63
+Iter 45: Melhor = 1031.41
+Iter 48: Melhor = 1030.03
+Iter 51: Melhor = 1029.55
+Iter 53: Melhor = 1025.5
+Iter 54: Melhor = 1024.24
+Iter 56: Melhor = 1018.26
+Iter 57: Melhor = 1016.05
+Iter 58: Melhor = 1004.65
+Iter 59: Melhor = 1002
+Iter 63: Melhor = 1000.41
+Iter 66: Melhor = 999.685
+Iter 67: Melhor = 989.944
+Iter 90: Melhor = 988.661
+Iter 91: Melhor = 988.609
+Iter 208: Melhor = 987.716
+Iter 210: Melhor = 985.65
+Iter 227: Melhor = 982.534
+Iter 239: Melhor = 982.022
+Iter 243: Melhor = 980.935
+Iter 255: Melhor = 980.444
+Iter 476: Melhor = 979.583
+
+=== RESULTADO FINAL ===
+Custo Total: 979.58
+Veiculos Usados: 11
+Tempo: 0.12 s
+Rota 1: 0 -> 2 -> 57 -> 15 -> 43 -> 42 -> 87 -> 13 -> 0
+Rota 2: 0 -> 6 -> 96 -> 99 -> 5 -> 84 -> 17 -> 61 -> 85 -> 93 -> 59 -> 94 -> 0
+Rota 3: 0 -> 69 -> 1 -> 51 -> 9 -> 34 -> 78 -> 3 -> 77 -> 68 -> 80 -> 0
+Rota 4: 0 -> 50 -> 33 -> 81 -> 35 -> 71 -> 65 -> 66 -> 20 -> 30 -> 70 -> 27 -> 0
+Rota 5: 0 -> 82 -> 48 -> 47 -> 36 -> 49 -> 64 -> 19 -> 7 -> 52 -> 0
+Rota 6: 0 -> 53 -> 40 -> 73 -> 74 -> 22 -> 41 -> 58 -> 0
+Rota 7: 0 -> 95 -> 92 -> 98 -> 44 -> 14 -> 38 -> 86 -> 16 -> 91 -> 100 -> 37 -> 97 -> 0
+Rota 8: 0 -> 88 -> 62 -> 11 -> 63 -> 90 -> 32 -> 10 -> 31 -> 0
+Rota 9: 0 -> 89 -> 60 -> 83 -> 45 -> 46 -> 8 -> 18 -> 0
+Rota 10: 0 -> 28 -> 76 -> 79 -> 29 -> 24 -> 55 -> 25 -> 54 -> 12 -> 0
+Rota 11: 0 -> 21 -> 72 -> 75 -> 56 -> 23 -> 67 -> 39 -> 4 -> 26 -> 0
+----------------------------------------
+INSTANCIA: instancias/r109.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r109.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1749.91 | Veiculos: 19
+Iter 0: Melhor = 1734.29
+Iter 1: Melhor = 1665.25
+Iter 2: Melhor = 1632.24
+Iter 3: Melhor = 1601.99
+Iter 4: Melhor = 1521.69
+Iter 5: Melhor = 1476.24
+Iter 7: Melhor = 1460.54
+Iter 8: Melhor = 1445.59
+Iter 10: Melhor = 1439.44
+Iter 11: Melhor = 1415.55
+Iter 12: Melhor = 1409.62
+Iter 13: Melhor = 1409.3
+Iter 14: Melhor = 1390.02
+Iter 18: Melhor = 1388.44
+Iter 21: Melhor = 1374.28
+Iter 24: Melhor = 1355.98
+Iter 25: Melhor = 1349.73
+Iter 27: Melhor = 1348.63
+Iter 34: Melhor = 1342.96
+Iter 37: Melhor = 1337.04
+Iter 39: Melhor = 1316.57
+Iter 46: Melhor = 1314.5
+Iter 51: Melhor = 1308.83
+Iter 54: Melhor = 1308.53
+Iter 66: Melhor = 1307.27
+Iter 70: Melhor = 1292.8
+Iter 80: Melhor = 1290.88
+Iter 81: Melhor = 1287.91
+Iter 84: Melhor = 1244.38
+Iter 87: Melhor = 1240.99
+Iter 88: Melhor = 1240.87
+Iter 95: Melhor = 1239.86
+Iter 104: Melhor = 1237.72
+Iter 142: Melhor = 1236.84
+Iter 539: Melhor = 1232.43
+Iter 609: Melhor = 1232.08
+
+=== RESULTADO FINAL ===
+Custo Total: 1232.08
+Veiculos Usados: 14
+Tempo: 0.12 s
+Rota 1: 0 -> 72 -> 75 -> 23 -> 67 -> 39 -> 25 -> 55 -> 54 -> 24 -> 80 -> 0
+Rota 2: 0 -> 5 -> 84 -> 99 -> 96 -> 6 -> 0
+Rota 3: 0 -> 95 -> 92 -> 98 -> 85 -> 61 -> 14 -> 43 -> 97 -> 13 -> 58 -> 0
+Rota 4: 0 -> 28 -> 12 -> 76 -> 79 -> 78 -> 34 -> 3 -> 77 -> 68 -> 0
+Rota 5: 0 -> 52 -> 7 -> 82 -> 8 -> 18 -> 0
+Rota 6: 0 -> 2 -> 42 -> 15 -> 57 -> 87 -> 94 -> 0
+Rota 7: 0 -> 59 -> 44 -> 38 -> 86 -> 16 -> 91 -> 100 -> 37 -> 93 -> 0
+Rota 8: 0 -> 40 -> 21 -> 73 -> 22 -> 41 -> 74 -> 56 -> 4 -> 0
+Rota 9: 0 -> 27 -> 69 -> 30 -> 51 -> 33 -> 81 -> 9 -> 20 -> 66 -> 1 -> 0
+Rota 10: 0 -> 31 -> 11 -> 64 -> 63 -> 90 -> 32 -> 10 -> 70 -> 0
+Rota 11: 0 -> 53 -> 26 -> 0
+Rota 12: 0 -> 83 -> 45 -> 47 -> 49 -> 36 -> 46 -> 17 -> 60 -> 89 -> 0
+Rota 13: 0 -> 88 -> 62 -> 19 -> 48 -> 0
+Rota 14: 0 -> 29 -> 71 -> 65 -> 35 -> 50 -> 0
+----------------------------------------
+INSTANCIA: instancias/r110.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r110.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1738.35 | Veiculos: 18
+Iter 0: Melhor = 1697.44
+Iter 1: Melhor = 1664.18
+Iter 2: Melhor = 1619.03
+Iter 3: Melhor = 1558.98
+Iter 4: Melhor = 1498.62
+Iter 5: Melhor = 1475.79
+Iter 6: Melhor = 1456.95
+Iter 7: Melhor = 1400.89
+Iter 12: Melhor = 1398.78
+Iter 13: Melhor = 1392.46
+Iter 15: Melhor = 1383.87
+Iter 16: Melhor = 1358.59
+Iter 19: Melhor = 1323.46
+Iter 23: Melhor = 1322.44
+Iter 25: Melhor = 1304.08
+Iter 29: Melhor = 1303.55
+Iter 31: Melhor = 1296.89
+Iter 33: Melhor = 1294.88
+Iter 37: Melhor = 1293.83
+Iter 39: Melhor = 1282.8
+Iter 45: Melhor = 1280.04
+Iter 48: Melhor = 1274.42
+Iter 49: Melhor = 1273.95
+Iter 50: Melhor = 1265.64
+Iter 54: Melhor = 1257.78
+Iter 55: Melhor = 1250.78
+Iter 57: Melhor = 1239.84
+Iter 58: Melhor = 1218.59
+Iter 61: Melhor = 1215.56
+Iter 67: Melhor = 1205.47
+Iter 68: Melhor = 1205.17
+Iter 70: Melhor = 1203.84
+Iter 71: Melhor = 1202.88
+Iter 77: Melhor = 1202.75
+Iter 80: Melhor = 1199.46
+Iter 84: Melhor = 1198.9
+Iter 86: Melhor = 1197.23
+Iter 88: Melhor = 1195.36
+Iter 90: Melhor = 1191.56
+Iter 93: Melhor = 1188.52
+Iter 94: Melhor = 1185.96
+Iter 96: Melhor = 1185.67
+Iter 104: Melhor = 1179.34
+Iter 107: Melhor = 1177.69
+Iter 111: Melhor = 1161.8
+Iter 117: Melhor = 1161.75
+Iter 122: Melhor = 1160.05
+Iter 136: Melhor = 1159.25
+Iter 141: Melhor = 1157.65
+Iter 195: Melhor = 1153.47
+Iter 199: Melhor = 1150.24
+Iter 209: Melhor = 1148.81
+Iter 220: Melhor = 1147.77
+Iter 323: Melhor = 1146.27
+Iter 543: Melhor = 1143.65
+Iter 560: Melhor = 1135.74
+Iter 568: Melhor = 1135.03
+Iter 575: Melhor = 1131.96
+Iter 577: Melhor = 1129.57
+Iter 589: Melhor = 1126.13
+Iter 810: Melhor = 1121.71
+
+=== RESULTADO FINAL ===
+Custo Total: 1121.71
+Veiculos Usados: 13
+Tempo: 0.12 s
+Rota 1: 0 -> 52 -> 7 -> 82 -> 8 -> 46 -> 45 -> 17 -> 60 -> 89 -> 0
+Rota 2: 0 -> 2 -> 57 -> 87 -> 94 -> 96 -> 97 -> 13 -> 0
+Rota 3: 0 -> 40 -> 73 -> 41 -> 23 -> 67 -> 39 -> 25 -> 55 -> 0
+Rota 4: 0 -> 59 -> 93 -> 61 -> 86 -> 16 -> 85 -> 91 -> 37 -> 92 -> 0
+Rota 5: 0 -> 95 -> 98 -> 100 -> 44 -> 38 -> 14 -> 43 -> 15 -> 42 -> 58 -> 0
+Rota 6: 0 -> 12 -> 80 -> 29 -> 34 -> 78 -> 50 -> 0
+Rota 7: 0 -> 88 -> 62 -> 11 -> 19 -> 47 -> 36 -> 49 -> 64 -> 48 -> 0
+Rota 8: 0 -> 33 -> 9 -> 35 -> 71 -> 65 -> 66 -> 20 -> 1 -> 0
+Rota 9: 0 -> 28 -> 76 -> 51 -> 81 -> 79 -> 3 -> 77 -> 26 -> 0
+Rota 10: 0 -> 27 -> 69 -> 31 -> 70 -> 30 -> 90 -> 63 -> 32 -> 10 -> 0
+Rota 11: 0 -> 21 -> 72 -> 74 -> 22 -> 75 -> 56 -> 4 -> 54 -> 24 -> 68 -> 0
+Rota 12: 0 -> 99 -> 5 -> 84 -> 83 -> 18 -> 6 -> 0
+Rota 13: 0 -> 53 -> 0
+----------------------------------------
+INSTANCIA: instancias/r111.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r111.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1691.28 | Veiculos: 19
+Iter 0: Melhor = 1611.31
+Iter 1: Melhor = 1599.31
+Iter 2: Melhor = 1517
+Iter 3: Melhor = 1504.82
+Iter 4: Melhor = 1418.46
+Iter 5: Melhor = 1418.28
+Iter 6: Melhor = 1326.86
+Iter 7: Melhor = 1322.66
+Iter 8: Melhor = 1308.95
+Iter 9: Melhor = 1303.08
+Iter 10: Melhor = 1289.97
+Iter 11: Melhor = 1287.54
+Iter 12: Melhor = 1285.52
+Iter 13: Melhor = 1279.86
+Iter 14: Melhor = 1279.66
+Iter 15: Melhor = 1276.48
+Iter 16: Melhor = 1268.53
+Iter 17: Melhor = 1268.32
+Iter 18: Melhor = 1267.08
+Iter 19: Melhor = 1257.03
+Iter 22: Melhor = 1241.72
+Iter 26: Melhor = 1209.51
+Iter 29: Melhor = 1208.72
+Iter 30: Melhor = 1208.17
+Iter 31: Melhor = 1207.51
+Iter 32: Melhor = 1207.36
+Iter 34: Melhor = 1190.88
+Iter 37: Melhor = 1190.84
+Iter 39: Melhor = 1184.09
+Iter 40: Melhor = 1177.38
+Iter 46: Melhor = 1177.36
+Iter 48: Melhor = 1166.14
+Iter 51: Melhor = 1163.09
+Iter 54: Melhor = 1161.67
+Iter 56: Melhor = 1157.47
+Iter 58: Melhor = 1145.07
+Iter 59: Melhor = 1143.8
+Iter 74: Melhor = 1131.41
+Iter 76: Melhor = 1130.08
+Iter 89: Melhor = 1118.36
+Iter 97: Melhor = 1117.38
+Iter 100: Melhor = 1116.07
+Iter 103: Melhor = 1115.44
+Iter 115: Melhor = 1112.24
+Iter 129: Melhor = 1111.22
+Iter 174: Melhor = 1109.67
+Iter 184: Melhor = 1109.67
+Iter 328: Melhor = 1109.04
+Iter 761: Melhor = 1107.44
+
+=== RESULTADO FINAL ===
+Custo Total: 1107.44
+Veiculos Usados: 12
+Tempo: 0.12 s
+Rota 1: 0 -> 91 -> 16 -> 86 -> 44 -> 38 -> 14 -> 43 -> 57 -> 2 -> 58 -> 0
+Rota 2: 0 -> 96 -> 99 -> 97 -> 87 -> 6 -> 59 -> 93 -> 100 -> 37 -> 95 -> 0
+Rota 3: 0 -> 28 -> 76 -> 79 -> 78 -> 29 -> 24 -> 68 -> 80 -> 12 -> 0
+Rota 4: 0 -> 94 -> 92 -> 98 -> 85 -> 61 -> 84 -> 17 -> 5 -> 13 -> 0
+Rota 5: 0 -> 42 -> 15 -> 41 -> 22 -> 75 -> 56 -> 74 -> 4 -> 26 -> 0
+Rota 6: 0 -> 88 -> 62 -> 63 -> 90 -> 32 -> 10 -> 31 -> 0
+Rota 7: 0 -> 50 -> 33 -> 81 -> 51 -> 9 -> 71 -> 66 -> 70 -> 1 -> 0
+Rota 8: 0 -> 52 -> 7 -> 11 -> 64 -> 49 -> 19 -> 48 -> 82 -> 83 -> 60 -> 0
+Rota 9: 0 -> 47 -> 36 -> 46 -> 45 -> 8 -> 18 -> 89 -> 0
+Rota 10: 0 -> 21 -> 73 -> 72 -> 23 -> 67 -> 39 -> 55 -> 25 -> 54 -> 0
+Rota 11: 0 -> 27 -> 69 -> 30 -> 20 -> 65 -> 35 -> 34 -> 3 -> 77 -> 0
+Rota 12: 0 -> 40 -> 53 -> 0
+----------------------------------------
+INSTANCIA: instancias/r112.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r112.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1364.93 | Veiculos: 14
+Iter 0: Melhor = 1360.77
+Iter 1: Melhor = 1359.83
+Iter 2: Melhor = 1296.68
+Iter 3: Melhor = 1296.02
+Iter 6: Melhor = 1280.32
+Iter 7: Melhor = 1269.31
+Iter 8: Melhor = 1258.73
+Iter 12: Melhor = 1253.26
+Iter 14: Melhor = 1227.57
+Iter 15: Melhor = 1216.49
+Iter 17: Melhor = 1210.61
+Iter 19: Melhor = 1203.77
+Iter 20: Melhor = 1198.41
+Iter 22: Melhor = 1183.09
+Iter 24: Melhor = 1158.48
+Iter 25: Melhor = 1124.14
+Iter 26: Melhor = 1113.23
+Iter 27: Melhor = 1110.78
+Iter 28: Melhor = 1102.37
+Iter 29: Melhor = 1094.02
+Iter 31: Melhor = 1084.95
+Iter 32: Melhor = 1084.25
+Iter 36: Melhor = 1080.81
+Iter 40: Melhor = 1075.98
+Iter 41: Melhor = 1066.65
+Iter 43: Melhor = 1066.51
+Iter 47: Melhor = 1065.68
+Iter 49: Melhor = 1062.41
+Iter 55: Melhor = 1062.35
+Iter 68: Melhor = 1061.3
+Iter 70: Melhor = 1059.67
+Iter 72: Melhor = 1059.29
+Iter 81: Melhor = 1055.9
+Iter 83: Melhor = 1055.39
+Iter 85: Melhor = 1052.92
+Iter 98: Melhor = 1048.51
+Iter 99: Melhor = 1043.8
+Iter 104: Melhor = 1042.73
+Iter 106: Melhor = 1042.6
+Iter 109: Melhor = 1041.21
+Iter 122: Melhor = 1040.23
+Iter 166: Melhor = 1039.49
+Iter 169: Melhor = 1038.56
+Iter 192: Melhor = 1036.76
+Iter 239: Melhor = 1036.59
+Iter 247: Melhor = 1035.82
+Iter 298: Melhor = 1034.26
+Iter 333: Melhor = 1033.99
+Iter 390: Melhor = 1033.38
+Iter 401: Melhor = 1033.12
+Iter 402: Melhor = 1031.57
+Iter 416: Melhor = 1030.15
+Iter 417: Melhor = 1029.96
+Iter 422: Melhor = 1029.43
+Iter 442: Melhor = 1029.13
+Iter 453: Melhor = 1029.01
+Iter 456: Melhor = 1027.04
+Iter 459: Melhor = 1025.64
+Iter 462: Melhor = 1022.86
+Iter 474: Melhor = 1018.66
+Iter 480: Melhor = 1017.82
+Iter 499: Melhor = 1017.6
+Iter 751: Melhor = 1017.06
+Iter 774: Melhor = 1015.64
+
+=== RESULTADO FINAL ===
+Custo Total: 1015.64
+Veiculos Usados: 11
+Tempo: 0.12 s
+Rota 1: 0 -> 18 -> 83 -> 60 -> 96 -> 97 -> 87 -> 58 -> 0
+Rota 2: 0 -> 6 -> 99 -> 93 -> 85 -> 98 -> 92 -> 95 -> 94 -> 0
+Rota 3: 0 -> 2 -> 22 -> 41 -> 57 -> 15 -> 43 -> 42 -> 13 -> 0
+Rota 4: 0 -> 52 -> 7 -> 82 -> 8 -> 46 -> 45 -> 17 -> 84 -> 5 -> 89 -> 0
+Rota 5: 0 -> 28 -> 76 -> 33 -> 51 -> 9 -> 81 -> 79 -> 3 -> 77 -> 50 -> 0
+Rota 6: 0 -> 27 -> 31 -> 88 -> 62 -> 19 -> 11 -> 10 -> 70 -> 0
+Rota 7: 0 -> 61 -> 16 -> 86 -> 38 -> 14 -> 44 -> 91 -> 100 -> 37 -> 59 -> 0
+Rota 8: 0 -> 53 -> 40 -> 21 -> 73 -> 74 -> 75 -> 56 -> 4 -> 26 -> 0
+Rota 9: 0 -> 72 -> 23 -> 67 -> 39 -> 25 -> 55 -> 54 -> 24 -> 80 -> 68 -> 0
+Rota 10: 0 -> 69 -> 30 -> 90 -> 32 -> 63 -> 64 -> 49 -> 36 -> 47 -> 48 -> 0
+Rota 11: 0 -> 12 -> 29 -> 78 -> 34 -> 35 -> 71 -> 65 -> 66 -> 20 -> 1 -> 0
+----------------------------------------
+INSTANCIA: instancias/r201.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r201.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1984.96 | Veiculos: 15
+Iter 0: Melhor = 1846.33
+Iter 1: Melhor = 1822.05
+Iter 2: Melhor = 1817.18
+Iter 3: Melhor = 1748.02
+Iter 4: Melhor = 1663.17
+Iter 5: Melhor = 1619.54
+Iter 6: Melhor = 1611.25
+Iter 7: Melhor = 1566.5
+Iter 8: Melhor = 1558.02
+Iter 9: Melhor = 1516.42
+Iter 10: Melhor = 1504.7
+Iter 11: Melhor = 1469.59
+Iter 12: Melhor = 1449.78
+Iter 13: Melhor = 1442.69
+Iter 14: Melhor = 1437.12
+Iter 16: Melhor = 1421.36
+Iter 17: Melhor = 1408.19
+Iter 21: Melhor = 1381.46
+Iter 22: Melhor = 1372.48
+Iter 23: Melhor = 1372.38
+Iter 24: Melhor = 1352.48
+Iter 26: Melhor = 1348.61
+Iter 27: Melhor = 1346.9
+Iter 28: Melhor = 1345.37
+Iter 29: Melhor = 1337.23
+Iter 31: Melhor = 1337.03
+Iter 36: Melhor = 1322.86
+Iter 38: Melhor = 1320.69
+Iter 43: Melhor = 1308.64
+Iter 73: Melhor = 1308.19
+Iter 74: Melhor = 1303.18
+Iter 90: Melhor = 1300.92
+Iter 107: Melhor = 1292.27
+Iter 207: Melhor = 1292.25
+Iter 209: Melhor = 1290.14
+Iter 216: Melhor = 1288.84
+Iter 222: Melhor = 1285.85
+Iter 223: Melhor = 1284.88
+Iter 229: Melhor = 1281.23
+Iter 382: Melhor = 1279.72
+Iter 386: Melhor = 1274.48
+Iter 395: Melhor = 1272.16
+Iter 931: Melhor = 1262.79
+Iter 932: Melhor = 1257.25
+Iter 941: Melhor = 1257.19
+
+=== RESULTADO FINAL ===
+Custo Total: 1257.19
+Veiculos Usados: 8
+Tempo: 0.13 s
+Rota 1: 0 -> 87 -> 97 -> 37 -> 100 -> 91 -> 93 -> 0
+Rota 2: 0 -> 53 -> 40 -> 26 -> 54 -> 56 -> 74 -> 4 -> 55 -> 25 -> 24 -> 80 -> 0
+Rota 3: 0 -> 27 -> 69 -> 31 -> 7 -> 19 -> 49 -> 10 -> 20 -> 66 -> 35 -> 68 -> 77 -> 0
+Rota 4: 0 -> 28 -> 12 -> 29 -> 76 -> 79 -> 78 -> 34 -> 3 -> 50 -> 0
+Rota 5: 0 -> 39 -> 72 -> 2 -> 42 -> 15 -> 75 -> 23 -> 67 -> 21 -> 73 -> 22 -> 41 -> 57 -> 43 -> 13 -> 58 -> 0
+Rota 6: 0 -> 5 -> 83 -> 45 -> 82 -> 47 -> 36 -> 64 -> 11 -> 30 -> 71 -> 9 -> 81 -> 51 -> 90 -> 32 -> 70 -> 1 -> 0
+Rota 7: 0 -> 95 -> 59 -> 92 -> 98 -> 14 -> 38 -> 44 -> 16 -> 61 -> 86 -> 85 -> 99 -> 94 -> 6 -> 96 -> 0
+Rota 8: 0 -> 33 -> 65 -> 63 -> 62 -> 88 -> 52 -> 18 -> 84 -> 8 -> 46 -> 48 -> 17 -> 60 -> 89 -> 0
+----------------------------------------
+INSTANCIA: instancias/r202.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r202.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1812.99 | Veiculos: 14
+Iter 0: Melhor = 1700.73
+Iter 1: Melhor = 1614.59
+Iter 2: Melhor = 1606.41
+Iter 3: Melhor = 1591.51
+Iter 4: Melhor = 1566.81
+Iter 5: Melhor = 1518.04
+Iter 6: Melhor = 1473.59
+Iter 7: Melhor = 1424.87
+Iter 9: Melhor = 1378.53
+Iter 10: Melhor = 1357.22
+Iter 11: Melhor = 1347.17
+Iter 12: Melhor = 1307.54
+Iter 13: Melhor = 1278.7
+Iter 14: Melhor = 1274.26
+Iter 15: Melhor = 1270.37
+Iter 16: Melhor = 1265.38
+Iter 17: Melhor = 1257.21
+Iter 18: Melhor = 1219.75
+Iter 19: Melhor = 1219.25
+Iter 20: Melhor = 1207.48
+Iter 21: Melhor = 1200.96
+Iter 22: Melhor = 1200.47
+Iter 24: Melhor = 1198.61
+Iter 29: Melhor = 1197.02
+Iter 32: Melhor = 1195.34
+Iter 33: Melhor = 1194.59
+Iter 34: Melhor = 1194.56
+Iter 36: Melhor = 1192.13
+Iter 37: Melhor = 1182.12
+Iter 38: Melhor = 1166.27
+Iter 40: Melhor = 1161.11
+Iter 42: Melhor = 1160.89
+Iter 58: Melhor = 1153.45
+Iter 60: Melhor = 1150.29
+Iter 62: Melhor = 1148.88
+Iter 64: Melhor = 1139.76
+Iter 65: Melhor = 1138.56
+Iter 68: Melhor = 1137.84
+Iter 69: Melhor = 1133.03
+Iter 71: Melhor = 1131.1
+Iter 72: Melhor = 1130.99
+Iter 73: Melhor = 1127.27
+Iter 74: Melhor = 1121.27
+Iter 82: Melhor = 1119.55
+Iter 88: Melhor = 1118.99
+Iter 89: Melhor = 1118.56
+Iter 90: Melhor = 1117.92
+Iter 92: Melhor = 1111.16
+Iter 93: Melhor = 1108.51
+Iter 94: Melhor = 1104.91
+Iter 102: Melhor = 1103.6
+Iter 225: Melhor = 1100.54
+Iter 229: Melhor = 1094.6
+Iter 232: Melhor = 1093.54
+
+=== RESULTADO FINAL ===
+Custo Total: 1093.54
+Veiculos Usados: 8
+Tempo: 0.15 s
+Rota 1: 0 -> 6 -> 99 -> 93 -> 85 -> 91 -> 100 -> 37 -> 98 -> 59 -> 96 -> 0
+Rota 2: 0 -> 40 -> 73 -> 22 -> 75 -> 56 -> 74 -> 72 -> 4 -> 55 -> 25 -> 24 -> 80 -> 12 -> 0
+Rota 3: 0 -> 27 -> 69 -> 31 -> 88 -> 30 -> 90 -> 32 -> 66 -> 35 -> 34 -> 3 -> 77 -> 0
+Rota 4: 0 -> 28 -> 76 -> 68 -> 54 -> 26 -> 0
+Rota 5: 0 -> 94 -> 95 -> 92 -> 42 -> 15 -> 14 -> 38 -> 44 -> 16 -> 61 -> 5 -> 18 -> 7 -> 49 -> 46 -> 17 -> 60 -> 89 -> 0
+Rota 6: 0 -> 52 -> 83 -> 45 -> 36 -> 47 -> 62 -> 63 -> 64 -> 11 -> 19 -> 48 -> 82 -> 8 -> 84 -> 86 -> 43 -> 97 -> 13 -> 58 -> 0
+Rota 7: 0 -> 21 -> 39 -> 67 -> 23 -> 41 -> 57 -> 87 -> 2 -> 53 -> 0
+Rota 8: 0 -> 50 -> 33 -> 65 -> 71 -> 29 -> 79 -> 78 -> 81 -> 9 -> 51 -> 20 -> 10 -> 70 -> 1 -> 0
+----------------------------------------
+INSTANCIA: instancias/r203.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r203.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1532.72 | Veiculos: 11
+Iter 0: Melhor = 1454.4
+Iter 1: Melhor = 1383.04
+Iter 2: Melhor = 1334
+Iter 3: Melhor = 1281.52
+Iter 4: Melhor = 1240.96
+Iter 5: Melhor = 1214.15
+Iter 6: Melhor = 1197.08
+Iter 7: Melhor = 1190.3
+Iter 8: Melhor = 1168.68
+Iter 9: Melhor = 1156.17
+Iter 10: Melhor = 1133.39
+Iter 11: Melhor = 1117.4
+Iter 12: Melhor = 1104.99
+Iter 13: Melhor = 1103.09
+Iter 14: Melhor = 1098.34
+Iter 15: Melhor = 1086.89
+Iter 16: Melhor = 1083.67
+Iter 17: Melhor = 1081.45
+Iter 18: Melhor = 1063.46
+Iter 19: Melhor = 1061.73
+Iter 20: Melhor = 1058.44
+Iter 22: Melhor = 1055.88
+Iter 24: Melhor = 1053.43
+Iter 25: Melhor = 1044.26
+Iter 26: Melhor = 1038.65
+Iter 27: Melhor = 1035.1
+Iter 29: Melhor = 1031.83
+Iter 30: Melhor = 1030.75
+Iter 32: Melhor = 1029.76
+Iter 34: Melhor = 1029.7
+Iter 37: Melhor = 1021.15
+Iter 38: Melhor = 1019.55
+Iter 39: Melhor = 1013.41
+Iter 40: Melhor = 1012.07
+Iter 43: Melhor = 1011.85
+Iter 44: Melhor = 1010.3
+Iter 46: Melhor = 1007.78
+Iter 47: Melhor = 1007.59
+Iter 50: Melhor = 1005.3
+Iter 52: Melhor = 980.112
+Iter 56: Melhor = 978.97
+Iter 61: Melhor = 975.991
+Iter 68: Melhor = 974.876
+Iter 70: Melhor = 974.839
+Iter 76: Melhor = 974.337
+Iter 97: Melhor = 972.504
+Iter 103: Melhor = 971.827
+Iter 105: Melhor = 971.504
+Iter 106: Melhor = 968.109
+Iter 109: Melhor = 966.917
+Iter 120: Melhor = 965.251
+Iter 858: Melhor = 965.103
+Iter 866: Melhor = 964.862
+
+=== RESULTADO FINAL ===
+Custo Total: 964.86
+Veiculos Usados: 7
+Tempo: 0.16 s
+Rota 1: 0 -> 6 -> 87 -> 97 -> 37 -> 98 -> 100 -> 91 -> 85 -> 93 -> 59 -> 96 -> 0
+Rota 2: 0 -> 18 -> 83 -> 45 -> 46 -> 36 -> 64 -> 11 -> 62 -> 31 -> 69 -> 53 -> 40 -> 58 -> 0
+Rota 3: 0 -> 27 -> 52 -> 88 -> 10 -> 63 -> 90 -> 32 -> 66 -> 71 -> 35 -> 34 -> 68 -> 80 -> 77 -> 12 -> 0
+Rota 4: 0 -> 28 -> 76 -> 3 -> 79 -> 81 -> 9 -> 78 -> 29 -> 24 -> 55 -> 25 -> 54 -> 26 -> 0
+Rota 5: 0 -> 94 -> 95 -> 92 -> 42 -> 57 -> 15 -> 43 -> 14 -> 44 -> 38 -> 86 -> 16 -> 61 -> 99 -> 5 -> 84 -> 8 -> 82 -> 7 -> 19 -> 49 -> 47 -> 48 -> 17 -> 60 -> 89 -> 0
+Rota 6: 0 -> 50 -> 33 -> 51 -> 65 -> 20 -> 30 -> 70 -> 1 -> 0
+Rota 7: 0 -> 21 -> 39 -> 67 -> 23 -> 41 -> 22 -> 75 -> 56 -> 4 -> 72 -> 74 -> 73 -> 2 -> 13 -> 0
+----------------------------------------
+INSTANCIA: instancias/r204.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r204.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1381.01 | Veiculos: 10
+Iter 0: Melhor = 1249.44
+Iter 1: Melhor = 1241.6
+Iter 2: Melhor = 1237.9
+Iter 3: Melhor = 1223.05
+Iter 4: Melhor = 1168.93
+Iter 5: Melhor = 1153.05
+Iter 6: Melhor = 1146.51
+Iter 7: Melhor = 1102.9
+Iter 8: Melhor = 1090.86
+Iter 9: Melhor = 1075.56
+Iter 10: Melhor = 1060.85
+Iter 11: Melhor = 1049.35
+Iter 12: Melhor = 1048.95
+Iter 13: Melhor = 1034.91
+Iter 14: Melhor = 996.486
+Iter 15: Melhor = 994.039
+Iter 16: Melhor = 986.893
+Iter 18: Melhor = 953.459
+Iter 19: Melhor = 949.124
+Iter 20: Melhor = 948.591
+Iter 21: Melhor = 939.153
+Iter 22: Melhor = 929.85
+Iter 23: Melhor = 903.46
+Iter 24: Melhor = 884.668
+Iter 26: Melhor = 877.257
+Iter 27: Melhor = 876.705
+Iter 28: Melhor = 863.794
+Iter 29: Melhor = 861.913
+Iter 34: Melhor = 860.129
+Iter 36: Melhor = 858.966
+Iter 39: Melhor = 856.828
+Iter 42: Melhor = 846.868
+Iter 43: Melhor = 846.192
+Iter 47: Melhor = 846.182
+Iter 163: Melhor = 843.782
+Iter 201: Melhor = 843.015
+Iter 350: Melhor = 842.671
+Iter 381: Melhor = 839.514
+Iter 386: Melhor = 838.457
+Iter 395: Melhor = 833.938
+Iter 396: Melhor = 833.5
+Iter 400: Melhor = 833.065
+Iter 401: Melhor = 832.912
+Iter 548: Melhor = 832.074
+Iter 552: Melhor = 831.473
+
+=== RESULTADO FINAL ===
+Custo Total: 831.47
+Veiculos Usados: 6
+Tempo: 0.17 s
+Rota 1: 0 -> 26 -> 39 -> 67 -> 23 -> 56 -> 75 -> 74 -> 22 -> 41 -> 2 -> 13 -> 0
+Rota 2: 0 -> 6 -> 94 -> 95 -> 92 -> 59 -> 99 -> 93 -> 98 -> 37 -> 100 -> 91 -> 85 -> 61 -> 16 -> 86 -> 17 -> 45 -> 83 -> 18 -> 0
+Rota 3: 0 -> 57 -> 15 -> 43 -> 38 -> 44 -> 14 -> 42 -> 87 -> 97 -> 96 -> 5 -> 84 -> 60 -> 89 -> 0
+Rota 4: 0 -> 28 -> 76 -> 68 -> 80 -> 29 -> 24 -> 54 -> 4 -> 55 -> 25 -> 72 -> 73 -> 21 -> 40 -> 58 -> 0
+Rota 5: 0 -> 1 -> 50 -> 33 -> 81 -> 51 -> 30 -> 70 -> 31 -> 88 -> 62 -> 19 -> 11 -> 64 -> 49 -> 36 -> 47 -> 48 -> 46 -> 8 -> 82 -> 7 -> 52 -> 53 -> 0
+Rota 6: 0 -> 27 -> 69 -> 10 -> 63 -> 90 -> 32 -> 20 -> 66 -> 65 -> 71 -> 35 -> 9 -> 34 -> 78 -> 79 -> 3 -> 77 -> 12 -> 0
+----------------------------------------
+INSTANCIA: instancias/r205.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r205.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1519.37 | Veiculos: 8
+Iter 0: Melhor = 1487.29
+Iter 1: Melhor = 1441.31
+Iter 2: Melhor = 1419.77
+Iter 3: Melhor = 1359.07
+Iter 4: Melhor = 1315.32
+Iter 5: Melhor = 1308.15
+Iter 6: Melhor = 1251.52
+Iter 7: Melhor = 1244.77
+Iter 8: Melhor = 1208.12
+Iter 10: Melhor = 1192.7
+Iter 11: Melhor = 1190.21
+Iter 12: Melhor = 1187.89
+Iter 13: Melhor = 1157.48
+Iter 14: Melhor = 1153.51
+Iter 20: Melhor = 1148.99
+Iter 21: Melhor = 1131.18
+Iter 23: Melhor = 1127.42
+Iter 24: Melhor = 1124.96
+Iter 25: Melhor = 1123.48
+Iter 31: Melhor = 1110.6
+Iter 32: Melhor = 1106.35
+Iter 35: Melhor = 1103.1
+Iter 36: Melhor = 1101.47
+Iter 37: Melhor = 1099.23
+Iter 38: Melhor = 1096.35
+Iter 40: Melhor = 1089.18
+Iter 41: Melhor = 1083.98
+Iter 51: Melhor = 1082.22
+Iter 54: Melhor = 1081.79
+Iter 55: Melhor = 1079.89
+Iter 75: Melhor = 1079.14
+Iter 122: Melhor = 1078.27
+Iter 125: Melhor = 1076.44
+Iter 126: Melhor = 1076.37
+Iter 129: Melhor = 1072.63
+Iter 132: Melhor = 1060.73
+Iter 138: Melhor = 1059.08
+Iter 146: Melhor = 1056.43
+
+=== RESULTADO FINAL ===
+Custo Total: 1056.43
+Veiculos Usados: 6
+Tempo: 0.15 s
+Rota 1: 0 -> 28 -> 12 -> 26 -> 54 -> 24 -> 55 -> 25 -> 4 -> 56 -> 74 -> 58 -> 0
+Rota 2: 0 -> 53 -> 40 -> 21 -> 73 -> 22 -> 41 -> 57 -> 43 -> 91 -> 100 -> 37 -> 93 -> 96 -> 0
+Rota 3: 0 -> 52 -> 83 -> 82 -> 7 -> 88 -> 62 -> 19 -> 11 -> 90 -> 30 -> 51 -> 9 -> 81 -> 50 -> 18 -> 8 -> 46 -> 49 -> 48 -> 17 -> 60 -> 89 -> 0
+Rota 4: 0 -> 31 -> 63 -> 64 -> 36 -> 47 -> 45 -> 5 -> 99 -> 98 -> 85 -> 44 -> 38 -> 86 -> 16 -> 61 -> 84 -> 6 -> 94 -> 97 -> 87 -> 13 -> 0
+Rota 5: 0 -> 95 -> 59 -> 92 -> 14 -> 42 -> 15 -> 2 -> 72 -> 75 -> 23 -> 67 -> 39 -> 29 -> 34 -> 78 -> 79 -> 3 -> 77 -> 68 -> 80 -> 0
+Rota 6: 0 -> 27 -> 69 -> 76 -> 33 -> 71 -> 65 -> 35 -> 66 -> 20 -> 32 -> 10 -> 70 -> 1 -> 0
+----------------------------------------
+INSTANCIA: instancias/r206.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r206.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1513.05 | Veiculos: 8
+Iter 0: Melhor = 1394.68
+Iter 1: Melhor = 1336.56
+Iter 2: Melhor = 1292.64
+Iter 3: Melhor = 1252.22
+Iter 5: Melhor = 1211.31
+Iter 6: Melhor = 1208.95
+Iter 8: Melhor = 1153.77
+Iter 9: Melhor = 1138
+Iter 10: Melhor = 1127.24
+Iter 11: Melhor = 1104.89
+Iter 12: Melhor = 1102.54
+Iter 13: Melhor = 1089.7
+Iter 14: Melhor = 1056.79
+Iter 16: Melhor = 1052.62
+Iter 18: Melhor = 1052.29
+Iter 19: Melhor = 1052.28
+Iter 20: Melhor = 1052.25
+Iter 22: Melhor = 1051.01
+Iter 23: Melhor = 1046.33
+Iter 24: Melhor = 1045.54
+Iter 26: Melhor = 1043.03
+Iter 27: Melhor = 1025.88
+Iter 28: Melhor = 1024.67
+Iter 29: Melhor = 1022.29
+Iter 30: Melhor = 1019.84
+Iter 31: Melhor = 1019.65
+Iter 32: Melhor = 1015.11
+Iter 34: Melhor = 1012.22
+Iter 47: Melhor = 1011.88
+Iter 49: Melhor = 1005.76
+Iter 50: Melhor = 1004.11
+Iter 51: Melhor = 1004.08
+Iter 100: Melhor = 993.225
+Iter 113: Melhor = 992.742
+Iter 115: Melhor = 989.974
+Iter 117: Melhor = 983.039
+Iter 118: Melhor = 982.353
+Iter 119: Melhor = 973.56
+Iter 126: Melhor = 973.336
+Iter 129: Melhor = 969.45
+Iter 221: Melhor = 968.242
+Iter 222: Melhor = 967.953
+Iter 223: Melhor = 967.762
+Iter 294: Melhor = 965.569
+Iter 295: Melhor = 965.503
+Iter 309: Melhor = 963.634
+Iter 321: Melhor = 963.311
+Iter 325: Melhor = 963.216
+Iter 331: Melhor = 963.139
+
+=== RESULTADO FINAL ===
+Custo Total: 963.14
+Veiculos Usados: 7
+Tempo: 0.16 s
+Rota 1: 0 -> 53 -> 58 -> 13 -> 37 -> 98 -> 100 -> 91 -> 85 -> 93 -> 59 -> 94 -> 0
+Rota 2: 0 -> 28 -> 50 -> 33 -> 71 -> 65 -> 34 -> 78 -> 29 -> 24 -> 80 -> 68 -> 77 -> 0
+Rota 3: 0 -> 95 -> 92 -> 97 -> 87 -> 43 -> 57 -> 74 -> 75 -> 56 -> 4 -> 25 -> 55 -> 54 -> 12 -> 0
+Rota 4: 0 -> 21 -> 72 -> 39 -> 67 -> 23 -> 41 -> 22 -> 73 -> 40 -> 26 -> 76 -> 3 -> 79 -> 81 -> 51 -> 9 -> 35 -> 66 -> 20 -> 32 -> 10 -> 7 -> 52 -> 0
+Rota 5: 0 -> 27 -> 69 -> 31 -> 88 -> 62 -> 11 -> 64 -> 49 -> 46 -> 8 -> 18 -> 84 -> 17 -> 5 -> 60 -> 89 -> 0
+Rota 6: 0 -> 2 -> 15 -> 42 -> 14 -> 44 -> 38 -> 86 -> 16 -> 61 -> 99 -> 96 -> 6 -> 0
+Rota 7: 0 -> 83 -> 45 -> 82 -> 48 -> 47 -> 36 -> 19 -> 63 -> 90 -> 30 -> 70 -> 1 -> 0
+----------------------------------------
+INSTANCIA: instancias/r207.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r207.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1429.51 | Veiculos: 9
+Iter 0: Melhor = 1386.92
+Iter 1: Melhor = 1367.21
+Iter 2: Melhor = 1334.48
+Iter 4: Melhor = 1315.88
+Iter 5: Melhor = 1214.75
+Iter 6: Melhor = 1208.4
+Iter 7: Melhor = 1177.37
+Iter 9: Melhor = 1171.02
+Iter 10: Melhor = 1151.2
+Iter 11: Melhor = 1117.89
+Iter 12: Melhor = 1103.22
+Iter 13: Melhor = 1100.61
+Iter 14: Melhor = 1100.29
+Iter 15: Melhor = 1094.01
+Iter 16: Melhor = 1091.02
+Iter 17: Melhor = 1078.95
+Iter 18: Melhor = 1075.64
+Iter 19: Melhor = 1066.4
+Iter 20: Melhor = 1061.21
+Iter 21: Melhor = 1053.44
+Iter 22: Melhor = 1036.25
+Iter 23: Melhor = 1033.14
+Iter 24: Melhor = 1024.01
+Iter 25: Melhor = 1008.88
+Iter 27: Melhor = 997.124
+Iter 30: Melhor = 996.368
+Iter 31: Melhor = 989.889
+Iter 32: Melhor = 983.63
+Iter 33: Melhor = 979.072
+Iter 34: Melhor = 971.41
+Iter 35: Melhor = 961.37
+Iter 39: Melhor = 959.159
+Iter 41: Melhor = 954.046
+Iter 42: Melhor = 951.775
+Iter 48: Melhor = 951.732
+Iter 52: Melhor = 951.696
+Iter 53: Melhor = 950.03
+Iter 57: Melhor = 949.557
+Iter 58: Melhor = 948.296
+Iter 59: Melhor = 948.022
+Iter 63: Melhor = 947.768
+Iter 64: Melhor = 943.931
+Iter 67: Melhor = 942.884
+Iter 69: Melhor = 942.841
+Iter 72: Melhor = 940.767
+Iter 73: Melhor = 932.5
+Iter 74: Melhor = 932.463
+Iter 76: Melhor = 932.361
+Iter 78: Melhor = 930.232
+Iter 83: Melhor = 929.844
+Iter 99: Melhor = 929.716
+Iter 106: Melhor = 929.278
+Iter 108: Melhor = 928.477
+Iter 124: Melhor = 926.061
+Iter 127: Melhor = 923.777
+Iter 132: Melhor = 922.368
+Iter 133: Melhor = 920.67
+Iter 145: Melhor = 920.145
+Iter 180: Melhor = 920.119
+Iter 245: Melhor = 919.984
+Iter 246: Melhor = 919.765
+Iter 270: Melhor = 919.325
+Iter 281: Melhor = 919.269
+Iter 296: Melhor = 919.268
+Iter 320: Melhor = 919.034
+Iter 330: Melhor = 917.782
+Iter 333: Melhor = 917.461
+Iter 335: Melhor = 917.166
+Iter 343: Melhor = 917.097
+Iter 357: Melhor = 916.827
+Iter 372: Melhor = 916.7
+Iter 373: Melhor = 915.791
+Iter 378: Melhor = 915.787
+Iter 379: Melhor = 915.466
+Iter 385: Melhor = 914.461
+Iter 419: Melhor = 911.956
+Iter 427: Melhor = 911.953
+Iter 550: Melhor = 911.134
+Iter 554: Melhor = 910.235
+Iter 561: Melhor = 909.866
+Iter 682: Melhor = 908.784
+Iter 804: Melhor = 908.456
+Iter 813: Melhor = 907.829
+
+=== RESULTADO FINAL ===
+Custo Total: 907.83
+Veiculos Usados: 6
+Tempo: 0.17 s
+Rota 1: 0 -> 53 -> 40 -> 87 -> 97 -> 37 -> 100 -> 98 -> 93 -> 59 -> 95 -> 13 -> 58 -> 0
+Rota 2: 0 -> 76 -> 50 -> 33 -> 65 -> 71 -> 9 -> 81 -> 78 -> 79 -> 3 -> 77 -> 68 -> 28 -> 0
+Rota 3: 0 -> 6 -> 99 -> 85 -> 91 -> 44 -> 14 -> 38 -> 86 -> 16 -> 61 -> 84 -> 17 -> 5 -> 60 -> 52 -> 70 -> 51 -> 35 -> 34 -> 29 -> 24 -> 80 -> 12 -> 0
+Rota 4: 0 -> 89 -> 83 -> 45 -> 46 -> 36 -> 47 -> 48 -> 19 -> 11 -> 64 -> 49 -> 63 -> 90 -> 32 -> 66 -> 20 -> 10 -> 31 -> 0
+Rota 5: 0 -> 27 -> 69 -> 1 -> 30 -> 62 -> 88 -> 7 -> 82 -> 8 -> 18 -> 0
+Rota 6: 0 -> 94 -> 96 -> 92 -> 42 -> 43 -> 15 -> 57 -> 2 -> 73 -> 21 -> 39 -> 67 -> 23 -> 56 -> 75 -> 41 -> 22 -> 74 -> 72 -> 4 -> 25 -> 55 -> 54 -> 26 -> 0
+----------------------------------------
+INSTANCIA: instancias/r208.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r208.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1104.36 | Veiculos: 5
+Iter 0: Melhor = 1097.99
+Iter 1: Melhor = 1084.95
+Iter 2: Melhor = 1045.58
+Iter 4: Melhor = 1035.97
+Iter 5: Melhor = 1032.27
+Iter 6: Melhor = 1012.4
+Iter 8: Melhor = 1001.41
+Iter 9: Melhor = 987.011
+Iter 10: Melhor = 974.439
+Iter 11: Melhor = 972.19
+Iter 12: Melhor = 964.392
+Iter 13: Melhor = 962.685
+Iter 14: Melhor = 961.114
+Iter 18: Melhor = 949.206
+Iter 20: Melhor = 941.375
+Iter 21: Melhor = 932.155
+Iter 22: Melhor = 925.487
+Iter 23: Melhor = 919.475
+Iter 25: Melhor = 910.959
+Iter 26: Melhor = 906.855
+Iter 27: Melhor = 870.303
+Iter 28: Melhor = 865.626
+Iter 30: Melhor = 864.605
+Iter 31: Melhor = 863.665
+Iter 32: Melhor = 862.657
+Iter 35: Melhor = 860.075
+Iter 36: Melhor = 857.198
+Iter 40: Melhor = 848.697
+Iter 41: Melhor = 844.905
+Iter 47: Melhor = 843.439
+Iter 48: Melhor = 837.896
+Iter 51: Melhor = 832.104
+Iter 59: Melhor = 828.876
+Iter 60: Melhor = 825.049
+Iter 62: Melhor = 821.335
+Iter 63: Melhor = 821.012
+Iter 64: Melhor = 819.845
+Iter 67: Melhor = 807.648
+Iter 69: Melhor = 807.052
+Iter 74: Melhor = 805.761
+Iter 77: Melhor = 805.331
+Iter 80: Melhor = 804.462
+Iter 85: Melhor = 803.214
+Iter 90: Melhor = 802.984
+Iter 94: Melhor = 802.765
+Iter 97: Melhor = 800.745
+Iter 101: Melhor = 795.515
+Iter 104: Melhor = 795.447
+Iter 110: Melhor = 790.668
+Iter 122: Melhor = 788.229
+Iter 133: Melhor = 786.471
+Iter 137: Melhor = 786.391
+Iter 175: Melhor = 785.188
+Iter 176: Melhor = 782.312
+Iter 424: Melhor = 779.121
+Iter 489: Melhor = 776.793
+Iter 490: Melhor = 774.426
+Iter 501: Melhor = 771.311
+Iter 538: Melhor = 771.014
+Iter 540: Melhor = 770.143
+Iter 638: Melhor = 769.94
+Iter 640: Melhor = 768.474
+Iter 715: Melhor = 767.61
+Iter 735: Melhor = 766.185
+Iter 745: Melhor = 766.169
+Iter 751: Melhor = 764.871
+Iter 764: Melhor = 763.442
+Iter 773: Melhor = 760.885
+Iter 808: Melhor = 759.868
+
+=== RESULTADO FINAL ===
+Custo Total: 759.87
+Veiculos Usados: 3
+Tempo: 0.21 s
+Rota 1: 0 -> 89 -> 6 -> 94 -> 95 -> 97 -> 92 -> 37 -> 44 -> 14 -> 43 -> 15 -> 41 -> 22 -> 75 -> 56 -> 23 -> 67 -> 39 -> 54 -> 80 -> 68 -> 76 -> 3 -> 79 -> 33 -> 81 -> 9 -> 51 -> 32 -> 90 -> 63 -> 64 -> 49 -> 36 -> 47 -> 46 -> 45 -> 17 -> 61 -> 91 -> 100 -> 98 -> 59 -> 96 -> 60 -> 18 -> 52 -> 0
+Rota 2: 0 -> 53 -> 13 -> 58 -> 40 -> 26 -> 12 -> 77 -> 50 -> 28 -> 0
+Rota 3: 0 -> 27 -> 69 -> 31 -> 88 -> 10 -> 62 -> 11 -> 19 -> 48 -> 7 -> 82 -> 8 -> 83 -> 84 -> 5 -> 99 -> 93 -> 85 -> 16 -> 86 -> 38 -> 42 -> 87 -> 57 -> 2 -> 21 -> 73 -> 74 -> 72 -> 4 -> 25 -> 55 -> 24 -> 29 -> 78 -> 34 -> 35 -> 71 -> 65 -> 66 -> 20 -> 30 -> 70 -> 1 -> 0
+----------------------------------------
+INSTANCIA: instancias/r209.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r209.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1467.58 | Veiculos: 8
+Iter 0: Melhor = 1422.64
+Iter 1: Melhor = 1397.97
+Iter 2: Melhor = 1376.34
+Iter 3: Melhor = 1357.46
+Iter 5: Melhor = 1331.33
+Iter 6: Melhor = 1311.96
+Iter 7: Melhor = 1293.81
+Iter 8: Melhor = 1287.37
+Iter 9: Melhor = 1285.11
+Iter 11: Melhor = 1278.33
+Iter 12: Melhor = 1271.9
+Iter 13: Melhor = 1255.88
+Iter 14: Melhor = 1252.71
+Iter 15: Melhor = 1224.57
+Iter 17: Melhor = 1180.61
+Iter 18: Melhor = 1175.97
+Iter 19: Melhor = 1166.28
+Iter 20: Melhor = 1138.18
+Iter 21: Melhor = 1130.41
+Iter 22: Melhor = 1130.41
+Iter 23: Melhor = 1108.9
+Iter 24: Melhor = 1089.58
+Iter 25: Melhor = 1072.95
+Iter 26: Melhor = 1056.68
+Iter 27: Melhor = 1050.89
+Iter 28: Melhor = 1044.71
+Iter 29: Melhor = 1042.61
+Iter 30: Melhor = 1023.98
+Iter 31: Melhor = 1022.63
+Iter 32: Melhor = 1008.89
+Iter 33: Melhor = 1004.95
+Iter 34: Melhor = 985.575
+Iter 38: Melhor = 981.14
+Iter 40: Melhor = 964.639
+Iter 55: Melhor = 964.606
+Iter 61: Melhor = 963.165
+Iter 67: Melhor = 962.811
+Iter 68: Melhor = 962.522
+Iter 104: Melhor = 961.705
+Iter 376: Melhor = 960.347
+Iter 388: Melhor = 960.11
+Iter 391: Melhor = 959.785
+Iter 435: Melhor = 955.901
+Iter 437: Melhor = 951.101
+Iter 455: Melhor = 943.603
+
+=== RESULTADO FINAL ===
+Custo Total: 943.60
+Veiculos Usados: 6
+Tempo: 0.16 s
+Rota 1: 0 -> 53 -> 21 -> 73 -> 72 -> 75 -> 56 -> 23 -> 67 -> 39 -> 25 -> 55 -> 4 -> 80 -> 68 -> 77 -> 3 -> 50 -> 20 -> 32 -> 10 -> 70 -> 1 -> 0
+Rota 2: 0 -> 28 -> 12 -> 29 -> 79 -> 9 -> 71 -> 66 -> 65 -> 35 -> 34 -> 78 -> 24 -> 54 -> 26 -> 0
+Rota 3: 0 -> 94 -> 96 -> 92 -> 37 -> 100 -> 91 -> 97 -> 13 -> 0
+Rota 4: 0 -> 27 -> 69 -> 31 -> 88 -> 62 -> 63 -> 11 -> 19 -> 47 -> 82 -> 7 -> 18 -> 8 -> 45 -> 17 -> 84 -> 60 -> 89 -> 0
+Rota 5: 0 -> 6 -> 99 -> 93 -> 85 -> 16 -> 86 -> 38 -> 44 -> 14 -> 42 -> 87 -> 57 -> 15 -> 43 -> 41 -> 22 -> 74 -> 58 -> 0
+Rota 6: 0 -> 52 -> 83 -> 5 -> 61 -> 98 -> 59 -> 95 -> 2 -> 40 -> 76 -> 33 -> 81 -> 51 -> 30 -> 90 -> 64 -> 49 -> 36 -> 46 -> 48 -> 0
+----------------------------------------
+INSTANCIA: instancias/r210.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r210.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1482.74 | Veiculos: 9
+Iter 0: Melhor = 1474.79
+Iter 1: Melhor = 1351.49
+Iter 2: Melhor = 1296.85
+Iter 3: Melhor = 1269.28
+Iter 4: Melhor = 1209.59
+Iter 6: Melhor = 1191.73
+Iter 7: Melhor = 1188.73
+Iter 8: Melhor = 1172.91
+Iter 10: Melhor = 1165.73
+Iter 11: Melhor = 1161.78
+Iter 14: Melhor = 1149.28
+Iter 15: Melhor = 1147.44
+Iter 16: Melhor = 1126.66
+Iter 18: Melhor = 1113.66
+Iter 19: Melhor = 1095.32
+Iter 21: Melhor = 1094.37
+Iter 22: Melhor = 1087.58
+Iter 24: Melhor = 1087.22
+Iter 25: Melhor = 1072.16
+Iter 29: Melhor = 1064.05
+Iter 31: Melhor = 1054.65
+Iter 32: Melhor = 1044.58
+Iter 36: Melhor = 1033.78
+Iter 37: Melhor = 1030.83
+Iter 44: Melhor = 1024.78
+Iter 48: Melhor = 1020.99
+Iter 52: Melhor = 1020.96
+Iter 53: Melhor = 1018.94
+Iter 54: Melhor = 1018.16
+Iter 55: Melhor = 1016.35
+Iter 71: Melhor = 1013.97
+Iter 74: Melhor = 1012.67
+Iter 83: Melhor = 1009.01
+Iter 86: Melhor = 1006.65
+Iter 124: Melhor = 1006.64
+Iter 160: Melhor = 1004.67
+Iter 182: Melhor = 996.237
+Iter 187: Melhor = 995.89
+Iter 248: Melhor = 994.939
+Iter 266: Melhor = 994.089
+Iter 296: Melhor = 992.145
+Iter 364: Melhor = 991.963
+Iter 378: Melhor = 990.339
+Iter 394: Melhor = 989.841
+Iter 398: Melhor = 988.588
+Iter 415: Melhor = 986.548
+Iter 544: Melhor = 986.203
+Iter 726: Melhor = 982.76
+Iter 730: Melhor = 980.475
+Iter 731: Melhor = 979.008
+Iter 737: Melhor = 976.67
+Iter 741: Melhor = 962.422
+Iter 753: Melhor = 958.647
+Iter 917: Melhor = 958.465
+
+=== RESULTADO FINAL ===
+Custo Total: 958.46
+Veiculos Usados: 5
+Tempo: 0.16 s
+Rota 1: 0 -> 21 -> 73 -> 72 -> 75 -> 23 -> 67 -> 39 -> 12 -> 76 -> 3 -> 79 -> 29 -> 78 -> 81 -> 9 -> 20 -> 66 -> 32 -> 90 -> 63 -> 10 -> 70 -> 31 -> 52 -> 94 -> 13 -> 95 -> 97 -> 100 -> 93 -> 17 -> 60 -> 89 -> 0
+Rota 2: 0 -> 6 -> 96 -> 99 -> 84 -> 61 -> 91 -> 43 -> 57 -> 41 -> 22 -> 74 -> 56 -> 4 -> 55 -> 25 -> 54 -> 26 -> 58 -> 0
+Rota 3: 0 -> 28 -> 69 -> 1 -> 30 -> 51 -> 33 -> 71 -> 65 -> 35 -> 34 -> 24 -> 80 -> 68 -> 77 -> 50 -> 0
+Rota 4: 0 -> 27 -> 88 -> 62 -> 11 -> 64 -> 36 -> 46 -> 8 -> 82 -> 48 -> 47 -> 49 -> 19 -> 7 -> 18 -> 0
+Rota 5: 0 -> 83 -> 45 -> 5 -> 59 -> 92 -> 42 -> 15 -> 14 -> 44 -> 38 -> 86 -> 16 -> 85 -> 98 -> 37 -> 87 -> 2 -> 40 -> 53 -> 0
+----------------------------------------
+INSTANCIA: instancias/r211.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/r211.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1268.64 | Veiculos: 5
+Iter 0: Melhor = 1149.23
+Iter 1: Melhor = 1106.85
+Iter 2: Melhor = 1056.63
+Iter 3: Melhor = 1053.48
+Iter 5: Melhor = 1049.52
+Iter 6: Melhor = 1049.1
+Iter 7: Melhor = 986.871
+Iter 10: Melhor = 979.236
+Iter 11: Melhor = 967.035
+Iter 12: Melhor = 963.097
+Iter 14: Melhor = 945
+Iter 16: Melhor = 925.763
+Iter 17: Melhor = 922.918
+Iter 19: Melhor = 922.276
+Iter 20: Melhor = 913.452
+Iter 21: Melhor = 910.696
+Iter 23: Melhor = 905.943
+Iter 25: Melhor = 902.79
+Iter 26: Melhor = 899.245
+Iter 29: Melhor = 896.919
+Iter 31: Melhor = 895.471
+Iter 32: Melhor = 895.182
+Iter 33: Melhor = 884.639
+Iter 35: Melhor = 878.27
+Iter 39: Melhor = 878.184
+Iter 42: Melhor = 876.882
+Iter 54: Melhor = 876.65
+Iter 55: Melhor = 873.694
+Iter 60: Melhor = 872.645
+Iter 64: Melhor = 870.672
+Iter 76: Melhor = 870.623
+Iter 80: Melhor = 870.4
+Iter 87: Melhor = 870.037
+Iter 104: Melhor = 868.71
+Iter 108: Melhor = 868.485
+Iter 111: Melhor = 861.272
+Iter 114: Melhor = 856.235
+Iter 115: Melhor = 855.397
+Iter 118: Melhor = 852.751
+Iter 123: Melhor = 852.04
+Iter 126: Melhor = 847.188
+Iter 137: Melhor = 846.041
+Iter 138: Melhor = 844.028
+Iter 144: Melhor = 843.996
+Iter 149: Melhor = 842.888
+Iter 152: Melhor = 841.054
+Iter 155: Melhor = 840.731
+Iter 170: Melhor = 838.322
+Iter 198: Melhor = 836.788
+Iter 217: Melhor = 833.057
+Iter 241: Melhor = 832.637
+Iter 269: Melhor = 828.151
+
+=== RESULTADO FINAL ===
+Custo Total: 828.15
+Veiculos Usados: 4
+Tempo: 0.17 s
+Rota 1: 0 -> 28 -> 12 -> 76 -> 50 -> 78 -> 34 -> 35 -> 65 -> 71 -> 9 -> 81 -> 3 -> 77 -> 68 -> 80 -> 54 -> 4 -> 56 -> 26 -> 0
+Rota 2: 0 -> 27 -> 69 -> 30 -> 90 -> 63 -> 11 -> 64 -> 49 -> 36 -> 46 -> 47 -> 19 -> 48 -> 8 -> 83 -> 18 -> 60 -> 84 -> 17 -> 5 -> 99 -> 96 -> 59 -> 93 -> 91 -> 100 -> 37 -> 97 -> 13 -> 89 -> 0
+Rota 3: 0 -> 6 -> 94 -> 95 -> 92 -> 98 -> 85 -> 61 -> 16 -> 44 -> 14 -> 43 -> 15 -> 57 -> 41 -> 22 -> 74 -> 73 -> 40 -> 58 -> 53 -> 0
+Rota 4: 0 -> 52 -> 31 -> 88 -> 62 -> 7 -> 82 -> 45 -> 86 -> 38 -> 42 -> 87 -> 2 -> 21 -> 72 -> 75 -> 23 -> 67 -> 39 -> 25 -> 55 -> 24 -> 29 -> 79 -> 33 -> 51 -> 20 -> 66 -> 32 -> 10 -> 70 -> 1 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc101.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc101.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2711.3 | Veiculos: 27
+Iter 0: Melhor = 2586.52
+Iter 1: Melhor = 2510.19
+Iter 2: Melhor = 2378.94
+Iter 3: Melhor = 2243.41
+Iter 4: Melhor = 2146.17
+Iter 5: Melhor = 2138.29
+Iter 6: Melhor = 2063.55
+Iter 7: Melhor = 2057.27
+Iter 9: Melhor = 2044.17
+Iter 10: Melhor = 2015.9
+Iter 11: Melhor = 2006.9
+Iter 12: Melhor = 1980.52
+Iter 13: Melhor = 1979.51
+Iter 15: Melhor = 1979.32
+Iter 16: Melhor = 1966.68
+Iter 19: Melhor = 1965.04
+Iter 20: Melhor = 1954.82
+Iter 21: Melhor = 1954.4
+Iter 24: Melhor = 1947.87
+Iter 25: Melhor = 1942.91
+Iter 26: Melhor = 1908.96
+Iter 31: Melhor = 1908
+Iter 35: Melhor = 1894.66
+Iter 46: Melhor = 1893.73
+Iter 52: Melhor = 1893.73
+Iter 53: Melhor = 1893.36
+Iter 54: Melhor = 1892.94
+Iter 57: Melhor = 1890.58
+Iter 71: Melhor = 1877.17
+Iter 72: Melhor = 1870.53
+Iter 78: Melhor = 1869.93
+Iter 86: Melhor = 1868.78
+Iter 98: Melhor = 1868.37
+Iter 100: Melhor = 1864.71
+Iter 103: Melhor = 1864.59
+Iter 105: Melhor = 1856.47
+Iter 107: Melhor = 1855.38
+Iter 113: Melhor = 1850.78
+Iter 138: Melhor = 1846.4
+Iter 202: Melhor = 1846.4
+Iter 205: Melhor = 1846.39
+Iter 272: Melhor = 1846.39
+Iter 319: Melhor = 1843.83
+Iter 323: Melhor = 1841.02
+Iter 387: Melhor = 1800.35
+Iter 395: Melhor = 1793.38
+Iter 402: Melhor = 1793.38
+
+=== RESULTADO FINAL ===
+Custo Total: 1793.38
+Veiculos Usados: 19
+Tempo: 0.11 s
+Rota 1: 0 -> 99 -> 57 -> 74 -> 58 -> 0
+Rota 2: 0 -> 27 -> 29 -> 31 -> 34 -> 50 -> 80 -> 0
+Rota 3: 0 -> 72 -> 39 -> 36 -> 40 -> 38 -> 41 -> 54 -> 96 -> 0
+Rota 4: 0 -> 69 -> 98 -> 73 -> 79 -> 46 -> 4 -> 100 -> 0
+Rota 5: 0 -> 95 -> 62 -> 85 -> 51 -> 84 -> 56 -> 0
+Rota 6: 0 -> 65 -> 52 -> 86 -> 87 -> 97 -> 13 -> 17 -> 0
+Rota 7: 0 -> 45 -> 5 -> 3 -> 1 -> 70 -> 0
+Rota 8: 0 -> 82 -> 12 -> 11 -> 9 -> 10 -> 0
+Rota 9: 0 -> 64 -> 22 -> 18 -> 48 -> 24 -> 0
+Rota 10: 0 -> 14 -> 47 -> 16 -> 15 -> 78 -> 60 -> 0
+Rota 11: 0 -> 2 -> 8 -> 7 -> 6 -> 55 -> 68 -> 0
+Rota 12: 0 -> 63 -> 76 -> 89 -> 91 -> 0
+Rota 13: 0 -> 59 -> 75 -> 77 -> 25 -> 0
+Rota 14: 0 -> 83 -> 23 -> 21 -> 19 -> 49 -> 20 -> 66 -> 0
+Rota 15: 0 -> 92 -> 33 -> 30 -> 28 -> 26 -> 32 -> 93 -> 0
+Rota 16: 0 -> 61 -> 81 -> 90 -> 0
+Rota 17: 0 -> 88 -> 53 -> 0
+Rota 18: 0 -> 42 -> 44 -> 43 -> 37 -> 35 -> 0
+Rota 19: 0 -> 71 -> 67 -> 94 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc102.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc102.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2647.1 | Veiculos: 27
+Iter 0: Melhor = 2407.74
+Iter 1: Melhor = 2352.05
+Iter 2: Melhor = 2213.12
+Iter 3: Melhor = 2144.8
+Iter 5: Melhor = 2128.88
+Iter 6: Melhor = 2012.16
+Iter 7: Melhor = 1970.12
+Iter 8: Melhor = 1934.18
+Iter 9: Melhor = 1930.43
+Iter 10: Melhor = 1838.26
+Iter 11: Melhor = 1754.68
+Iter 12: Melhor = 1751.79
+Iter 14: Melhor = 1729.52
+Iter 22: Melhor = 1697.4
+Iter 25: Melhor = 1657.51
+Iter 31: Melhor = 1649.04
+Iter 32: Melhor = 1639.05
+Iter 35: Melhor = 1638.58
+Iter 39: Melhor = 1636.11
+Iter 46: Melhor = 1634.27
+Iter 48: Melhor = 1633.67
+Iter 49: Melhor = 1633.51
+Iter 50: Melhor = 1633.26
+Iter 54: Melhor = 1625.2
+Iter 59: Melhor = 1624.35
+Iter 64: Melhor = 1620.69
+Iter 69: Melhor = 1619.53
+Iter 70: Melhor = 1618.97
+Iter 101: Melhor = 1617.24
+Iter 149: Melhor = 1616.17
+Iter 154: Melhor = 1611.25
+Iter 159: Melhor = 1610.54
+Iter 172: Melhor = 1606.48
+Iter 174: Melhor = 1600.43
+Iter 199: Melhor = 1596.25
+Iter 200: Melhor = 1574.08
+Iter 203: Melhor = 1572.71
+Iter 336: Melhor = 1568.93
+Iter 353: Melhor = 1567.14
+Iter 359: Melhor = 1567.01
+Iter 364: Melhor = 1551.05
+Iter 365: Melhor = 1548.8
+Iter 366: Melhor = 1547.7
+Iter 368: Melhor = 1546.3
+Iter 572: Melhor = 1537.91
+
+=== RESULTADO FINAL ===
+Custo Total: 1537.91
+Veiculos Usados: 15
+Tempo: 0.13 s
+Rota 1: 0 -> 65 -> 99 -> 57 -> 86 -> 74 -> 52 -> 0
+Rota 2: 0 -> 96 -> 71 -> 67 -> 84 -> 56 -> 66 -> 0
+Rota 3: 0 -> 39 -> 36 -> 40 -> 38 -> 41 -> 43 -> 35 -> 37 -> 72 -> 0
+Rota 4: 0 -> 92 -> 62 -> 64 -> 22 -> 21 -> 25 -> 77 -> 0
+Rota 5: 0 -> 85 -> 63 -> 51 -> 76 -> 89 -> 0
+Rota 6: 0 -> 2 -> 45 -> 6 -> 8 -> 46 -> 4 -> 5 -> 3 -> 1 -> 70 -> 0
+Rota 7: 0 -> 69 -> 88 -> 53 -> 55 -> 68 -> 0
+Rota 8: 0 -> 82 -> 11 -> 9 -> 10 -> 13 -> 17 -> 12 -> 0
+Rota 9: 0 -> 14 -> 47 -> 15 -> 16 -> 87 -> 59 -> 97 -> 75 -> 58 -> 0
+Rota 10: 0 -> 98 -> 73 -> 79 -> 78 -> 60 -> 7 -> 100 -> 0
+Rota 11: 0 -> 19 -> 23 -> 48 -> 18 -> 49 -> 20 -> 24 -> 83 -> 0
+Rota 12: 0 -> 91 -> 95 -> 33 -> 29 -> 31 -> 34 -> 93 -> 94 -> 0
+Rota 13: 0 -> 27 -> 26 -> 28 -> 30 -> 32 -> 50 -> 80 -> 0
+Rota 14: 0 -> 42 -> 44 -> 61 -> 81 -> 54 -> 0
+Rota 15: 0 -> 90 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc103.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc103.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2220.76 | Veiculos: 23
+Iter 0: Melhor = 2005.18
+Iter 1: Melhor = 1952.21
+Iter 2: Melhor = 1890.38
+Iter 3: Melhor = 1845.13
+Iter 4: Melhor = 1803.06
+Iter 5: Melhor = 1777.63
+Iter 6: Melhor = 1739.29
+Iter 7: Melhor = 1714.55
+Iter 10: Melhor = 1665.71
+Iter 11: Melhor = 1649.21
+Iter 13: Melhor = 1630.26
+Iter 15: Melhor = 1603.68
+Iter 16: Melhor = 1597.78
+Iter 18: Melhor = 1547.44
+Iter 19: Melhor = 1510.18
+Iter 21: Melhor = 1505.8
+Iter 22: Melhor = 1499.39
+Iter 24: Melhor = 1496.83
+Iter 25: Melhor = 1496.68
+Iter 27: Melhor = 1452.42
+Iter 30: Melhor = 1450.51
+Iter 34: Melhor = 1441.52
+Iter 38: Melhor = 1440.43
+Iter 40: Melhor = 1439.82
+Iter 43: Melhor = 1436.54
+Iter 44: Melhor = 1428.02
+Iter 51: Melhor = 1427.63
+Iter 57: Melhor = 1422.17
+Iter 90: Melhor = 1420.12
+Iter 103: Melhor = 1419.03
+Iter 157: Melhor = 1414.82
+Iter 166: Melhor = 1414.35
+Iter 187: Melhor = 1413.58
+Iter 201: Melhor = 1406.29
+Iter 383: Melhor = 1405.85
+Iter 526: Melhor = 1405.62
+Iter 547: Melhor = 1404.92
+Iter 567: Melhor = 1404.03
+Iter 572: Melhor = 1403.32
+Iter 573: Melhor = 1403.27
+Iter 577: Melhor = 1400.47
+Iter 579: Melhor = 1399.47
+Iter 581: Melhor = 1398.49
+Iter 583: Melhor = 1395.28
+Iter 586: Melhor = 1393.88
+Iter 854: Melhor = 1393.72
+
+=== RESULTADO FINAL ===
+Custo Total: 1393.72
+Veiculos Usados: 13
+Tempo: 0.12 s
+Rota 1: 0 -> 69 -> 88 -> 53 -> 60 -> 73 -> 17 -> 47 -> 14 -> 0
+Rota 2: 0 -> 51 -> 89 -> 76 -> 84 -> 56 -> 0
+Rota 3: 0 -> 92 -> 62 -> 27 -> 26 -> 28 -> 29 -> 71 -> 93 -> 96 -> 0
+Rota 4: 0 -> 7 -> 79 -> 78 -> 12 -> 10 -> 13 -> 82 -> 0
+Rota 5: 0 -> 65 -> 99 -> 59 -> 97 -> 75 -> 58 -> 57 -> 0
+Rota 6: 0 -> 64 -> 20 -> 49 -> 22 -> 66 -> 0
+Rota 7: 0 -> 85 -> 63 -> 33 -> 30 -> 32 -> 31 -> 34 -> 50 -> 95 -> 91 -> 0
+Rota 8: 0 -> 1 -> 3 -> 45 -> 5 -> 46 -> 8 -> 6 -> 4 -> 2 -> 100 -> 70 -> 0
+Rota 9: 0 -> 98 -> 16 -> 15 -> 11 -> 9 -> 87 -> 74 -> 86 -> 52 -> 90 -> 0
+Rota 10: 0 -> 39 -> 36 -> 40 -> 35 -> 37 -> 72 -> 54 -> 81 -> 0
+Rota 11: 0 -> 83 -> 24 -> 19 -> 23 -> 21 -> 48 -> 18 -> 25 -> 77 -> 0
+Rota 12: 0 -> 61 -> 42 -> 44 -> 43 -> 38 -> 41 -> 68 -> 55 -> 0
+Rota 13: 0 -> 94 -> 67 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc104.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc104.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1754.61 | Veiculos: 16
+Iter 0: Melhor = 1597.86
+Iter 1: Melhor = 1519.43
+Iter 3: Melhor = 1501.35
+Iter 6: Melhor = 1483.88
+Iter 7: Melhor = 1482.6
+Iter 8: Melhor = 1475.76
+Iter 9: Melhor = 1463.13
+Iter 11: Melhor = 1447.38
+Iter 12: Melhor = 1447.34
+Iter 16: Melhor = 1444.32
+Iter 21: Melhor = 1439.32
+Iter 22: Melhor = 1431.01
+Iter 24: Melhor = 1417.79
+Iter 29: Melhor = 1413.52
+Iter 36: Melhor = 1410.75
+Iter 37: Melhor = 1407.71
+Iter 42: Melhor = 1402.85
+Iter 45: Melhor = 1395.81
+Iter 50: Melhor = 1394.29
+Iter 51: Melhor = 1389.71
+Iter 55: Melhor = 1369.85
+Iter 63: Melhor = 1369.27
+Iter 67: Melhor = 1368.94
+Iter 81: Melhor = 1368.07
+Iter 84: Melhor = 1352.34
+Iter 85: Melhor = 1335.4
+Iter 86: Melhor = 1331.25
+Iter 99: Melhor = 1324.73
+Iter 101: Melhor = 1324.69
+Iter 102: Melhor = 1324.37
+Iter 109: Melhor = 1317.3
+Iter 119: Melhor = 1315.89
+Iter 148: Melhor = 1315.52
+Iter 173: Melhor = 1313.78
+Iter 175: Melhor = 1309.92
+Iter 216: Melhor = 1309.7
+Iter 221: Melhor = 1308.97
+Iter 228: Melhor = 1304.81
+Iter 241: Melhor = 1303.17
+Iter 242: Melhor = 1302.68
+Iter 244: Melhor = 1302.2
+Iter 259: Melhor = 1301.8
+Iter 268: Melhor = 1301.74
+Iter 272: Melhor = 1301.32
+Iter 295: Melhor = 1301.1
+Iter 355: Melhor = 1299.77
+Iter 360: Melhor = 1299.68
+Iter 364: Melhor = 1298.8
+Iter 365: Melhor = 1292.75
+Iter 422: Melhor = 1292.64
+Iter 439: Melhor = 1291.23
+Iter 443: Melhor = 1290.47
+Iter 468: Melhor = 1289.47
+Iter 481: Melhor = 1289.37
+Iter 616: Melhor = 1289.3
+Iter 677: Melhor = 1284.35
+Iter 700: Melhor = 1284.35
+Iter 714: Melhor = 1283.42
+Iter 717: Melhor = 1283.41
+Iter 730: Melhor = 1283.15
+Iter 732: Melhor = 1282.71
+Iter 742: Melhor = 1281.85
+Iter 743: Melhor = 1275.88
+Iter 750: Melhor = 1275.85
+Iter 751: Melhor = 1272.52
+Iter 754: Melhor = 1271.31
+Iter 758: Melhor = 1271.08
+Iter 759: Melhor = 1260.39
+Iter 766: Melhor = 1256.97
+Iter 774: Melhor = 1255.74
+Iter 787: Melhor = 1250.86
+Iter 800: Melhor = 1245.63
+Iter 807: Melhor = 1241.03
+
+=== RESULTADO FINAL ===
+Custo Total: 1241.03
+Veiculos Usados: 11
+Tempo: 0.12 s
+Rota 1: 0 -> 92 -> 62 -> 67 -> 84 -> 56 -> 0
+Rota 2: 0 -> 94 -> 93 -> 71 -> 96 -> 81 -> 68 -> 55 -> 0
+Rota 3: 0 -> 34 -> 31 -> 29 -> 27 -> 26 -> 28 -> 30 -> 32 -> 33 -> 50 -> 80 -> 0
+Rota 4: 0 -> 61 -> 42 -> 44 -> 39 -> 38 -> 40 -> 36 -> 35 -> 37 -> 72 -> 54 -> 0
+Rota 5: 0 -> 66 -> 83 -> 64 -> 51 -> 76 -> 89 -> 63 -> 85 -> 95 -> 91 -> 0
+Rota 6: 0 -> 70 -> 2 -> 6 -> 8 -> 46 -> 4 -> 5 -> 3 -> 1 -> 100 -> 0
+Rota 7: 0 -> 90 -> 10 -> 11 -> 53 -> 9 -> 13 -> 16 -> 17 -> 47 -> 0
+Rota 8: 0 -> 12 -> 14 -> 15 -> 87 -> 59 -> 97 -> 75 -> 58 -> 65 -> 0
+Rota 9: 0 -> 20 -> 49 -> 19 -> 23 -> 21 -> 18 -> 48 -> 25 -> 24 -> 22 -> 0
+Rota 10: 0 -> 88 -> 60 -> 78 -> 73 -> 79 -> 7 -> 45 -> 43 -> 41 -> 0
+Rota 11: 0 -> 69 -> 98 -> 82 -> 99 -> 52 -> 86 -> 74 -> 77 -> 57 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc105.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc105.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2812.9 | Veiculos: 28
+Iter 0: Melhor = 2606.96
+Iter 1: Melhor = 2456.19
+Iter 2: Melhor = 2255.71
+Iter 3: Melhor = 2177.81
+Iter 4: Melhor = 2118.3
+Iter 6: Melhor = 2078.96
+Iter 7: Melhor = 2029.54
+Iter 9: Melhor = 2027.58
+Iter 10: Melhor = 1940.61
+Iter 11: Melhor = 1893.08
+Iter 12: Melhor = 1875.74
+Iter 13: Melhor = 1845.87
+Iter 15: Melhor = 1845.42
+Iter 17: Melhor = 1825.2
+Iter 21: Melhor = 1823.26
+Iter 23: Melhor = 1812.92
+Iter 29: Melhor = 1807.19
+Iter 31: Melhor = 1804.18
+Iter 32: Melhor = 1785.36
+Iter 33: Melhor = 1759.51
+Iter 39: Melhor = 1758.1
+Iter 42: Melhor = 1749.22
+Iter 45: Melhor = 1747.95
+Iter 51: Melhor = 1745.8
+Iter 53: Melhor = 1740.09
+Iter 56: Melhor = 1731
+Iter 65: Melhor = 1729.07
+Iter 68: Melhor = 1726.86
+Iter 70: Melhor = 1724.32
+Iter 76: Melhor = 1704.4
+Iter 87: Melhor = 1704.22
+Iter 100: Melhor = 1698.19
+Iter 101: Melhor = 1690.8
+Iter 106: Melhor = 1689.11
+Iter 113: Melhor = 1683.78
+Iter 130: Melhor = 1671.88
+Iter 143: Melhor = 1668.92
+Iter 169: Melhor = 1663.19
+Iter 186: Melhor = 1660.31
+Iter 204: Melhor = 1656.4
+Iter 238: Melhor = 1655.32
+Iter 249: Melhor = 1644.39
+Iter 253: Melhor = 1643.77
+Iter 256: Melhor = 1641.24
+Iter 260: Melhor = 1635.51
+Iter 262: Melhor = 1634.51
+Iter 264: Melhor = 1633.64
+Iter 297: Melhor = 1633.27
+Iter 298: Melhor = 1613.14
+Iter 303: Melhor = 1607.68
+Iter 313: Melhor = 1607.44
+Iter 317: Melhor = 1598
+Iter 395: Melhor = 1597.87
+Iter 560: Melhor = 1575.85
+Iter 581: Melhor = 1575.05
+Iter 582: Melhor = 1570.44
+Iter 602: Melhor = 1565.94
+Iter 622: Melhor = 1560.95
+Iter 648: Melhor = 1559.56
+Iter 655: Melhor = 1557.9
+Iter 714: Melhor = 1557.77
+Iter 889: Melhor = 1555.05
+Iter 905: Melhor = 1553.77
+Iter 909: Melhor = 1552.03
+
+=== RESULTADO FINAL ===
+Custo Total: 1552.03
+Veiculos Usados: 16
+Tempo: 0.12 s
+Rota 1: 0 -> 65 -> 99 -> 52 -> 57 -> 74 -> 0
+Rota 2: 0 -> 39 -> 36 -> 37 -> 38 -> 40 -> 35 -> 43 -> 70 -> 0
+Rota 3: 0 -> 69 -> 98 -> 53 -> 0
+Rota 4: 0 -> 83 -> 19 -> 23 -> 18 -> 22 -> 49 -> 20 -> 77 -> 0
+Rota 5: 0 -> 42 -> 44 -> 41 -> 72 -> 54 -> 0
+Rota 6: 0 -> 92 -> 62 -> 67 -> 84 -> 56 -> 66 -> 0
+Rota 7: 0 -> 82 -> 11 -> 9 -> 10 -> 13 -> 17 -> 0
+Rota 8: 0 -> 64 -> 86 -> 87 -> 59 -> 97 -> 75 -> 58 -> 0
+Rota 9: 0 -> 12 -> 14 -> 15 -> 16 -> 47 -> 78 -> 55 -> 68 -> 0
+Rota 10: 0 -> 61 -> 81 -> 71 -> 94 -> 80 -> 0
+Rota 11: 0 -> 2 -> 45 -> 3 -> 5 -> 8 -> 6 -> 7 -> 46 -> 4 -> 1 -> 100 -> 0
+Rota 12: 0 -> 95 -> 33 -> 30 -> 32 -> 50 -> 91 -> 0
+Rota 13: 0 -> 31 -> 29 -> 27 -> 26 -> 28 -> 34 -> 93 -> 96 -> 0
+Rota 14: 0 -> 63 -> 85 -> 51 -> 76 -> 89 -> 48 -> 21 -> 25 -> 24 -> 0
+Rota 15: 0 -> 88 -> 79 -> 73 -> 60 -> 0
+Rota 16: 0 -> 90 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc106.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc106.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2119.22 | Veiculos: 20
+Iter 0: Melhor = 2025.48
+Iter 1: Melhor = 2000.31
+Iter 2: Melhor = 1915.48
+Iter 4: Melhor = 1872.18
+Iter 5: Melhor = 1851.18
+Iter 7: Melhor = 1846.56
+Iter 9: Melhor = 1757.22
+Iter 10: Melhor = 1684.84
+Iter 11: Melhor = 1662.34
+Iter 13: Melhor = 1634.82
+Iter 15: Melhor = 1633.84
+Iter 16: Melhor = 1588.16
+Iter 18: Melhor = 1582.1
+Iter 19: Melhor = 1576.75
+Iter 22: Melhor = 1563.38
+Iter 23: Melhor = 1553.86
+Iter 29: Melhor = 1542.68
+Iter 32: Melhor = 1539.33
+Iter 35: Melhor = 1533.76
+Iter 37: Melhor = 1532.95
+Iter 47: Melhor = 1531.6
+Iter 49: Melhor = 1527.56
+Iter 52: Melhor = 1518.71
+Iter 54: Melhor = 1514.43
+Iter 59: Melhor = 1510.65
+Iter 60: Melhor = 1505.77
+Iter 67: Melhor = 1504.82
+Iter 91: Melhor = 1500.56
+Iter 99: Melhor = 1496.47
+Iter 107: Melhor = 1494.31
+Iter 109: Melhor = 1483.58
+Iter 110: Melhor = 1479.41
+Iter 111: Melhor = 1478.45
+Iter 123: Melhor = 1476.62
+Iter 124: Melhor = 1470.82
+Iter 126: Melhor = 1465.04
+Iter 132: Melhor = 1464.81
+Iter 134: Melhor = 1462.25
+Iter 138: Melhor = 1453.74
+Iter 158: Melhor = 1449.1
+Iter 184: Melhor = 1444.96
+Iter 191: Melhor = 1444.44
+Iter 226: Melhor = 1444.24
+Iter 507: Melhor = 1443.05
+Iter 577: Melhor = 1442.62
+Iter 582: Melhor = 1441.93
+Iter 600: Melhor = 1441.47
+Iter 691: Melhor = 1441.47
+
+=== RESULTADO FINAL ===
+Custo Total: 1441.47
+Veiculos Usados: 14
+Tempo: 0.12 s
+Rota 1: 0 -> 42 -> 39 -> 38 -> 40 -> 36 -> 35 -> 37 -> 54 -> 0
+Rota 2: 0 -> 82 -> 99 -> 57 -> 86 -> 74 -> 58 -> 77 -> 0
+Rota 3: 0 -> 95 -> 85 -> 63 -> 76 -> 89 -> 48 -> 25 -> 0
+Rota 4: 0 -> 71 -> 72 -> 41 -> 44 -> 43 -> 68 -> 0
+Rota 5: 0 -> 88 -> 6 -> 7 -> 8 -> 46 -> 4 -> 3 -> 1 -> 70 -> 100 -> 0
+Rota 6: 0 -> 11 -> 12 -> 14 -> 47 -> 15 -> 16 -> 9 -> 10 -> 0
+Rota 7: 0 -> 65 -> 52 -> 87 -> 59 -> 75 -> 97 -> 13 -> 17 -> 0
+Rota 8: 0 -> 92 -> 67 -> 33 -> 30 -> 32 -> 50 -> 80 -> 0
+Rota 9: 0 -> 83 -> 64 -> 20 -> 49 -> 22 -> 24 -> 66 -> 0
+Rota 10: 0 -> 2 -> 45 -> 5 -> 79 -> 73 -> 78 -> 60 -> 55 -> 0
+Rota 11: 0 -> 23 -> 21 -> 18 -> 19 -> 51 -> 84 -> 56 -> 91 -> 0
+Rota 12: 0 -> 62 -> 31 -> 29 -> 27 -> 28 -> 26 -> 34 -> 93 -> 0
+Rota 13: 0 -> 61 -> 81 -> 96 -> 94 -> 0
+Rota 14: 0 -> 69 -> 98 -> 53 -> 90 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc107.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc107.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1952.33 | Veiculos: 18
+Iter 0: Melhor = 1868.35
+Iter 1: Melhor = 1771.51
+Iter 2: Melhor = 1750.55
+Iter 4: Melhor = 1709.57
+Iter 5: Melhor = 1667.63
+Iter 7: Melhor = 1557.36
+Iter 9: Melhor = 1556.77
+Iter 14: Melhor = 1530.7
+Iter 16: Melhor = 1523.73
+Iter 20: Melhor = 1514.69
+Iter 21: Melhor = 1481.92
+Iter 22: Melhor = 1477.37
+Iter 24: Melhor = 1471.67
+Iter 25: Melhor = 1471.14
+Iter 31: Melhor = 1466.53
+Iter 33: Melhor = 1460.47
+Iter 37: Melhor = 1457.4
+Iter 38: Melhor = 1447.52
+Iter 40: Melhor = 1446.34
+Iter 41: Melhor = 1443.73
+Iter 42: Melhor = 1442.21
+Iter 44: Melhor = 1433.85
+Iter 46: Melhor = 1429.26
+Iter 50: Melhor = 1426.56
+Iter 55: Melhor = 1424.17
+Iter 62: Melhor = 1422.4
+Iter 63: Melhor = 1413.64
+Iter 65: Melhor = 1411.52
+Iter 67: Melhor = 1408.39
+Iter 85: Melhor = 1396.35
+Iter 88: Melhor = 1394.1
+Iter 90: Melhor = 1393.39
+Iter 108: Melhor = 1393.3
+Iter 358: Melhor = 1388.28
+Iter 400: Melhor = 1377.68
+Iter 417: Melhor = 1365.97
+Iter 428: Melhor = 1365.55
+Iter 446: Melhor = 1365.34
+Iter 453: Melhor = 1365
+Iter 480: Melhor = 1364.97
+Iter 484: Melhor = 1364.88
+Iter 486: Melhor = 1364.54
+Iter 658: Melhor = 1364.13
+Iter 752: Melhor = 1362.98
+Iter 771: Melhor = 1362.63
+Iter 887: Melhor = 1362.43
+
+=== RESULTADO FINAL ===
+Custo Total: 1362.43
+Veiculos Usados: 13
+Tempo: 0.12 s
+Rota 1: 0 -> 99 -> 52 -> 57 -> 86 -> 59 -> 97 -> 58 -> 74 -> 0
+Rota 2: 0 -> 41 -> 38 -> 39 -> 42 -> 44 -> 43 -> 40 -> 37 -> 35 -> 36 -> 0
+Rota 3: 0 -> 65 -> 75 -> 19 -> 49 -> 20 -> 22 -> 24 -> 66 -> 0
+Rota 4: 0 -> 95 -> 84 -> 85 -> 63 -> 89 -> 76 -> 56 -> 0
+Rota 5: 0 -> 61 -> 81 -> 94 -> 93 -> 96 -> 54 -> 0
+Rota 6: 0 -> 69 -> 98 -> 53 -> 88 -> 6 -> 7 -> 8 -> 46 -> 100 -> 55 -> 0
+Rota 7: 0 -> 82 -> 87 -> 13 -> 16 -> 15 -> 11 -> 9 -> 10 -> 0
+Rota 8: 0 -> 12 -> 14 -> 47 -> 17 -> 73 -> 79 -> 78 -> 60 -> 0
+Rota 9: 0 -> 83 -> 64 -> 51 -> 21 -> 18 -> 48 -> 23 -> 25 -> 77 -> 0
+Rota 10: 0 -> 2 -> 4 -> 45 -> 5 -> 3 -> 1 -> 70 -> 68 -> 0
+Rota 11: 0 -> 72 -> 71 -> 31 -> 29 -> 27 -> 26 -> 33 -> 91 -> 0
+Rota 12: 0 -> 92 -> 67 -> 62 -> 28 -> 30 -> 32 -> 34 -> 50 -> 80 -> 0
+Rota 13: 0 -> 90 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc108.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc108.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1792.98 | Veiculos: 15
+Iter 0: Melhor = 1709.61
+Iter 1: Melhor = 1704.15
+Iter 4: Melhor = 1649.76
+Iter 5: Melhor = 1533.81
+Iter 6: Melhor = 1522.77
+Iter 8: Melhor = 1475.32
+Iter 9: Melhor = 1442.24
+Iter 10: Melhor = 1437.38
+Iter 11: Melhor = 1423.62
+Iter 13: Melhor = 1396.25
+Iter 15: Melhor = 1393.28
+Iter 20: Melhor = 1377.46
+Iter 22: Melhor = 1372.22
+Iter 26: Melhor = 1367.9
+Iter 31: Melhor = 1366.73
+Iter 32: Melhor = 1356.22
+Iter 36: Melhor = 1356
+Iter 39: Melhor = 1350.06
+Iter 41: Melhor = 1342.2
+Iter 45: Melhor = 1341.48
+Iter 66: Melhor = 1337.65
+Iter 68: Melhor = 1335
+Iter 71: Melhor = 1333.36
+Iter 74: Melhor = 1332.89
+Iter 86: Melhor = 1313.11
+Iter 91: Melhor = 1312.79
+Iter 110: Melhor = 1311.16
+Iter 113: Melhor = 1310.84
+Iter 118: Melhor = 1310.37
+Iter 207: Melhor = 1305.21
+Iter 212: Melhor = 1294.04
+Iter 214: Melhor = 1291.96
+Iter 237: Melhor = 1282.73
+Iter 261: Melhor = 1282.38
+Iter 331: Melhor = 1281.32
+Iter 354: Melhor = 1275.91
+Iter 909: Melhor = 1275.88
+Iter 913: Melhor = 1275.25
+Iter 933: Melhor = 1274.79
+
+=== RESULTADO FINAL ===
+Custo Total: 1274.79
+Veiculos Usados: 11
+Tempo: 0.12 s
+Rota 1: 0 -> 65 -> 99 -> 52 -> 57 -> 86 -> 87 -> 59 -> 58 -> 77 -> 0
+Rota 2: 0 -> 61 -> 39 -> 38 -> 37 -> 35 -> 36 -> 40 -> 43 -> 68 -> 0
+Rota 3: 0 -> 81 -> 94 -> 67 -> 50 -> 34 -> 93 -> 0
+Rota 4: 0 -> 64 -> 51 -> 76 -> 89 -> 20 -> 22 -> 24 -> 83 -> 66 -> 0
+Rota 5: 0 -> 72 -> 41 -> 42 -> 44 -> 1 -> 3 -> 5 -> 45 -> 4 -> 100 -> 55 -> 0
+Rota 6: 0 -> 69 -> 98 -> 53 -> 10 -> 11 -> 12 -> 14 -> 47 -> 17 -> 60 -> 0
+Rota 7: 0 -> 88 -> 78 -> 73 -> 79 -> 7 -> 8 -> 46 -> 6 -> 2 -> 70 -> 0
+Rota 8: 0 -> 82 -> 9 -> 13 -> 15 -> 16 -> 97 -> 75 -> 74 -> 0
+Rota 9: 0 -> 90 -> 49 -> 19 -> 18 -> 48 -> 21 -> 23 -> 25 -> 0
+Rota 10: 0 -> 92 -> 95 -> 62 -> 63 -> 85 -> 84 -> 56 -> 91 -> 96 -> 54 -> 0
+Rota 11: 0 -> 71 -> 31 -> 29 -> 27 -> 26 -> 28 -> 30 -> 32 -> 33 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc201.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc201.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2468.25 | Veiculos: 15
+Iter 0: Melhor = 2244.32
+Iter 1: Melhor = 2111.88
+Iter 2: Melhor = 2006.66
+Iter 3: Melhor = 1961.37
+Iter 4: Melhor = 1896.6
+Iter 5: Melhor = 1808.62
+Iter 6: Melhor = 1780.76
+Iter 7: Melhor = 1747.01
+Iter 8: Melhor = 1717.69
+Iter 9: Melhor = 1716.27
+Iter 10: Melhor = 1709.91
+Iter 11: Melhor = 1702.41
+Iter 12: Melhor = 1692.77
+Iter 13: Melhor = 1680.03
+Iter 16: Melhor = 1610.54
+Iter 17: Melhor = 1594.6
+Iter 19: Melhor = 1542.21
+Iter 22: Melhor = 1535.72
+Iter 31: Melhor = 1520.95
+Iter 33: Melhor = 1517.01
+Iter 34: Melhor = 1516.09
+Iter 37: Melhor = 1509.54
+Iter 38: Melhor = 1509.2
+Iter 44: Melhor = 1508.12
+Iter 46: Melhor = 1505.64
+Iter 47: Melhor = 1480.7
+Iter 48: Melhor = 1456.42
+Iter 52: Melhor = 1435.73
+Iter 53: Melhor = 1432.14
+Iter 54: Melhor = 1421.41
+Iter 55: Melhor = 1418.79
+Iter 59: Melhor = 1406.55
+Iter 60: Melhor = 1401.97
+Iter 61: Melhor = 1397.13
+Iter 62: Melhor = 1363.95
+Iter 64: Melhor = 1358.27
+Iter 65: Melhor = 1355.07
+Iter 66: Melhor = 1353.9
+Iter 73: Melhor = 1351.41
+Iter 78: Melhor = 1342.56
+Iter 79: Melhor = 1339.1
+Iter 85: Melhor = 1337.72
+Iter 205: Melhor = 1337.1
+Iter 844: Melhor = 1320.26
+Iter 846: Melhor = 1310.43
+
+=== RESULTADO FINAL ===
+Custo Total: 1310.43
+Veiculos Usados: 8
+Tempo: 0.13 s
+Rota 1: 0 -> 5 -> 45 -> 2 -> 88 -> 98 -> 53 -> 9 -> 10 -> 13 -> 17 -> 60 -> 0
+Rota 2: 0 -> 90 -> 99 -> 57 -> 86 -> 87 -> 97 -> 74 -> 66 -> 0
+Rota 3: 0 -> 72 -> 36 -> 39 -> 42 -> 44 -> 41 -> 38 -> 40 -> 43 -> 35 -> 37 -> 54 -> 0
+Rota 4: 0 -> 65 -> 59 -> 14 -> 47 -> 16 -> 15 -> 11 -> 12 -> 73 -> 78 -> 79 -> 7 -> 6 -> 8 -> 46 -> 3 -> 1 -> 4 -> 100 -> 70 -> 0
+Rota 5: 0 -> 83 -> 64 -> 19 -> 49 -> 22 -> 20 -> 50 -> 34 -> 32 -> 26 -> 89 -> 48 -> 24 -> 25 -> 77 -> 58 -> 0
+Rota 6: 0 -> 69 -> 82 -> 52 -> 75 -> 23 -> 21 -> 18 -> 76 -> 51 -> 85 -> 84 -> 56 -> 91 -> 80 -> 0
+Rota 7: 0 -> 92 -> 95 -> 63 -> 33 -> 28 -> 27 -> 29 -> 31 -> 30 -> 62 -> 67 -> 71 -> 94 -> 96 -> 93 -> 0
+Rota 8: 0 -> 81 -> 61 -> 68 -> 55 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc202.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc202.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2114.34 | Veiculos: 13
+Iter 0: Melhor = 1925.64
+Iter 1: Melhor = 1883.08
+Iter 2: Melhor = 1850.84
+Iter 3: Melhor = 1747.94
+Iter 4: Melhor = 1743.57
+Iter 5: Melhor = 1736.82
+Iter 6: Melhor = 1710.76
+Iter 7: Melhor = 1663.95
+Iter 8: Melhor = 1611.07
+Iter 9: Melhor = 1548.89
+Iter 10: Melhor = 1481.07
+Iter 11: Melhor = 1455.02
+Iter 12: Melhor = 1452.55
+Iter 13: Melhor = 1447.29
+Iter 14: Melhor = 1432.14
+Iter 16: Melhor = 1424.43
+Iter 17: Melhor = 1423.65
+Iter 18: Melhor = 1418.5
+Iter 20: Melhor = 1415.59
+Iter 21: Melhor = 1410.7
+Iter 23: Melhor = 1410.66
+Iter 25: Melhor = 1406.65
+Iter 26: Melhor = 1401.92
+Iter 28: Melhor = 1400.03
+Iter 29: Melhor = 1395.7
+Iter 31: Melhor = 1395.23
+Iter 32: Melhor = 1391.41
+Iter 34: Melhor = 1389.08
+Iter 36: Melhor = 1388.77
+Iter 38: Melhor = 1387.67
+Iter 42: Melhor = 1387.25
+Iter 43: Melhor = 1373.22
+Iter 51: Melhor = 1359.94
+Iter 52: Melhor = 1357.17
+Iter 55: Melhor = 1354.8
+Iter 60: Melhor = 1350.84
+Iter 77: Melhor = 1349.22
+Iter 81: Melhor = 1339.89
+Iter 85: Melhor = 1339.52
+Iter 97: Melhor = 1339.33
+Iter 123: Melhor = 1333.04
+Iter 125: Melhor = 1316.31
+Iter 129: Melhor = 1315.03
+Iter 130: Melhor = 1312.18
+Iter 134: Melhor = 1308.51
+Iter 142: Melhor = 1301.94
+Iter 154: Melhor = 1300.17
+Iter 216: Melhor = 1298.93
+Iter 217: Melhor = 1292.85
+Iter 223: Melhor = 1291.6
+Iter 270: Melhor = 1290.39
+Iter 274: Melhor = 1289.64
+Iter 468: Melhor = 1270.36
+Iter 489: Melhor = 1255.79
+Iter 491: Melhor = 1255.27
+Iter 495: Melhor = 1251.43
+Iter 497: Melhor = 1241.39
+Iter 505: Melhor = 1238.76
+Iter 511: Melhor = 1235.92
+Iter 512: Melhor = 1205.77
+Iter 518: Melhor = 1204.67
+Iter 523: Melhor = 1203.54
+Iter 534: Melhor = 1187.11
+Iter 552: Melhor = 1186.41
+Iter 574: Melhor = 1182.24
+Iter 720: Melhor = 1181.34
+Iter 756: Melhor = 1171.29
+Iter 766: Melhor = 1170.76
+
+=== RESULTADO FINAL ===
+Custo Total: 1170.76
+Veiculos Usados: 8
+Tempo: 0.14 s
+Rota 1: 0 -> 69 -> 88 -> 53 -> 10 -> 97 -> 59 -> 74 -> 58 -> 75 -> 77 -> 25 -> 83 -> 0
+Rota 2: 0 -> 81 -> 61 -> 41 -> 40 -> 43 -> 35 -> 72 -> 54 -> 68 -> 0
+Rota 3: 0 -> 90 -> 99 -> 52 -> 57 -> 86 -> 87 -> 9 -> 13 -> 17 -> 98 -> 0
+Rota 4: 0 -> 2 -> 45 -> 42 -> 39 -> 36 -> 37 -> 38 -> 44 -> 1 -> 3 -> 5 -> 8 -> 7 -> 6 -> 46 -> 4 -> 100 -> 70 -> 0
+Rota 5: 0 -> 82 -> 14 -> 47 -> 16 -> 15 -> 11 -> 12 -> 78 -> 73 -> 79 -> 60 -> 55 -> 0
+Rota 6: 0 -> 96 -> 71 -> 67 -> 62 -> 76 -> 51 -> 84 -> 56 -> 66 -> 0
+Rota 7: 0 -> 65 -> 64 -> 23 -> 21 -> 48 -> 18 -> 19 -> 49 -> 22 -> 20 -> 24 -> 89 -> 91 -> 0
+Rota 8: 0 -> 92 -> 95 -> 85 -> 63 -> 33 -> 28 -> 26 -> 27 -> 29 -> 31 -> 30 -> 32 -> 34 -> 50 -> 93 -> 94 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc203.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc203.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2073.99 | Veiculos: 13
+Iter 0: Melhor = 1864.63
+Iter 1: Melhor = 1696.23
+Iter 2: Melhor = 1660.03
+Iter 3: Melhor = 1503.06
+Iter 4: Melhor = 1489.98
+Iter 7: Melhor = 1455.14
+Iter 8: Melhor = 1390.16
+Iter 9: Melhor = 1364.79
+Iter 10: Melhor = 1326.06
+Iter 12: Melhor = 1322.1
+Iter 13: Melhor = 1280.9
+Iter 14: Melhor = 1279.41
+Iter 15: Melhor = 1279.16
+Iter 16: Melhor = 1274.4
+Iter 17: Melhor = 1205.71
+Iter 18: Melhor = 1151.61
+Iter 19: Melhor = 1129.95
+Iter 20: Melhor = 1109.14
+Iter 21: Melhor = 1108.66
+Iter 22: Melhor = 1093.41
+Iter 24: Melhor = 1084.11
+Iter 30: Melhor = 1071.69
+Iter 32: Melhor = 1067.73
+Iter 34: Melhor = 1052.38
+Iter 35: Melhor = 1038.98
+Iter 36: Melhor = 1037.38
+Iter 37: Melhor = 1033.54
+Iter 43: Melhor = 1031.75
+Iter 44: Melhor = 1028.27
+Iter 55: Melhor = 1028.03
+Iter 56: Melhor = 1026.51
+Iter 59: Melhor = 1025.28
+Iter 61: Melhor = 1024.43
+Iter 80: Melhor = 1020.78
+Iter 84: Melhor = 1020.68
+Iter 254: Melhor = 1019.61
+Iter 297: Melhor = 1017.74
+Iter 305: Melhor = 1016.91
+Iter 306: Melhor = 1016.3
+Iter 307: Melhor = 1014.78
+Iter 325: Melhor = 1014.3
+Iter 482: Melhor = 1013.03
+
+=== RESULTADO FINAL ===
+Custo Total: 1013.03
+Veiculos Usados: 6
+Tempo: 0.16 s
+Rota 1: 0 -> 90 -> 65 -> 83 -> 22 -> 49 -> 24 -> 74 -> 59 -> 97 -> 75 -> 58 -> 77 -> 25 -> 57 -> 0
+Rota 2: 0 -> 69 -> 98 -> 88 -> 53 -> 82 -> 99 -> 52 -> 86 -> 87 -> 9 -> 10 -> 13 -> 16 -> 17 -> 47 -> 73 -> 7 -> 5 -> 3 -> 1 -> 100 -> 70 -> 61 -> 0
+Rota 3: 0 -> 81 -> 54 -> 39 -> 36 -> 43 -> 42 -> 44 -> 41 -> 38 -> 40 -> 35 -> 37 -> 72 -> 71 -> 93 -> 94 -> 96 -> 0
+Rota 4: 0 -> 45 -> 60 -> 12 -> 11 -> 15 -> 14 -> 78 -> 79 -> 6 -> 8 -> 46 -> 4 -> 2 -> 55 -> 68 -> 0
+Rota 5: 0 -> 92 -> 62 -> 33 -> 28 -> 26 -> 27 -> 29 -> 31 -> 30 -> 32 -> 34 -> 50 -> 67 -> 95 -> 56 -> 66 -> 0
+Rota 6: 0 -> 64 -> 20 -> 19 -> 23 -> 21 -> 48 -> 18 -> 89 -> 76 -> 63 -> 85 -> 51 -> 84 -> 91 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc204.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc204.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1361.2 | Veiculos: 7
+Iter 0: Melhor = 1181.93
+Iter 1: Melhor = 1165.47
+Iter 2: Melhor = 1162.08
+Iter 4: Melhor = 1149.72
+Iter 5: Melhor = 1132.96
+Iter 6: Melhor = 1129.09
+Iter 7: Melhor = 1128.65
+Iter 8: Melhor = 1126.14
+Iter 11: Melhor = 1112.86
+Iter 12: Melhor = 1101.13
+Iter 14: Melhor = 1075.06
+Iter 15: Melhor = 1070.5
+Iter 16: Melhor = 1070.17
+Iter 17: Melhor = 1068.99
+Iter 18: Melhor = 1052.13
+Iter 19: Melhor = 1047.68
+Iter 20: Melhor = 1043.24
+Iter 22: Melhor = 1041.02
+Iter 23: Melhor = 1030.97
+Iter 24: Melhor = 1026.69
+Iter 25: Melhor = 1022.63
+Iter 27: Melhor = 1019.5
+Iter 28: Melhor = 997.895
+Iter 29: Melhor = 988.551
+Iter 30: Melhor = 988.205
+Iter 31: Melhor = 979.387
+Iter 33: Melhor = 965.029
+Iter 34: Melhor = 963.649
+Iter 35: Melhor = 946.549
+Iter 36: Melhor = 929.765
+Iter 37: Melhor = 928.151
+Iter 39: Melhor = 921.772
+Iter 40: Melhor = 916.574
+Iter 43: Melhor = 914.224
+Iter 48: Melhor = 913.493
+Iter 54: Melhor = 911.71
+Iter 58: Melhor = 910.579
+Iter 69: Melhor = 910.489
+Iter 74: Melhor = 906.646
+Iter 83: Melhor = 902.668
+Iter 120: Melhor = 899.728
+Iter 122: Melhor = 898.515
+Iter 446: Melhor = 894.922
+Iter 447: Melhor = 894.263
+Iter 465: Melhor = 894.082
+Iter 571: Melhor = 893.007
+Iter 589: Melhor = 892.374
+Iter 594: Melhor = 868.727
+Iter 597: Melhor = 853.528
+Iter 603: Melhor = 849.617
+Iter 611: Melhor = 849.006
+Iter 701: Melhor = 848.59
+
+=== RESULTADO FINAL ===
+Custo Total: 848.59
+Veiculos Usados: 4
+Tempo: 0.18 s
+Rota 1: 0 -> 81 -> 54 -> 96 -> 93 -> 71 -> 72 -> 41 -> 39 -> 36 -> 35 -> 37 -> 38 -> 40 -> 43 -> 44 -> 42 -> 61 -> 55 -> 88 -> 98 -> 52 -> 86 -> 74 -> 59 -> 97 -> 75 -> 58 -> 77 -> 25 -> 19 -> 49 -> 20 -> 64 -> 66 -> 0
+Rota 2: 0 -> 69 -> 10 -> 11 -> 15 -> 16 -> 17 -> 47 -> 14 -> 12 -> 53 -> 60 -> 78 -> 73 -> 79 -> 7 -> 8 -> 46 -> 45 -> 5 -> 3 -> 1 -> 4 -> 6 -> 2 -> 100 -> 70 -> 68 -> 0
+Rota 3: 0 -> 80 -> 92 -> 95 -> 62 -> 50 -> 34 -> 31 -> 29 -> 27 -> 26 -> 28 -> 30 -> 32 -> 33 -> 67 -> 94 -> 65 -> 99 -> 87 -> 9 -> 13 -> 82 -> 90 -> 0
+Rota 4: 0 -> 83 -> 57 -> 24 -> 22 -> 23 -> 21 -> 48 -> 18 -> 89 -> 76 -> 63 -> 85 -> 51 -> 84 -> 56 -> 91 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc205.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc205.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 2567.28 | Veiculos: 15
+Iter 0: Melhor = 2330.31
+Iter 1: Melhor = 2228.33
+Iter 2: Melhor = 2169.17
+Iter 3: Melhor = 1954.67
+Iter 4: Melhor = 1857.86
+Iter 5: Melhor = 1791.85
+Iter 6: Melhor = 1775.22
+Iter 7: Melhor = 1756.21
+Iter 8: Melhor = 1666.46
+Iter 11: Melhor = 1662.81
+Iter 13: Melhor = 1611.74
+Iter 14: Melhor = 1602.36
+Iter 17: Melhor = 1592.92
+Iter 18: Melhor = 1588.64
+Iter 19: Melhor = 1561.15
+Iter 21: Melhor = 1557.55
+Iter 22: Melhor = 1511.32
+Iter 23: Melhor = 1510.08
+Iter 24: Melhor = 1508.78
+Iter 27: Melhor = 1506.98
+Iter 28: Melhor = 1503.12
+Iter 31: Melhor = 1502.63
+Iter 32: Melhor = 1500.91
+Iter 33: Melhor = 1482.29
+Iter 36: Melhor = 1480.18
+Iter 39: Melhor = 1479.91
+Iter 40: Melhor = 1479.88
+Iter 41: Melhor = 1477.37
+Iter 43: Melhor = 1476.55
+Iter 44: Melhor = 1474.25
+Iter 47: Melhor = 1472.18
+Iter 48: Melhor = 1471.2
+Iter 50: Melhor = 1469.56
+Iter 53: Melhor = 1468.26
+Iter 54: Melhor = 1467.75
+Iter 58: Melhor = 1466.61
+Iter 59: Melhor = 1466.37
+Iter 62: Melhor = 1456.73
+Iter 66: Melhor = 1452.16
+Iter 70: Melhor = 1450.05
+Iter 72: Melhor = 1445.83
+Iter 95: Melhor = 1436.12
+Iter 119: Melhor = 1435.83
+Iter 171: Melhor = 1419.51
+Iter 176: Melhor = 1405.69
+Iter 177: Melhor = 1403.63
+Iter 179: Melhor = 1394.93
+Iter 180: Melhor = 1393.55
+Iter 196: Melhor = 1392.76
+Iter 212: Melhor = 1389.59
+Iter 242: Melhor = 1388.77
+Iter 243: Melhor = 1386.67
+Iter 253: Melhor = 1385.01
+Iter 257: Melhor = 1384.58
+Iter 260: Melhor = 1384.1
+Iter 261: Melhor = 1357.11
+Iter 263: Melhor = 1356.15
+Iter 264: Melhor = 1349.6
+Iter 269: Melhor = 1343.28
+Iter 271: Melhor = 1333.92
+Iter 279: Melhor = 1332.74
+Iter 282: Melhor = 1330.2
+Iter 314: Melhor = 1329.14
+Iter 349: Melhor = 1327.31
+Iter 359: Melhor = 1325.98
+Iter 736: Melhor = 1324.14
+
+=== RESULTADO FINAL ===
+Custo Total: 1324.14
+Veiculos Usados: 7
+Tempo: 0.14 s
+Rota 1: 0 -> 69 -> 88 -> 98 -> 82 -> 99 -> 52 -> 86 -> 87 -> 59 -> 75 -> 97 -> 10 -> 74 -> 13 -> 17 -> 60 -> 0
+Rota 2: 0 -> 2 -> 45 -> 5 -> 8 -> 79 -> 73 -> 78 -> 7 -> 6 -> 46 -> 4 -> 3 -> 1 -> 70 -> 100 -> 0
+Rota 3: 0 -> 94 -> 62 -> 67 -> 84 -> 50 -> 34 -> 31 -> 32 -> 89 -> 48 -> 25 -> 77 -> 58 -> 0
+Rota 4: 0 -> 61 -> 44 -> 40 -> 38 -> 41 -> 43 -> 35 -> 37 -> 54 -> 93 -> 91 -> 80 -> 0
+Rota 5: 0 -> 65 -> 83 -> 64 -> 85 -> 63 -> 76 -> 51 -> 57 -> 9 -> 53 -> 90 -> 0
+Rota 6: 0 -> 72 -> 36 -> 39 -> 42 -> 12 -> 14 -> 47 -> 16 -> 15 -> 11 -> 23 -> 21 -> 18 -> 19 -> 49 -> 22 -> 24 -> 20 -> 56 -> 66 -> 0
+Rota 7: 0 -> 92 -> 95 -> 33 -> 30 -> 27 -> 28 -> 26 -> 29 -> 71 -> 96 -> 81 -> 68 -> 55 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc206.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc206.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1820.95 | Veiculos: 9
+Iter 0: Melhor = 1690.77
+Iter 1: Melhor = 1671.49
+Iter 2: Melhor = 1657.36
+Iter 3: Melhor = 1588.06
+Iter 4: Melhor = 1576.49
+Iter 5: Melhor = 1536.11
+Iter 6: Melhor = 1513.95
+Iter 7: Melhor = 1474.92
+Iter 8: Melhor = 1426.51
+Iter 9: Melhor = 1411.6
+Iter 10: Melhor = 1401.77
+Iter 11: Melhor = 1396.37
+Iter 12: Melhor = 1392.12
+Iter 13: Melhor = 1383.77
+Iter 14: Melhor = 1379.34
+Iter 15: Melhor = 1373.58
+Iter 16: Melhor = 1365.92
+Iter 18: Melhor = 1352.37
+Iter 21: Melhor = 1343.55
+Iter 23: Melhor = 1341.35
+Iter 24: Melhor = 1339.07
+Iter 26: Melhor = 1318.82
+Iter 27: Melhor = 1314.29
+Iter 28: Melhor = 1298.06
+Iter 32: Melhor = 1294.73
+Iter 33: Melhor = 1282.99
+Iter 34: Melhor = 1278.41
+Iter 35: Melhor = 1275.73
+Iter 40: Melhor = 1274.97
+Iter 45: Melhor = 1271.18
+Iter 46: Melhor = 1253.03
+Iter 48: Melhor = 1251.45
+Iter 56: Melhor = 1248.43
+Iter 85: Melhor = 1243.89
+Iter 87: Melhor = 1243.29
+Iter 90: Melhor = 1234.03
+Iter 107: Melhor = 1220.99
+Iter 114: Melhor = 1219.7
+Iter 192: Melhor = 1208.79
+Iter 199: Melhor = 1206.59
+Iter 266: Melhor = 1205.4
+Iter 267: Melhor = 1197.33
+Iter 269: Melhor = 1195.43
+Iter 271: Melhor = 1181.45
+Iter 273: Melhor = 1178
+Iter 275: Melhor = 1176.75
+Iter 312: Melhor = 1176.15
+Iter 313: Melhor = 1174.24
+Iter 326: Melhor = 1145.37
+Iter 335: Melhor = 1142.36
+Iter 338: Melhor = 1130.82
+
+=== RESULTADO FINAL ===
+Custo Total: 1130.82
+Veiculos Usados: 7
+Tempo: 0.15 s
+Rota 1: 0 -> 81 -> 94 -> 67 -> 50 -> 34 -> 32 -> 26 -> 89 -> 48 -> 25 -> 77 -> 58 -> 74 -> 0
+Rota 2: 0 -> 71 -> 72 -> 41 -> 38 -> 37 -> 35 -> 43 -> 54 -> 93 -> 96 -> 0
+Rota 3: 0 -> 69 -> 98 -> 88 -> 2 -> 45 -> 5 -> 8 -> 46 -> 4 -> 3 -> 1 -> 100 -> 70 -> 68 -> 0
+Rota 4: 0 -> 61 -> 42 -> 39 -> 36 -> 40 -> 44 -> 6 -> 7 -> 79 -> 73 -> 78 -> 53 -> 99 -> 86 -> 57 -> 90 -> 0
+Rota 5: 0 -> 65 -> 83 -> 64 -> 51 -> 76 -> 18 -> 21 -> 23 -> 19 -> 49 -> 20 -> 22 -> 24 -> 66 -> 0
+Rota 6: 0 -> 82 -> 52 -> 11 -> 12 -> 14 -> 47 -> 16 -> 15 -> 59 -> 75 -> 97 -> 87 -> 9 -> 13 -> 10 -> 17 -> 60 -> 55 -> 0
+Rota 7: 0 -> 92 -> 95 -> 62 -> 31 -> 29 -> 27 -> 28 -> 30 -> 33 -> 63 -> 85 -> 84 -> 56 -> 91 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc207.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc207.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1981.1 | Veiculos: 10
+Iter 0: Melhor = 1905.21
+Iter 1: Melhor = 1804.4
+Iter 2: Melhor = 1787.66
+Iter 3: Melhor = 1768.97
+Iter 4: Melhor = 1735.99
+Iter 5: Melhor = 1681.71
+Iter 6: Melhor = 1603.39
+Iter 7: Melhor = 1565.45
+Iter 8: Melhor = 1512.01
+Iter 9: Melhor = 1464.65
+Iter 12: Melhor = 1413.9
+Iter 13: Melhor = 1413.72
+Iter 15: Melhor = 1406.24
+Iter 16: Melhor = 1395.04
+Iter 17: Melhor = 1392.74
+Iter 19: Melhor = 1350.3
+Iter 20: Melhor = 1339.24
+Iter 21: Melhor = 1274.72
+Iter 22: Melhor = 1268.45
+Iter 25: Melhor = 1265.93
+Iter 26: Melhor = 1238.03
+Iter 27: Melhor = 1232.11
+Iter 28: Melhor = 1223.34
+Iter 31: Melhor = 1210.29
+Iter 36: Melhor = 1209.98
+Iter 37: Melhor = 1208.3
+Iter 38: Melhor = 1201.62
+Iter 39: Melhor = 1201.03
+Iter 40: Melhor = 1199.67
+Iter 43: Melhor = 1189.23
+Iter 46: Melhor = 1181.9
+Iter 47: Melhor = 1181.58
+Iter 48: Melhor = 1176.68
+Iter 61: Melhor = 1173.58
+Iter 74: Melhor = 1173.53
+Iter 85: Melhor = 1166.78
+Iter 86: Melhor = 1154.59
+Iter 94: Melhor = 1137.86
+Iter 95: Melhor = 1136.53
+Iter 104: Melhor = 1136.49
+Iter 110: Melhor = 1122.5
+Iter 113: Melhor = 1119.57
+Iter 126: Melhor = 1115.55
+Iter 127: Melhor = 1115.53
+Iter 129: Melhor = 1114.77
+Iter 145: Melhor = 1114.73
+Iter 178: Melhor = 1114.67
+Iter 364: Melhor = 1092.76
+Iter 366: Melhor = 1086.19
+Iter 370: Melhor = 1079.72
+Iter 371: Melhor = 1075.43
+Iter 373: Melhor = 1071.75
+Iter 378: Melhor = 1071.39
+Iter 392: Melhor = 1071.23
+Iter 410: Melhor = 1071.09
+Iter 423: Melhor = 1071.04
+Iter 425: Melhor = 1069.69
+Iter 459: Melhor = 1066.76
+Iter 544: Melhor = 1066.55
+Iter 560: Melhor = 1065.82
+
+=== RESULTADO FINAL ===
+Custo Total: 1065.82
+Veiculos Usados: 5
+Tempo: 0.16 s
+Rota 1: 0 -> 65 -> 83 -> 52 -> 99 -> 82 -> 53 -> 88 -> 2 -> 5 -> 8 -> 7 -> 79 -> 73 -> 11 -> 10 -> 9 -> 97 -> 58 -> 77 -> 48 -> 20 -> 24 -> 66 -> 0
+Rota 2: 0 -> 90 -> 61 -> 72 -> 41 -> 42 -> 44 -> 40 -> 36 -> 35 -> 37 -> 38 -> 39 -> 43 -> 70 -> 100 -> 68 -> 0
+Rota 3: 0 -> 81 -> 71 -> 93 -> 94 -> 67 -> 50 -> 32 -> 26 -> 27 -> 34 -> 96 -> 54 -> 0
+Rota 4: 0 -> 92 -> 95 -> 62 -> 31 -> 29 -> 28 -> 30 -> 33 -> 63 -> 85 -> 51 -> 64 -> 57 -> 86 -> 74 -> 87 -> 13 -> 15 -> 17 -> 78 -> 46 -> 45 -> 3 -> 1 -> 4 -> 6 -> 60 -> 55 -> 0
+Rota 5: 0 -> 69 -> 98 -> 12 -> 14 -> 47 -> 16 -> 59 -> 75 -> 25 -> 23 -> 21 -> 18 -> 19 -> 49 -> 22 -> 76 -> 89 -> 84 -> 56 -> 91 -> 80 -> 0
+----------------------------------------
+INSTANCIA: instancias/rc208.txt
+--- INICIANDO LNS PARA VRPTW ---
+Instancia: instancias/rc208.txt
+Iteracoes: 1000
+DEBUG: Arquivo lido com sucesso!
+DEBUG: Numero de clientes carregados: 101
+Solucao Inicial: 1395.02 | Veiculos: 5
+Iter 0: Melhor = 1367.02
+Iter 1: Melhor = 1358.3
+Iter 2: Melhor = 1212.21
+Iter 3: Melhor = 1191.28
+Iter 4: Melhor = 1153.26
+Iter 5: Melhor = 1138.84
+Iter 6: Melhor = 1108.68
+Iter 7: Melhor = 1103.63
+Iter 11: Melhor = 1096.97
+Iter 12: Melhor = 1091
+Iter 14: Melhor = 1071.95
+Iter 15: Melhor = 1039.17
+Iter 17: Melhor = 999.859
+Iter 19: Melhor = 987.291
+Iter 28: Melhor = 980.32
+Iter 31: Melhor = 979.449
+Iter 32: Melhor = 979.122
+Iter 45: Melhor = 974.801
+Iter 47: Melhor = 974.592
+Iter 48: Melhor = 962.038
+Iter 52: Melhor = 942.671
+Iter 53: Melhor = 941.897
+Iter 54: Melhor = 934.643
+Iter 55: Melhor = 932.51
+Iter 56: Melhor = 927.489
+Iter 57: Melhor = 926.599
+Iter 58: Melhor = 908.559
+Iter 63: Melhor = 897.718
+Iter 67: Melhor = 891.98
+Iter 69: Melhor = 887.848
+Iter 72: Melhor = 887.631
+Iter 94: Melhor = 887.303
+Iter 102: Melhor = 886.769
+Iter 397: Melhor = 882.893
+Iter 405: Melhor = 881.769
+Iter 407: Melhor = 878.245
+Iter 412: Melhor = 875.107
+Iter 415: Melhor = 874.573
+Iter 432: Melhor = 874.012
+Iter 455: Melhor = 873.13
+Iter 640: Melhor = 871.967
+Iter 768: Melhor = 867.706
+
+=== RESULTADO FINAL ===
+Custo Total: 867.71
+Veiculos Usados: 5
+Tempo: 0.16 s
+Rota 1: 0 -> 61 -> 39 -> 38 -> 37 -> 35 -> 36 -> 40 -> 43 -> 44 -> 42 -> 41 -> 72 -> 54 -> 96 -> 0
+Rota 2: 0 -> 90 -> 82 -> 99 -> 52 -> 86 -> 87 -> 59 -> 97 -> 75 -> 58 -> 77 -> 25 -> 19 -> 49 -> 20 -> 22 -> 24 -> 57 -> 66 -> 0
+Rota 3: 0 -> 81 -> 71 -> 93 -> 94 -> 95 -> 56 -> 51 -> 18 -> 48 -> 21 -> 23 -> 74 -> 9 -> 10 -> 78 -> 60 -> 6 -> 4 -> 3 -> 1 -> 70 -> 100 -> 55 -> 68 -> 0
+Rota 4: 0 -> 69 -> 98 -> 88 -> 2 -> 45 -> 5 -> 46 -> 8 -> 7 -> 79 -> 73 -> 14 -> 47 -> 17 -> 16 -> 15 -> 13 -> 11 -> 12 -> 53 -> 0
+Rota 5: 0 -> 65 -> 83 -> 64 -> 84 -> 85 -> 63 -> 76 -> 89 -> 33 -> 28 -> 26 -> 27 -> 29 -> 31 -> 30 -> 32 -> 34 -> 50 -> 62 -> 67 -> 92 -> 91 -> 80 -> 0
